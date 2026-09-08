@@ -1,0 +1,8 @@
+# Scratch/temporary working files (previews, renders, intermediate output)
+/tmp/
+/output/
+
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
