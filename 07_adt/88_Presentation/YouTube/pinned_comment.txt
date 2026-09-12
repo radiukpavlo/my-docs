@@ -1,0 +1,1 @@
+Which failure mode matters most when auditing medical imaging AI: domain shift, conflicting rules, or missing evidence? We welcome specific suggestions for validating semantic reconstruction and abstention with clinicians.

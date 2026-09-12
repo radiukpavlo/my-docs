@@ -1,0 +1,408 @@
+[rtk] /!\ No hook installed — run `rtk init -g` for automatic token savings
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LC_ALL = "C.UTF-8",
+	LC_CTYPE = "C.UTF-8",
+	LC_NUMERIC = (unset),
+	LC_COLLATE = (unset),
+	LC_TIME = (unset),
+	LC_MONETARY = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the system default locale ("Ukrainian_Ukraine.1251").
+Initial Win CP for (console input, console output, system): (CP437, CP65001, CP1252)
+I changed them all to CP1252
+Rc files read (in order):
+  NONE
+Latexmk: This is Latexmk, John Collins, 9 March 2026. Version 4.88.
+Force everything to be remade.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Category 'other':
+  Rerun of 'pdflatex' forced or previously required:
+    Reason or flag: 'go_mode'
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -interaction=nonstopmode -halt-on-error -recorder -output-directory="build"  "main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(main.tex
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-05-26>
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
+Document Class: beamer 2026/01/22 v3.77 A class for typesetting presentations
+
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemodes.
+sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasedecode
+.sty))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseoption
+s.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex)))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex)))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+)))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def)))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+) (C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex)))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\xxcolor.s
+ty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty)))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+)))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty) (C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+) (C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty))
+
+Package hyperref Message: Stopped early.
+
+) (C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty)))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaserequir
+es.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecompat
+ibility.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefont.s
+ty (C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty))
+
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\sansmath
+accent.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
+y
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
+ok.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+)))))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetransl
+ator.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.s
+ty))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemisc.s
+ty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetwoscr
+eens.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseoverla
+y.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetitle.
+sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasesectio
+n.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframe.
+sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseverbat
+im.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframes
+ize.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframec
+omponents.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecolor.
+sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenotes.
+sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetoc.st
+y)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetempla
+tes.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseauxtem
+plates.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseboxes.
+sty)))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaselocals
+tructure.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenaviga
+tion.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenaviga
+tionsymbols.tex))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetheore
+ms.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasethemes
+.sty))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemedefau
+lt.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthemed
+efault.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
+default.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnertheme
+default.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beameroutertheme
+default.sty))) (beamerthemeKhNU.sty (beamerfontthemeKhNU.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty))
+(beamercolorthemeKhNU.sty) (beamerinnerthemeKhNU.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex)))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarybackgrounds.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarycalc.code.tex)) (beamerouterthemeKhNU.sty))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex)
+))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+))
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+) (C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+)
+==> First Aid for varwidth.sty applied!
+)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypositioning.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.meta.code.tex)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def) (D:\GitHub\my-docs\07_adt\CMR_Audit_Presentation\build\main.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg)) (D:\GitHub\my-docs\07_adt\CMR_Audit_Presentation\build\main.out)
+(D:\GitHub\my-docs\07_adt\CMR_Audit_Presentation\build\main.out)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
+asic-dictionary-English.dict)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
+ibliography-dictionary-English.dict)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-e
+nvironment-dictionary-English.dict)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-m
+onths-dictionary-English.dict)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-n
+umbers-dictionary-English.dict)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-t
+heorem-dictionary-English.dict)
+(D:\GitHub\my-docs\07_adt\CMR_Audit_Presentation\build\main.nav)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd)
+(C:\Users\radiu\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
+[1{C:/Users/radiu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ra
+diu/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+(content/table-8.tex) (content/table-9.tex) [2 <./logos/logo_adt-ismddc.png>]
+(content/table-1.tex) [3] [4 <./figures/fig_audit-architecture.pdf>]
+(content/equation-1.tex) (content/equation-2.tex) (content/equation-3.tex)
+(content/equation-4.tex) [5] (content/equation-5.tex) (content/equation-6.tex)
+(content/equation-7.tex) [6] (content/table-2.tex) (content/equation-8.tex)
+(content/table-3.tex) [7 <./figures/fig_transition_split_errors.pdf> <./figures
+/fig_high_impact_correlations.pdf>] (content/table-4.tex) (content/table-5.tex)
+[8 <./figures/fig_rulebook_classifier_scores.pdf>] (content/table-7.tex)
+(content/table-6.tex) (content/equation-9.tex) (content/equation-10.tex)
+[9 <./figures/fig_predicate_alignment.pdf>] [10 <./logos/logo_ceur.png> <./logo
+s/logo_cs.png> <./logos/logo_icst.png> <./logos/logo_khnu.png>]
+(D:\GitHub\my-docs\07_adt\CMR_Audit_Presentation\build\main.aux) ) <C:\Users\ra
+diu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Us
+ers\radiu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> 
+<C:\Users\radiu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt080
+0.pk><C:/Users/radiu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmex10.pfb><C:/Users/radiu/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cmextra/cmex8.pfb><C:/Users/radiu/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/radiu/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/radiu/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/radiu/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/radiu/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb><C:
+/Users/radiu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss1
+0.pfb><C:/Users/radiu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmss8.pfb><C:/Users/radiu/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><C:/Users/radiu/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmsy6.pfb><C:/Users/radiu/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/radiu/AppData/Local/Programs/M
+iKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/radiu/AppData/Local/Program
+s/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/radiu/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on D:\GitHub\my-docs\07_adt\CMR_Audit_Presentation\build\main.pd
+f (10 pages, 1599805 bytes).
+Transcript written on D:\GitHub\my-docs\07_adt\CMR_Audit_Presentation\build\mai
+n.log.
+Latexmk: Getting log file 'build/main.log'
+Latexmk: Examining 'build/main.fls'
+Latexmk: Examining 'build/main.log'
+Latexmk: Log file says output to 'build/main.pdf'
+Latexmk: All targets (build/main.pdf) are up-to-date
+
+Reverting Windows console CPs to (in,out) = (437,65001)

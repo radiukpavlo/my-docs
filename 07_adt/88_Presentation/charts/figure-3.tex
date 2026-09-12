@@ -1,0 +1,11 @@
+\begin{tikzpicture}[x=1mm,y=.85mm]
+\foreach \x/\lab in {0/0,32/.5,64/1} {
+ \draw[muted!20] (\x,0)--(\x,32);
+ \node[font=\scriptsize,anchor=north,text=muted] at (\x,-1) {\lab};
+}
+\foreach \y/\v/\lab in {29/.928/ED wall thickness,24/.863/LVEF,19/.815/RVEF,14/.766/RVEDV,9/.710/LVEDV,4/.517/LV mass} {
+ \node[font=\scriptsize,anchor=east,text=ink] at (-2,\y) {\lab};
+ \fill[greenink!65] (0,\y-1.5) rectangle (64*\v,\y+1.5);
+ \node[font=\scriptsize,anchor=west,text=ink] at (65,\y) {\pgfmathprintnumber[fixed,precision=3,zerofill,assume math mode=true]{\v}};
+}
+\end{tikzpicture}

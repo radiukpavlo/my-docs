@@ -1,0 +1,1 @@
+How can cardiac MRI analysis become more auditable? This research talk examines semantic reconstruction, conflict-aware rules, abstention, and external domain shift using ACDC and M&Ms data.

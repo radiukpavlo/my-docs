@@ -1,0 +1,16 @@
+\begin{tikzpicture}[x=.99mm,y=.92mm]
+\foreach \x/\lab in {0/0,32/0.5,64/1} {
+ \draw[muted!20] (\x,0)--(\x,27);
+ \node[font=\scriptsize,anchor=north,text=ink] at (\x,-1) {\lab};
+}
+\node[font=\scriptsize,anchor=east,text=ink] at (-2,25) {Rule decisions};
+\fill[dexpiBlue] (0,23) rectangle (40.96,27);
+\fill[amberink!65] (40.96,23) rectangle (64,27);
+\node[font=\scriptsize,text=white] at (20.48,25) {64\%};
+\node[font=\scriptsize,text=white] at (52.48,25) {36\%};
+\foreach \y/\val/\lab in {19/.644/Rule bal. acc.,13/.612/Rule macro-F1,7/.860/Classifier acc.,1/.973/Classifier AUROC} {
+ \node[font=\scriptsize,anchor=east,text=ink] at (-2,\y) {\lab};
+ \fill[dexpiBlue] (0,\y-1.3) rectangle (64*\val,\y+1.3);
+ \node[font=\scriptsize,anchor=west,text=ink] at (65,\y) {\pgfmathprintnumber[fixed,precision=3,zerofill,assume math mode=true]{\val}};
+}
+\end{tikzpicture}

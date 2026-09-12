@@ -1,0 +1,422 @@
+\begin{thebibliography}{30}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Morales et~al.(2024)Morales, Manning, and
+  Nezafat}]{Morales2024Present}
+\bibinfo{author}{M.~A. Morales}, \bibinfo{author}{W.~J. Manning},
+  \bibinfo{author}{R.~Nezafat},
+\newblock \bibinfo{title}{Present and future innovations in {AI} and cardiac
+  {MRI}},
+\newblock \bibinfo{journal}{Radiology} \bibinfo{volume}{310}
+  (\bibinfo{year}{2024}) \bibinfo{pages}{e231269}.
+  \DOIprefix\doi{10.1148/radiol.231269}.
+%Type = Article
+\bibitem[{Zhang et~al.(2024)Zhang, Fotaki, Ghadimi, Wang, Doneva, Wetzl,
+  Delfino, O'Regan, Prieto, and Epstein}]{Zhang2024Improving}
+\bibinfo{author}{Q.~Zhang}, \bibinfo{author}{A.~Fotaki},
+  \bibinfo{author}{S.~Ghadimi}, \bibinfo{author}{Y.~Wang},
+  \bibinfo{author}{M.~Doneva}, \bibinfo{author}{J.~Wetzl},
+  \bibinfo{author}{J.~G. Delfino}, \bibinfo{author}{D.~P. O'Regan},
+  \bibinfo{author}{C.~Prieto}, \bibinfo{author}{F.~H. Epstein},
+\newblock \bibinfo{title}{Improving the efficiency and accuracy of
+  cardiovascular magnetic resonance with artificial intelligence---review of
+  evidence and proposition of a roadmap to clinical translation},
+\newblock \bibinfo{journal}{Journal of Cardiovascular Magnetic Resonance}
+  \bibinfo{volume}{26} (\bibinfo{year}{2024}) \bibinfo{pages}{101051}.
+  \DOIprefix\doi{10.1016/j.jocmr.2024.101051}.
+%Type = Article
+\bibitem[{Kramer et~al.(2020)Kramer, Barkhausen, Bucciarelli-Ducci, Flamm, Kim,
+  and Nagel}]{Kramer2020Standardized}
+\bibinfo{author}{C.~M. Kramer}, \bibinfo{author}{J.~Barkhausen},
+  \bibinfo{author}{C.~Bucciarelli-Ducci}, \bibinfo{author}{S.~D. Flamm},
+  \bibinfo{author}{R.~J. Kim}, \bibinfo{author}{E.~Nagel},
+\newblock \bibinfo{title}{Standardized cardiovascular magnetic resonance
+  imaging ({CMR}) protocols: 2020 update},
+\newblock \bibinfo{journal}{Journal of Cardiovascular Magnetic Resonance}
+  \bibinfo{volume}{22} (\bibinfo{year}{2020}) \bibinfo{pages}{17}.
+  \DOIprefix\doi{10.1186/s12968-020-00607-1}.
+%Type = Article
+\bibitem[{Schulz-Menger et~al.(2020)Schulz-Menger, Bluemke, Bremerich, Flamm,
+  Fogel, Friedrich, Kim, von Knobelsdorff-Brenkenhoff, Kramer, Pennell, Plein,
+  and Nagel}]{SchulzMenger2020Standardized}
+\bibinfo{author}{J.~Schulz-Menger}, \bibinfo{author}{D.~A. Bluemke},
+  \bibinfo{author}{J.~Bremerich}, \bibinfo{author}{S.~D. Flamm},
+  \bibinfo{author}{M.~A. Fogel}, \bibinfo{author}{M.~G. Friedrich},
+  \bibinfo{author}{R.~J. Kim}, \bibinfo{author}{F.~von
+  Knobelsdorff-Brenkenhoff}, \bibinfo{author}{C.~M. Kramer},
+  \bibinfo{author}{D.~J. Pennell}, \bibinfo{author}{S.~Plein},
+  \bibinfo{author}{E.~Nagel},
+\newblock \bibinfo{title}{Standardized image interpretation and post-processing
+  in cardiovascular magnetic resonance---2020 update: Society for
+  cardiovascular magnetic resonance ({SCMR}) board of trustees task force on
+  standardized post-processing},
+\newblock \bibinfo{journal}{Journal of Cardiovascular Magnetic Resonance}
+  \bibinfo{volume}{22} (\bibinfo{year}{2020}) \bibinfo{pages}{19}.
+  \DOIprefix\doi{10.1186/s12968-020-00610-6}.
+%Type = Article
+\bibitem[{Haupt et~al.(2025)Haupt, Maurer, and Thomas}]{Haupt2025Explainable}
+\bibinfo{author}{M.~Haupt}, \bibinfo{author}{M.~H. Maurer},
+  \bibinfo{author}{R.~P. Thomas},
+\newblock \bibinfo{title}{Explainable artificial intelligence in radiological
+  cardiovascular imaging---a systematic review},
+\newblock \bibinfo{journal}{Diagnostics} \bibinfo{volume}{15}
+  (\bibinfo{year}{2025}) \bibinfo{pages}{1399}.
+  \DOIprefix\doi{10.3390/diagnostics15111399}.
+%Type = Inproceedings
+\bibitem[{Radiuk et~al.(2022)Radiuk, Kovalchuk, Slobodzian, Manziuk, Barmak,
+  and Krak}]{Radiuk2022Human}
+\bibinfo{author}{P.~Radiuk}, \bibinfo{author}{O.~Kovalchuk},
+  \bibinfo{author}{V.~Slobodzian}, \bibinfo{author}{E.~Manziuk},
+  \bibinfo{author}{O.~Barmak}, \bibinfo{author}{I.~Krak},
+\newblock \bibinfo{title}{Human-in-the-loop approach based on {MRI} and {ECG}
+  for healthcare diagnosis},
+\newblock in: \bibinfo{editor}{N.~Shakhovska},
+  \bibinfo{editor}{S.~Chr{\'e}tien}, \bibinfo{editor}{I.~Izonin},
+  \bibinfo{editor}{J.~Campos} (Eds.), \bibinfo{booktitle}{Proceedings of the
+  5th International Conference on Informatics \& Data-Driven Medicine ({IDDM}
+  2022)}, volume \bibinfo{volume}{3302} of \textit{\bibinfo{series}{CEUR
+  Workshop Proceedings}}, \bibinfo{publisher}{CEUR-WS.org},
+  \bibinfo{address}{Lyon, France}, \bibinfo{year}{2022}, pp.
+  \bibinfo{pages}{9--20}. \URLprefix
+  \url{https://ceur-ws.org/Vol-3302/paper1.pdf}.
+%Type = Article
+\bibitem[{Bernard et~al.(2018)Bernard, Lalande, Zotti, Cervenansky, Yang, Heng,
+  Cetin, Lekadir, Camara, Ballester, Sanroma, Napel, Petersen, Tziritas,
+  Grinias, Khened, Kollerathu, Krishnamurthi, Roh{\'e}, Pennec, Sermesant,
+  Isensee, Jaeger, Maier-Hein, Full, Wolf, Engelhardt, Baumgartner, Koch,
+  Wolterink, I{\v{s}}gum, Jang, Hong, Patravali, Jain, Humbert, and
+  Jodoin}]{Bernard2018Deep}
+\bibinfo{author}{O.~Bernard}, \bibinfo{author}{A.~Lalande},
+  \bibinfo{author}{C.~Zotti}, \bibinfo{author}{F.~Cervenansky},
+  \bibinfo{author}{X.~Yang}, \bibinfo{author}{P.-A. Heng},
+  \bibinfo{author}{I.~Cetin}, \bibinfo{author}{K.~Lekadir},
+  \bibinfo{author}{O.~Camara}, \bibinfo{author}{M.~{\'A}.~G. Ballester},
+  \bibinfo{author}{G.~Sanroma}, \bibinfo{author}{S.~Napel},
+  \bibinfo{author}{S.~E. Petersen}, \bibinfo{author}{G.~Tziritas},
+  \bibinfo{author}{E.~Grinias}, \bibinfo{author}{M.~Khened},
+  \bibinfo{author}{V.~A. Kollerathu}, \bibinfo{author}{G.~Krishnamurthi},
+  \bibinfo{author}{M.-M. Roh{\'e}}, \bibinfo{author}{X.~Pennec},
+  \bibinfo{author}{M.~Sermesant}, \bibinfo{author}{F.~Isensee},
+  \bibinfo{author}{P.~F. Jaeger}, \bibinfo{author}{K.~H. Maier-Hein},
+  \bibinfo{author}{P.~M. Full}, \bibinfo{author}{I.~Wolf},
+  \bibinfo{author}{S.~Engelhardt}, \bibinfo{author}{C.~F. Baumgartner},
+  \bibinfo{author}{L.~M. Koch}, \bibinfo{author}{J.~M. Wolterink},
+  \bibinfo{author}{I.~I{\v{s}}gum}, \bibinfo{author}{Y.~Jang},
+  \bibinfo{author}{Y.~Hong}, \bibinfo{author}{J.~Patravali},
+  \bibinfo{author}{S.~Jain}, \bibinfo{author}{O.~Humbert},
+  \bibinfo{author}{P.-M. Jodoin},
+\newblock \bibinfo{title}{Deep learning techniques for automatic {MRI} cardiac
+  multi-structures segmentation and diagnosis: is the problem solved?},
+\newblock \bibinfo{journal}{IEEE Transactions on Medical Imaging}
+  \bibinfo{volume}{37} (\bibinfo{year}{2018}) \bibinfo{pages}{2514--2525}.
+  \DOIprefix\doi{10.1109/TMI.2018.2837502}.
+%Type = Article
+\bibitem[{Campello et~al.(2021)Campello, Gkontra, Izquierdo, Mart{\'i}n-Isla,
+  Sojoudi, Full, Maier-Hein, Zhang, He, Ma, Parre{\~n}o, Albiol, Kong, Shadden,
+  Acero, Sundaresan, Saber, Elattar, Li, Menze, Khader, Haarburger, Scannell,
+  Veta, Carscadden, Punithakumar, Liu, Tsaftaris, Huang, Yang, Li, Zhuang,
+  Vilad{\'e}s, Descalzo, Guala, Mura, Friedrich, Garg, Lebel, Henriques,
+  Karakas, {\c{C}}avu{\c{s}}, Petersen, Escalera, Segu{\'i},
+  Rodr{\'i}guez-Palomares, and Lekadir}]{Campello2021MultiCentre}
+\bibinfo{author}{V.~M. Campello}, \bibinfo{author}{P.~Gkontra},
+  \bibinfo{author}{C.~Izquierdo}, \bibinfo{author}{C.~Mart{\'i}n-Isla},
+  \bibinfo{author}{A.~Sojoudi}, \bibinfo{author}{P.~M. Full},
+  \bibinfo{author}{K.~H. Maier-Hein}, \bibinfo{author}{Y.~Zhang},
+  \bibinfo{author}{Z.~He}, \bibinfo{author}{J.~Ma},
+  \bibinfo{author}{M.~Parre{\~n}o}, \bibinfo{author}{A.~Albiol},
+  \bibinfo{author}{F.~Kong}, \bibinfo{author}{S.~C. Shadden},
+  \bibinfo{author}{J.~C. Acero}, \bibinfo{author}{V.~Sundaresan},
+  \bibinfo{author}{M.~Saber}, \bibinfo{author}{M.~Elattar},
+  \bibinfo{author}{H.~Li}, \bibinfo{author}{B.~Menze},
+  \bibinfo{author}{F.~Khader}, \bibinfo{author}{C.~Haarburger},
+  \bibinfo{author}{C.~M. Scannell}, \bibinfo{author}{M.~Veta},
+  \bibinfo{author}{A.~Carscadden}, \bibinfo{author}{K.~Punithakumar},
+  \bibinfo{author}{X.~Liu}, \bibinfo{author}{S.~A. Tsaftaris},
+  \bibinfo{author}{X.~Huang}, \bibinfo{author}{X.~Yang},
+  \bibinfo{author}{L.~Li}, \bibinfo{author}{X.~Zhuang},
+  \bibinfo{author}{D.~Vilad{\'e}s}, \bibinfo{author}{M.~L. Descalzo},
+  \bibinfo{author}{A.~Guala}, \bibinfo{author}{L.~L. Mura},
+  \bibinfo{author}{M.~G. Friedrich}, \bibinfo{author}{R.~Garg},
+  \bibinfo{author}{J.~Lebel}, \bibinfo{author}{F.~Henriques},
+  \bibinfo{author}{M.~Karakas}, \bibinfo{author}{E.~{\c{C}}avu{\c{s}}},
+  \bibinfo{author}{S.~E. Petersen}, \bibinfo{author}{S.~Escalera},
+  \bibinfo{author}{S.~Segu{\'i}}, \bibinfo{author}{J.~F.
+  Rodr{\'i}guez-Palomares}, \bibinfo{author}{K.~Lekadir},
+\newblock \bibinfo{title}{Multi-centre, multi-vendor and multi-disease cardiac
+  segmentation: the {M\&Ms} challenge},
+\newblock \bibinfo{journal}{IEEE Transactions on Medical Imaging}
+  \bibinfo{volume}{40} (\bibinfo{year}{2021}) \bibinfo{pages}{3543--3554}.
+  \DOIprefix\doi{10.1109/TMI.2021.3090082}.
+%Type = Inproceedings
+\bibitem[{Guo et~al.(2017)Guo, Pleiss, Sun, and
+  Weinberger}]{Guo2017Calibration}
+\bibinfo{author}{C.~Guo}, \bibinfo{author}{G.~Pleiss},
+  \bibinfo{author}{Y.~Sun}, \bibinfo{author}{K.~Q. Weinberger},
+\newblock \bibinfo{title}{On calibration of modern neural networks},
+\newblock in: \bibinfo{editor}{D.~Precup}, \bibinfo{editor}{Y.~W. Teh} (Eds.),
+  \bibinfo{booktitle}{Proceedings of the 34th International Conference on
+  Machine Learning}, volume~\bibinfo{volume}{70} of
+  \textit{\bibinfo{series}{Proceedings of Machine Learning Research}},
+  \bibinfo{publisher}{PMLR}, \bibinfo{address}{Sydney, Australia},
+  \bibinfo{year}{2017}, pp. \bibinfo{pages}{1321--1330}. \URLprefix
+  \url{https://proceedings.mlr.press/v70/guo17a.html}.
+%Type = Article
+\bibitem[{Vasey et~al.(2022)Vasey, Nagendran, Campbell, Clifton, Collins,
+  Denaxas, Denniston, Faes, Geerts, Ibrahim, Liu, Mateen, Mathur, McCradden,
+  Morgan, Ordish, Rogers, Saria, Ting, Watkinson, Weber, Wheatstone, McCulloch,
+  and {{DECIDE-AI} Expert Group}}]{Vasey2022DECIDEAI}
+\bibinfo{author}{B.~Vasey}, \bibinfo{author}{M.~Nagendran},
+  \bibinfo{author}{B.~Campbell}, \bibinfo{author}{D.~A. Clifton},
+  \bibinfo{author}{G.~S. Collins}, \bibinfo{author}{S.~Denaxas},
+  \bibinfo{author}{A.~K. Denniston}, \bibinfo{author}{L.~Faes},
+  \bibinfo{author}{B.~Geerts}, \bibinfo{author}{M.~Ibrahim},
+  \bibinfo{author}{X.~Liu}, \bibinfo{author}{B.~A. Mateen},
+  \bibinfo{author}{P.~Mathur}, \bibinfo{author}{M.~D. McCradden},
+  \bibinfo{author}{L.~Morgan}, \bibinfo{author}{J.~Ordish},
+  \bibinfo{author}{C.~Rogers}, \bibinfo{author}{S.~Saria},
+  \bibinfo{author}{D.~S.~W. Ting}, \bibinfo{author}{P.~Watkinson},
+  \bibinfo{author}{W.~Weber}, \bibinfo{author}{P.~Wheatstone},
+  \bibinfo{author}{P.~McCulloch}, \bibinfo{author}{{{DECIDE-AI} Expert Group}},
+\newblock \bibinfo{title}{Reporting guideline for the early-stage clinical
+  evaluation of decision support systems driven by artificial intelligence:
+  {DECIDE-AI}},
+\newblock \bibinfo{journal}{Nature Medicine} \bibinfo{volume}{28}
+  (\bibinfo{year}{2022}) \bibinfo{pages}{924--933}.
+  \DOIprefix\doi{10.1038/s41591-022-01772-9}.
+%Type = Article
+\bibitem[{Isensee et~al.(2021)Isensee, Jaeger, Kohl, Petersen, and
+  Maier-Hein}]{Isensee2021NnUNet}
+\bibinfo{author}{F.~Isensee}, \bibinfo{author}{P.~F. Jaeger},
+  \bibinfo{author}{S.~A.~A. Kohl}, \bibinfo{author}{J.~Petersen},
+  \bibinfo{author}{K.~H. Maier-Hein},
+\newblock \bibinfo{title}{{nnU-Net}: a self-configuring method for deep
+  learning-based biomedical image segmentation},
+\newblock \bibinfo{journal}{Nature Methods} \bibinfo{volume}{18}
+  (\bibinfo{year}{2021}) \bibinfo{pages}{203--211}.
+  \DOIprefix\doi{10.1038/s41592-020-01008-z}.
+%Type = Article
+\bibitem[{Gonzales et~al.(2023)Gonzales, Ib{\'a}{\~n}ez, Hann, Popescu,
+  Burrage, Lee, Altun, Weintraub, Kwong, Kramer, Neubauer, {{Hypertrophic
+  Cardiomyopathy Registry (HCMR) Investigators}}, {{Oxford Acute Myocardial
+  Infarction (OxAMI) Study}}, Ferreira, Zhang, and
+  Piechnik}]{Gonzales2023QualityControl}
+\bibinfo{author}{R.~A. Gonzales}, \bibinfo{author}{D.~H. Ib{\'a}{\~n}ez},
+  \bibinfo{author}{E.~Hann}, \bibinfo{author}{I.~A. Popescu},
+  \bibinfo{author}{M.~K. Burrage}, \bibinfo{author}{Y.~P. Lee},
+  \bibinfo{author}{{\.{I}}.~Altun}, \bibinfo{author}{W.~S. Weintraub},
+  \bibinfo{author}{R.~Y. Kwong}, \bibinfo{author}{C.~M. Kramer},
+  \bibinfo{author}{S.~Neubauer}, \bibinfo{author}{{{Hypertrophic Cardiomyopathy
+  Registry (HCMR) Investigators}}}, \bibinfo{author}{{{Oxford Acute Myocardial
+  Infarction (OxAMI) Study}}}, \bibinfo{author}{V.~M. Ferreira},
+  \bibinfo{author}{Q.~Zhang}, \bibinfo{author}{S.~K. Piechnik},
+\newblock \bibinfo{title}{Quality control-driven deep ensemble for accountable
+  automated segmentation of cardiac magnetic resonance {LGE} and {VNE} images},
+\newblock \bibinfo{journal}{Frontiers in Cardiovascular Medicine}
+  \bibinfo{volume}{10} (\bibinfo{year}{2023}) \bibinfo{pages}{1213290}.
+  \DOIprefix\doi{10.3389/fcvm.2023.1213290}.
+%Type = Inproceedings
+\bibitem[{Janik et~al.(2021)Janik, Dodd, Ifrim, Sankaran, and
+  Curran}]{Janik2021Interpretability}
+\bibinfo{author}{A.~Janik}, \bibinfo{author}{J.~Dodd},
+  \bibinfo{author}{G.~Ifrim}, \bibinfo{author}{K.~Sankaran},
+  \bibinfo{author}{K.~M. Curran},
+\newblock \bibinfo{title}{Interpretability of a deep learning model in the
+  application of cardiac {MRI} segmentation with an {ACDC} challenge dataset},
+\newblock in: \bibinfo{editor}{I.~I{\v{s}}gum}, \bibinfo{editor}{B.~A. Landman}
+  (Eds.), \bibinfo{booktitle}{Medical Imaging 2021: Image Processing}, volume
+  \bibinfo{volume}{11596} of \textit{\bibinfo{series}{Proceedings of SPIE}},
+  \bibinfo{publisher}{SPIE}, \bibinfo{year}{2021}, p. \bibinfo{pages}{1159636}.
+  \DOIprefix\doi{10.1117/12.2582227}.
+%Type = Inproceedings
+\bibitem[{Guo et~al.(2024)Guo, Deng, Tandon, Endert, and Kwon}]{Guo2024MiMICRI}
+\bibinfo{author}{G.~Guo}, \bibinfo{author}{L.~Deng},
+  \bibinfo{author}{A.~Tandon}, \bibinfo{author}{A.~Endert},
+  \bibinfo{author}{B.~C. Kwon},
+\newblock \bibinfo{title}{{MiMICRI}: towards domain-centered counterfactual
+  explanations of cardiovascular image classification models},
+\newblock in: \bibinfo{booktitle}{Proceedings of the 2024 ACM Conference on
+  Fairness, Accountability, and Transparency}, \bibinfo{publisher}{Association
+  for Computing Machinery}, \bibinfo{address}{Rio de Janeiro, Brazil},
+  \bibinfo{year}{2024}, pp. \bibinfo{pages}{1861--1874}.
+  \DOIprefix\doi{10.1145/3630106.3659011}.
+%Type = Article
+\bibitem[{van~der Velden et~al.(2022)van~der Velden, Kuijf, Gilhuijs, and
+  Viergever}]{VanDerVelden2022Explainable}
+\bibinfo{author}{B.~H.~M. van~der Velden}, \bibinfo{author}{H.~J. Kuijf},
+  \bibinfo{author}{K.~G.~A. Gilhuijs}, \bibinfo{author}{M.~A. Viergever},
+\newblock \bibinfo{title}{Explainable artificial intelligence ({XAI}) in deep
+  learning-based medical image analysis},
+\newblock \bibinfo{journal}{Medical Image Analysis} \bibinfo{volume}{79}
+  (\bibinfo{year}{2022}) \bibinfo{pages}{102470}.
+  \DOIprefix\doi{10.1016/j.media.2022.102470}.
+%Type = Article
+\bibitem[{Borys et~al.(2023)Borys, Schmitt, Nauta, Seifert, Kr{\"a}mer,
+  Friedrich, and Nensa}]{Borys2023Explainable}
+\bibinfo{author}{K.~Borys}, \bibinfo{author}{Y.~A. Schmitt},
+  \bibinfo{author}{M.~Nauta}, \bibinfo{author}{C.~Seifert},
+  \bibinfo{author}{N.~Kr{\"a}mer}, \bibinfo{author}{C.~M. Friedrich},
+  \bibinfo{author}{F.~Nensa},
+\newblock \bibinfo{title}{Explainable {AI} in medical imaging: an overview for
+  clinical practitioners---saliency-based {XAI} approaches},
+\newblock \bibinfo{journal}{European Journal of Radiology}
+  \bibinfo{volume}{162} (\bibinfo{year}{2023}) \bibinfo{pages}{110787}.
+  \DOIprefix\doi{10.1016/j.ejrad.2023.110787}.
+%Type = Article
+\bibitem[{Chen et~al.(2022)Chen, Gomez, Huang, and
+  Unberath}]{Chen2022HumanCentered}
+\bibinfo{author}{H.~Chen}, \bibinfo{author}{C.~Gomez}, \bibinfo{author}{C.-M.
+  Huang}, \bibinfo{author}{M.~Unberath},
+\newblock \bibinfo{title}{Explainable medical imaging {AI} needs human-centered
+  design: guidelines and evidence from a systematic review},
+\newblock \bibinfo{journal}{npj Digital Medicine} \bibinfo{volume}{5}
+  (\bibinfo{year}{2022}) \bibinfo{pages}{156}.
+  \DOIprefix\doi{10.1038/s41746-022-00699-2}.
+%Type = Article
+\bibitem[{Nauta et~al.(2023)Nauta, Trienes, Pathak, Nguyen, Peters, Schmitt,
+  Schl{\"o}tterer, van Keulen, and Seifert}]{Nauta2023Anecdotal}
+\bibinfo{author}{M.~Nauta}, \bibinfo{author}{J.~Trienes},
+  \bibinfo{author}{S.~Pathak}, \bibinfo{author}{E.~Nguyen},
+  \bibinfo{author}{M.~Peters}, \bibinfo{author}{Y.~Schmitt},
+  \bibinfo{author}{J.~Schl{\"o}tterer}, \bibinfo{author}{M.~van Keulen},
+  \bibinfo{author}{C.~Seifert},
+\newblock \bibinfo{title}{From anecdotal evidence to quantitative evaluation
+  methods: a systematic review on evaluating explainable {AI}},
+\newblock \bibinfo{journal}{ACM Computing Surveys} \bibinfo{volume}{55}
+  (\bibinfo{year}{2023}) \bibinfo{pages}{295:1--295:42}.
+  \DOIprefix\doi{10.1145/3583558}.
+%Type = Article
+\bibitem[{Bienefeld et~al.(2023)Bienefeld, Boss, L{\"u}thy, Brodbeck, Azzati,
+  Blaser, Willms, and Keller}]{Bienefeld2023XAIConundrum}
+\bibinfo{author}{N.~Bienefeld}, \bibinfo{author}{J.~M. Boss},
+  \bibinfo{author}{R.~L{\"u}thy}, \bibinfo{author}{D.~Brodbeck},
+  \bibinfo{author}{J.~Azzati}, \bibinfo{author}{M.~Blaser},
+  \bibinfo{author}{J.~Willms}, \bibinfo{author}{E.~Keller},
+\newblock \bibinfo{title}{Solving the explainable {AI} conundrum by bridging
+  clinicians' needs and developers' goals},
+\newblock \bibinfo{journal}{npj Digital Medicine} \bibinfo{volume}{6}
+  (\bibinfo{year}{2023}) \bibinfo{pages}{94}.
+  \DOIprefix\doi{10.1038/s41746-023-00837-4}.
+%Type = Article
+\bibitem[{Jin et~al.(2022)Jin, Li, and Hamarneh}]{Jin2022MultimodalXAI}
+\bibinfo{author}{W.~Jin}, \bibinfo{author}{X.~Li},
+  \bibinfo{author}{G.~Hamarneh},
+\newblock \bibinfo{title}{Evaluating explainable {AI} on a multi-modal medical
+  imaging task: can existing algorithms fulfill clinical requirements?},
+\newblock \bibinfo{journal}{Proceedings of the AAAI Conference on Artificial
+  Intelligence} \bibinfo{volume}{36} (\bibinfo{year}{2022})
+  \bibinfo{pages}{11945--11953}. \DOIprefix\doi{10.1609/aaai.v36i11.21452}.
+%Type = Inproceedings
+\bibitem[{Koh et~al.(2020)Koh, Nguyen, Tang, Mussmann, Pierson, Kim, and
+  Liang}]{Koh2020Concept}
+\bibinfo{author}{P.~W. Koh}, \bibinfo{author}{T.~Nguyen},
+  \bibinfo{author}{Y.~S. Tang}, \bibinfo{author}{S.~Mussmann},
+  \bibinfo{author}{E.~Pierson}, \bibinfo{author}{B.~Kim},
+  \bibinfo{author}{P.~Liang},
+\newblock \bibinfo{title}{Concept bottleneck models},
+\newblock in: \bibinfo{editor}{H.~D. III}, \bibinfo{editor}{A.~Singh} (Eds.),
+  \bibinfo{booktitle}{Proceedings of the 37th International Conference on
+  Machine Learning}, volume \bibinfo{volume}{119} of
+  \textit{\bibinfo{series}{Proceedings of Machine Learning Research}},
+  \bibinfo{publisher}{PMLR}, \bibinfo{year}{2020}, pp.
+  \bibinfo{pages}{5338--5348}. \URLprefix
+  \url{https://proceedings.mlr.press/v119/koh20a.html}.
+%Type = Inproceedings
+\bibitem[{Kim et~al.(2018)Kim, Wattenberg, Gilmer, Cai, Wexler, Vi{\'e}gas, and
+  Sayres}]{Kim2018TCAV}
+\bibinfo{author}{B.~Kim}, \bibinfo{author}{M.~Wattenberg},
+  \bibinfo{author}{J.~Gilmer}, \bibinfo{author}{C.~J. Cai},
+  \bibinfo{author}{J.~Wexler}, \bibinfo{author}{F.~B. Vi{\'e}gas},
+  \bibinfo{author}{R.~Sayres},
+\newblock \bibinfo{title}{Interpretability beyond feature attribution:
+  quantitative testing with concept activation vectors ({TCAV})},
+\newblock in: \bibinfo{editor}{J.~Dy}, \bibinfo{editor}{A.~Krause} (Eds.),
+  \bibinfo{booktitle}{Proceedings of the 35th International Conference on
+  Machine Learning}, volume~\bibinfo{volume}{80} of
+  \textit{\bibinfo{series}{Proceedings of Machine Learning Research}},
+  \bibinfo{publisher}{PMLR}, \bibinfo{year}{2018}, pp.
+  \bibinfo{pages}{2668--2677}. \URLprefix
+  \url{https://proceedings.mlr.press/v80/kim18d.html}.
+%Type = Article
+\bibitem[{Rudin(2019)}]{Rudin2019Stop}
+\bibinfo{author}{C.~Rudin},
+\newblock \bibinfo{title}{Stop explaining black box machine learning models for
+  high stakes decisions and use interpretable models instead},
+\newblock \bibinfo{journal}{Nature Machine Intelligence} \bibinfo{volume}{1}
+  (\bibinfo{year}{2019}) \bibinfo{pages}{206--215}.
+  \DOIprefix\doi{10.1038/s42256-019-0048-x}.
+%Type = Article
+\bibitem[{Radiuk et~al.(2024)Radiuk, Barmak, Manziuk, and
+  Krak}]{Radiuk2024Explainable}
+\bibinfo{author}{P.~Radiuk}, \bibinfo{author}{O.~Barmak},
+  \bibinfo{author}{E.~Manziuk}, \bibinfo{author}{I.~Krak},
+\newblock \bibinfo{title}{Explainable deep learning: a visual analytics
+  approach with transition matrices},
+\newblock \bibinfo{journal}{Mathematics} \bibinfo{volume}{12}
+  (\bibinfo{year}{2024}) \bibinfo{pages}{1024}.
+  \DOIprefix\doi{10.3390/math12071024}.
+%Type = Article
+\bibitem[{Barmak et~al.(2024)Barmak, Krak, Yakovlev, Manziuk, Radiuk, and
+  Kuznetsov}]{Barmak2024Toward}
+\bibinfo{author}{O.~Barmak}, \bibinfo{author}{I.~Krak},
+  \bibinfo{author}{S.~Yakovlev}, \bibinfo{author}{E.~Manziuk},
+  \bibinfo{author}{P.~Radiuk}, \bibinfo{author}{V.~Kuznetsov},
+\newblock \bibinfo{title}{Toward explainable deep learning in healthcare
+  through transition matrix and user-friendly features},
+\newblock \bibinfo{journal}{Frontiers in Artificial Intelligence}
+  \bibinfo{volume}{7} (\bibinfo{year}{2024}) \bibinfo{pages}{1482141}.
+  \DOIprefix\doi{10.3389/frai.2024.1482141}.
+%Type = Article
+\bibitem[{Radiuk et~al.(2026)Radiuk, Barmak, and Krak}]{Radiuk2026SEMTRA}
+\bibinfo{author}{P.~Radiuk}, \bibinfo{author}{O.~Barmak},
+  \bibinfo{author}{I.~Krak},
+\newblock \bibinfo{title}{{SEMTRA}: global semantic transition and rough-set
+  rules for auditable post-hoc explainability},
+\newblock \bibinfo{journal}{Machine Learning and Knowledge Extraction}
+  \bibinfo{volume}{8} (\bibinfo{year}{2026}) \bibinfo{pages}{181}.
+  \DOIprefix\doi{10.3390/make8070181}.
+%Type = Article
+\bibitem[{Pawlak(1982)}]{Pawlak1982Rough}
+\bibinfo{author}{Z.~Pawlak},
+\newblock \bibinfo{title}{Rough sets},
+\newblock \bibinfo{journal}{International Journal of Computer \& Information
+  Sciences} \bibinfo{volume}{11} (\bibinfo{year}{1982})
+  \bibinfo{pages}{341--356}. \DOIprefix\doi{10.1007/BF01001956}.
+%Type = Article
+\bibitem[{Chow(1970)}]{Chow1970Optimum}
+\bibinfo{author}{C.-K. Chow},
+\newblock \bibinfo{title}{On optimum recognition error and reject tradeoff},
+\newblock \bibinfo{journal}{IEEE Transactions on Information Theory}
+  \bibinfo{volume}{16} (\bibinfo{year}{1970}) \bibinfo{pages}{41--46}.
+  \DOIprefix\doi{10.1109/TIT.1970.1054406}.
+%Type = Article
+\bibitem[{Willmott and Matsuura(2005)}]{Willmott2005Advantages}
+\bibinfo{author}{C.~J. Willmott}, \bibinfo{author}{K.~Matsuura},
+\newblock \bibinfo{title}{Advantages of the mean absolute error ({MAE}) over
+  the root mean square error ({RMSE}) in assessing average model performance},
+\newblock \bibinfo{journal}{Climate Research} \bibinfo{volume}{30}
+  (\bibinfo{year}{2005}) \bibinfo{pages}{79--82}.
+  \DOIprefix\doi{10.3354/cr030079}.
+%Type = Incollection
+\bibitem[{Benesty et~al.(2009)Benesty, Chen, Huang, and
+  Cohen}]{Benesty2009Pearson}
+\bibinfo{author}{J.~Benesty}, \bibinfo{author}{J.~Chen},
+  \bibinfo{author}{Y.~Huang}, \bibinfo{author}{I.~Cohen},
+\newblock \bibinfo{title}{Pearson correlation coefficient},
+\newblock in: \bibinfo{booktitle}{Noise Reduction in Speech Processing},
+  volume~\bibinfo{volume}{2} of \textit{\bibinfo{series}{Springer Topics in
+  Signal Processing}}, \bibinfo{publisher}{Springer}, \bibinfo{address}{Berlin,
+  Heidelberg}, \bibinfo{year}{2009}, pp. \bibinfo{pages}{1--4}.
+  \DOIprefix\doi{10.1007/978-3-642-00296-0_5}.
+
+\end{thebibliography}

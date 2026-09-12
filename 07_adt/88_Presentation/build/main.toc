@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Relevance}{2}{0}{1}
+\beamer@sectionintoc {2}{Purpose and objectives}{3}{0}{2}
+\beamer@sectionintoc {3}{Methods}{4}{0}{3}
+\beamer@sectionintoc {4}{Experiments and results}{7}{0}{4}
+\beamer@sectionintoc {5}{Conclusions and contact}{10}{0}{5}

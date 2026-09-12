@@ -1,0 +1,19 @@
+How can cardiac MRI analysis become more auditable? This research presentation connects image-derived descriptors to recognizable cardiac measurements and conflict-aware rules, with explicit abstention when evidence is insufficient.
+
+The study evaluates 150 ACDC cases and 100 external M&Ms cases. It examines semantic reconstruction, rule coverage, uncertainty, predicate alignment, and sensitivity to small image perturbations.
+
+Key findings include 86% held-out accuracy for a comparator using measured cardiac semantics, 64% coverage for the 200-rule audit, and a 2.25-fold increase in normalized reconstruction error on the external cohort. Rule balanced accuracy was 0.644 among non-abstained cases, highlighting why coverage must accompany selective performance.
+
+Scope: the evaluated release uses deterministic image-mask descriptors and frozen training tertiles, rather than a trained deep encoder or the full weighted entropy-density discretization method. The findings support selective research auditing, not autonomous diagnosis or completed clinical validation.
+
+Research manuscript:
+Auditing Deep Learning for Cardiac MRI Through Semantic Transitions and Conflict-Aware Production Rules
+
+Authors: Pavlo Radiuk, Oleksander Barmak, and Iurii Krak
+Affiliations: Khmelnytskyi National University; Taras Shevchenko National University of Kyiv; V.M. Glushkov Institute of Cybernetics.
+
+Correspondence: radiukp@khmnu.edu.ua
+
+Which validation step would most improve confidence in this audit layer: external recalibration, stronger representations, or prospective clinician evaluation?
+
+#CardiacMRI #ExplainableAI #MedicalImaging

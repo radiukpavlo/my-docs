@@ -1,0 +1,258 @@
+% !TEX program = pdflatex
+% Adapted from the supplied 87_Pres_v0.1.zip KhNU theme.
+% Exactly ten static frames; original manuscript figure/table/equation labels.
+\documentclass[12pt,aspectratio=169,xcolor=dvipsnames]{beamer}
+\geometry{paperwidth=240mm,paperheight=135mm}
+\usetheme{KhNU}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb,booktabs,tabularx,array,graphicx,adjustbox}
+\usetikzlibrary{calc,positioning,arrows.meta}
+\definecolor{ink}{HTML}{142F49}
+\definecolor{teal}{HTML}{087F8C}
+\definecolor{pale}{HTML}{EEF5FA}
+\definecolor{muted}{HTML}{546A7C}
+\setbeamercolor{normal text}{fg=ink,bg=white}
+\setbeamercolor{frametitle}{fg=ink}
+\setbeamercolor{card}{fg=ink,bg=pale}
+\setbeamercolor{signal}{fg=white,bg=teal}
+\setbeamersize{text margin left=9mm,text margin right=9mm}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{background}{}
+\usebackgroundtemplate{}
+\setbeamertemplate{frametitle}{%
+  \vspace{3mm}\begin{minipage}[c][12mm][c]{.87\linewidth}
+  {\Large\bfseries\insertframetitle\par}
+  \end{minipage}\hfill
+  \begin{minipage}[c]{17mm}\centering
+  \includegraphics[height=12mm,width=16mm,keepaspectratio]{logos/logo_adt-ismddc.png}
+  \end{minipage}\par\vspace{1mm}
+  {\color{teal}\rule{\linewidth}{.6pt}}\vspace{1mm}}
+\setbeamertemplate{footline}{%
+  \hspace*{9mm}\begin{minipage}{222mm}
+  {\color{dexpiLightBlue}\rule{\linewidth}{.4pt}}\par
+  \vspace{1mm}{\scriptsize\color{muted}Radiuk, Barmak \& Krak\hfill\insertsection\hfill\insertframenumber\,/\,10\par}
+  \vspace{2mm}\end{minipage}}
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{1.12}
+\setlength{\abovedisplayskip}{4pt}
+\setlength{\belowdisplayskip}{4pt}
+\hypersetup{colorlinks=true,urlcolor=teal,linkcolor=teal,
+ pdftitle={Auditing Deep Learning for Cardiac MRI Through Semantic Transitions and Conflict-Aware Production Rules},
+ pdfauthor={Pavlo Radiuk; Oleksander Barmak; Iurii Krak}}
+\newcommand{\matA}{\mathbf A}\newcommand{\matB}{\mathbf B}
+\newcommand{\matT}{\mathbf T}\newcommand{\hatB}{\widehat{\mathbf B}}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\newcounter{auditalgorithm}
+\newcommand{\captext}[1]{{\scriptsize\color{muted}#1\par}}
+\newcommand{\kicker}[1]{{\small\bfseries\color{teal}#1\par}\vspace{1.5mm}}
+\newcommand{\takeaway}[1]{\begin{beamercolorbox}[wd=\linewidth,sep=2.2mm]{signal}{\small\bfseries #1\par}\end{beamercolorbox}}
+\newcommand{\card}[2]{\noindent\begin{beamercolorbox}[wd=\dimexpr\linewidth-3pt\relax,sep=3mm]{card}\kicker{#1}{\small #2\par}\end{beamercolorbox}}
+\newcommand{\tbl}[2]{\captext{\textbf{Table #1.} #2}\vspace{1mm}{\scriptsize\input{content/table-#1.tex}\par}}
+\newcommand{\fitbl}[2]{\captext{\textbf{Table #1.} #2}\vspace{1mm}{\scriptsize\begin{adjustbox}{max width=\linewidth}\input{content/table-#1.tex}\end{adjustbox}\par}}
+\newcommand{\eqn}[1]{{\small\input{content/equation-#1.tex}}}
+\newcommand{\fig}[5]{\setcounter{figure}{\numexpr#1-1\relax}\refstepcounter{figure}\begin{center}\includegraphics[width=\linewidth,height=#3,keepaspectratio]{figures/#2}\end{center}\vspace{-2mm}\captext{\textbf{Figure #1.} #4}\phantomsection\label{#5}}
+\newcommand{\supportlogos}{%
+ \includegraphics[height=10mm]{logos/logo_ceur.png}\hspace{8mm}%
+ \includegraphics[height=10mm]{logos/logo_cs.png}\hspace{8mm}%
+ \includegraphics[height=12mm]{logos/logo_icst.png}\hspace{8mm}%
+ \includegraphics[height=12mm]{logos/logo_khnu.png}}
+\begin{document}
+
+% 1 â€” Title and authors
+\begin{frame}[plain]
+\small
+\begin{tikzpicture}[remember picture,overlay]
+ \fill[ink] (current page.north west) rectangle ([yshift=-75mm]current page.north east);
+ \fill[dexpiBlue] ([xshift=-53mm]current page.north east)--(current page.north east)--([yshift=-75mm]current page.north east)--([xshift=-75mm,yshift=-75mm]current page.north east)--cycle;
+ \draw[teal,line width=3pt] ([xshift=9mm,yshift=-77mm]current page.north west)--([xshift=78mm,yshift=-77mm]current page.north west);
+ \node[anchor=north west,text width=211mm,inner sep=0pt] at ([xshift=9mm,yshift=-10mm]current page.north west) {\small\color{white}CMR SEMANTICS\quad/\quad EXPLAINABLE AI\quad/\quad SELECTIVE AUDITING};
+ \node[anchor=north west,text width=210mm,inner sep=0pt] at ([xshift=9mm,yshift=-25mm]current page.north west) {\LARGE\bfseries\color{white}Auditing Deep Learning for Cardiac MRI\\[2mm]Through Semantic Transitions and\\[2mm]Conflict-Aware Production Rules};
+ \node[anchor=north west,text width=210mm,inner sep=0pt] at ([xshift=9mm,yshift=-63mm]current page.north west) {\small\color{white}An externally tested audit layer on deterministic image--mask descriptors};
+\node[anchor=north west,text width=211mm,inner sep=0pt] at ([xshift=9mm,yshift=-87mm]current page.north west) {\normalsize\bfseries\color{ink}Pavlo Radiuk\textsuperscript{1}\quad Oleksander Barmak\textsuperscript{1}\quad Iurii Krak\textsuperscript{2,3}};
+\node[anchor=north west,text width=211mm,inner sep=0pt] at ([xshift=9mm,yshift=-98mm]current page.north west) {\small\color{ink}\textsuperscript{1}Khmelnytskyi National University\\[1mm]\textsuperscript{2}Taras Shevchenko National University of Kyiv\\[1mm]\textsuperscript{3}V.M. Glushkov Institute of Cybernetics};
+\node[anchor=north west,text width=211mm,inner sep=0pt] at ([xshift=9mm,yshift=-122mm]current page.north west) {\scriptsize\color{muted}ICST-ODESA\quad |\quad September 22--24, 2026};
+\end{tikzpicture}
+\end{frame}
+
+\section{Relevance}
+% 2 â€” Problem and task-aware positioning
+\begin{frame}[t]{Prediction quality leaves an audit gap}
+\small
+\takeaway{Recognizable measurements + explicit decision evidence + visible failure under domain shift.}
+\vspace{3mm}
+\fitbl{8}{Task-aware ACDC comparison; MAE units: mL, percentage points, percentage points, g.}
+\vspace{4mm}
+\fitbl{9}{Clinical-index correlation / signed bias; audit metrics = coverage / abstention / conflict.}
+\vspace{4mm}
+\begin{columns}[T,onlytextwidth]
+\column{.48\textwidth}\card{The gap}{Saliency and concept relevance do not by themselves provide a patient-level chain from measurements to reusable rules.}
+\column{.48\textwidth}\card{Comparison boundary}{Published systems use the official challenge protocol; this study uses an independent 85/15/50 split. These are contextual comparisons.}
+\end{columns}
+\vspace{2mm}\captext{Source: manuscript Tables 8--9; Bernard et al. (2018), \textit{IEEE Transactions on Medical Imaging}, 37, 2514--2525.}
+\end{frame}
+
+\section{Purpose and objectives}
+% 3 â€” Purpose, contributions and cohorts
+\begin{frame}[t]{Make every audit output traceable}
+\small
+\takeaway{Purpose: translate fixed CMR representations into measurable semantics and guarded symbolic evidence.}
+\vspace{4mm}
+\begin{columns}[T,onlytextwidth]
+\column{.32\textwidth}\card{01 / Align}{Patient-level provenance, exact matrix alignment, and feature-specific quality control.}
+\column{.32\textwidth}\card{02 / Reconstruct}{A regularized mapping from 128 formal coordinates to 28 CMR variables.}
+\column{.32\textwidth}\card{03 / Audit}{Compact rules; explicit support, conflict, missing evidence, and typed abstention.}
+\end{columns}
+\vspace{4mm}
+\tbl{1}{Cohort and release-level QC evidence; experiment \texttt{v5\_native\_image\_dss\_100}.}
+\vspace{3mm}
+\captext{ACDC: five balanced categories. M\&Ms: Multi-Centre, Multi-Vendor and Multi-Disease cohort, held untouched. The 92 triaged cases await review; they are not confirmed errors or completed expert validation.}
+\end{frame}
+
+\section{Methods}
+% 4 â€” Architecture and all eight algorithm steps
+\begin{frame}[t]{A frozen, patient-level audit chain}
+\small
+\begin{columns}[T,onlytextwidth]
+\column{.70\textwidth}
+\fig{1}{fig_audit-architecture.pdf}{78mm}{Post-hoc CMR audit architecture; training-only supervision, frozen held-out inference.}{fig:cmr_audit_architecture}
+\vspace{2mm}\captext{Figure retains the parent-framework WEDD label. This release implements training-only tertiles; full WEDD was not evaluated.}
+\column{.28\textwidth}
+\kicker{Algorithm 1 / Audit pipeline}
+\refstepcounter{auditalgorithm}\label{alg:cmr_audit_pipeline}
+{\small\begin{enumerate}
+\setlength{\itemsep}{2mm}
+\item Lock cohorts and QC.
+\item Fit semantic transition.
+\item Discretize valid semantics.
+\item Induce compact rules.
+\item Apply inference guards.
+\item Align eligible predicates.
+\item Evaluate semantic fidelity.
+\item Diagnose perturbation drift.
+\end{enumerate}\par}
+\end{columns}
+\end{frame}
+
+% 5 â€” Equations 1â€“4
+\begin{frame}[t]{Reconstruct measurements with a regularized transition}
+\small
+\begin{columns}[T,onlytextwidth]
+\column{.57\textwidth}
+\kicker{Ridge fit and frozen reconstruction}
+\eqn{1}\eqn{2}\eqn{3}
+\vspace{3mm}
+\card{Training-only preprocessing}{Median imputation; 1st--99th percentile clipping; formal-feature standardization; semantic centering. Five-fold training CV selected $\lambda=3$.}
+\column{.40\textwidth}
+\card{Evaluated representation}{57 deterministic intensity / occupancy descriptors $\rightarrow$ 128 coordinates by a fixed Gaussian projection; 32 direct channels retained. Seed: 20260611.}
+\vspace{3mm}
+\kicker{Frozen tertile states}
+\eqn{4}
+\vspace{2mm}
+\captext{$\mathbf A_z$: standardized formal features; $\mathbf B_c$: centered semantic targets; $\boldsymbol\mu_B$: training target means. The 28 targets include volumes, EF, mass, wall thickness, and shape.}
+\end{columns}
+\vspace{4mm}
+\takeaway{Evaluated scope: a deterministic descriptor baseline and quantile discretization; coefficients express associations.}
+\end{frame}
+
+% 6 â€” Equations 5â€“7
+\begin{frame}[t]{Return supported evidence or a reason-coded abstention}
+\small
+\begin{columns}[T,onlytextwidth]
+\column{.47\textwidth}
+\kicker{Compact production rules}
+\eqn{5}
+\card{Induction constraints}{Rough-set granules; at most 3 antecedents; support $\geq3$ training cases; confidence $\geq0.60$.}
+\vspace{4mm}\kicker{Guarded inference}
+\eqn{6}
+\captext{$\Gamma(x)$: guard; $\rho(x)$: reason code; $\mathcal Y(x)$: fired consequents. Guards cover severe QC, unstable reconstruction, missing prerequisites, no match, or contradictory consequents.}
+\column{.50\textwidth}
+\kicker{Physician-style predicate alignment}
+{\scriptsize\input{content/equation-7.tex}}
+\vspace{3mm}
+\captext{$\phi_j$: feature compatibility; $w_j$: clinical weights; $C_i,M_i,U_i,A_i$: conflict, missing evidence, instability, safe abstention.}
+\vspace{4mm}\card{Eligibility before similarity}{Best matches must pass support, confidence, prerequisite, and validity gates. A high score cannot replace missing evidence.}
+\vspace{3mm}\card{Evidence boundary}{Cine-supported morphology / function proxies only. Tissue characterization and flow-dependent conclusions need additional evidence.}
+\end{columns}
+\vspace{4mm}\takeaway{Soft similarity never overrides the abstention guard.}
+\end{frame}
+
+\section{Experiments and results}
+% 7 â€” Tables 2â€“3, Figures 2â€“3, Equation 8
+\begin{frame}[t]{Semantic fidelity is target- and domain-dependent}
+\small
+\begin{columns}[T,onlytextwidth]
+\column{.46\textwidth}
+\fitbl{2}{Aggregate errors over 28 targets; $\pm$ denotes across-target dispersion.}
+{\scriptsize\input{content/equation-8.tex}}
+\captext{Use training-SD-normalized RMSE for across-target comparisons. Mixed-unit MAE/RMSE means are descriptive.}
+\fig{2}{fig_transition_split_errors.pdf}{40mm}{Descriptive mixed-unit reconstruction error by split.}{fig:transition_split_errors}
+\column{.52\textwidth}
+\tbl{3}{Held-out ACDC ($n=50$); 1,000-resample BCa 95\% CIs for MAE.}
+\fig{3}{fig_high_impact_correlations.pdf}{40mm}{Held-out Pearson correlations for high-impact targets.}{fig:high_impact_correlations}
+\end{columns}
+\vspace{2mm}
+\takeaway{External NRMSE rises 2.25-fold. LVEDV bias: $-2.12\rightarrow-136.0$ mL; mass bias: $-1.46\rightarrow-96.6$ g.}
+\end{frame}
+
+% 8 â€” Tables 4â€“5, Figure 4
+\begin{frame}[t]{Rule coverage must accompany selective accuracy}
+\small
+\begin{columns}[T,onlytextwidth]
+\column{.55\textwidth}
+\fitbl{4}{Measured-semantic logistic-regression comparator; ECE: 10 equal-mass bins.}
+\vspace{2mm}
+\fitbl{5}{200-rule layer; balanced accuracy and macro-F1 use non-abstained cases.}
+\vspace{3mm}\captext{Conflict: among covered cases. Conf.\ seen: fraction of all cases encountering a conflicting rule during resolution.}
+\vspace{4mm}\card{Held-out uncertainty}{Comparator accuracy: 0.860 [0.76, 0.94]; balanced accuracy: 0.860 [0.75, 0.95]; macro-F1: 0.861 [0.75, 0.94]; AUROC: 0.973 [0.947, 0.993]. Row-bootstrap 95\% CIs.}
+\column{.42\textwidth}
+\fig{4}{fig_rulebook_classifier_scores.pdf}{49mm}{Held-out comparator and rulebook outcomes.}{fig:classifier_rulebook_outcomes}
+\vspace{2mm}\card{32 / 50 covered\quad 18 / 50 abstained}{Perfect selective train/validation scores reflect over-specific granules. Test non-abstained balanced accuracy: 0.644.}
+\end{columns}
+\vspace{3mm}\takeaway{The measured-semantic comparator and reconstructed-semantic rule audit are distinct evaluation branches.}
+\end{frame}
+
+% 9 â€” Table 6â€“7, Figure 5, Equations 9â€“10
+\begin{frame}[t]{Alignment is bounded; rotation exposes a weakness}
+\small
+\begin{columns}[T,onlytextwidth]
+\column{.49\textwidth}
+\fig{5}{fig_predicate_alignment.pdf}{40mm}{Maximum admissible predicate--rule similarity.}{fig:predicate_alignment_scores}
+\captext{Original plot labels denote proxies: infarction is remodeling only; valvular / congenital outputs are review-only. Similarity is not clinician agreement.}
+\vspace{3mm}
+\fitbl{7}{Perturbations on 12 cases (48 runs); semantic change combines units.}
+\column{.49\textwidth}
+\tbl{6}{Physician-predicate alignment and evidence status.}
+\vspace{3mm}
+{\scriptsize\input{content/equation-9.tex}\input{content/equation-10.tex}}
+\captext{$Q$: fixed 12-case set; $\tau$: perturbation; $\varepsilon$: numerical stabilizer. Native orientation; no rotation augmentation.}
+\end{columns}
+\vspace{3mm}\takeaway{A $2^\circ$ rotation causes the largest drift despite nearly preserved mask counts: an orientation-sensitivity diagnostic.}
+\end{frame}
+
+\section{Conclusions and contact}
+% 10 â€” Conclusions, limitations, future work and all current supporting logos
+\begin{frame}[t]{Transparent auditing, with explicit evidence limits}
+\small
+\begin{columns}[T,onlytextwidth]
+\column{.49\textwidth}
+\card{What the study establishes}{A traceable semantic-to-rule audit chain; strong internal association for selected targets; visible external degradation, conflict, and abstention.}
+\vspace{3mm}\card{What remains to be validated}{Frozen deep encoders; full WEDD ablations; orientation normalization; vendor recalibration; completed expert QC and prospective clinician evaluation.}
+\vspace{3mm}\captext{Current scope: selective research auditing. Rule sparsity and domain shift preclude autonomous diagnosis or a claim of completed clinical validation.}
+\column{.47\textwidth}
+\kicker{Authors and correspondence}
+{\small\textbf{Pavlo Radiuk}\textsuperscript{1} (corresponding author)\\
+\href{mailto:radiukp@khmnu.edu.ua}{radiukp@khmnu.edu.ua}\\[3mm]
+\textbf{Oleksander Barmak}\textsuperscript{1}\\
+\href{mailto:barmako@khmnu.edu.ua}{barmako@khmnu.edu.ua}\\[3mm]
+\textbf{Iurii Krak}\textsuperscript{2,3}\\
+\href{mailto:iurii.krak@knu.ua}{iurii.krak@knu.ua}\par}
+\vspace{3mm}\captext{\textsuperscript{1}Khmelnytskyi National University\\
+\textsuperscript{2}Taras Shevchenko National University of Kyiv\\
+\textsuperscript{3}V.M. Glushkov Institute of Cybernetics}
+\end{columns}
+\vfill
+\captext{Supporting organizations and conference identities supplied with this presentation}
+\vspace{2mm}\supportlogos
+\end{frame}
+\end{document}

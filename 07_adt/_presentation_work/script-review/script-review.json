@@ -1,0 +1,30 @@
+{
+  "sentences_per_slide": [
+    4,
+    4,
+    5,
+    4,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+  ],
+  "words_per_slide": [
+    72,
+    75,
+    85,
+    72,
+    75,
+    82,
+    82,
+    82,
+    82,
+    80
+  ],
+  "total_spoken_words": 787,
+  "minutes_at_110_words_per_minute": 7.15,
+  "title_alignment": "passed",
+  "editorial_assessment": 100
+}
