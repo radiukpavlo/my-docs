@@ -17,9 +17,12 @@ already present in this repository.
 | [06_Topics_and_Projects.md](06_Topics_and_Projects.md) | Substance: projects, partner interests, discussion hooks |
 | [07_Email_Source_Log.md](07_Email_Source_Log.md) | Chronology + Gmail thread IDs for re-checking any claim |
 | [08_Open_Items_and_Risks.md](08_Open_Items_and_Risks.md) | Unresolved points, contradictions, risks |
+| [09_Scenario_Planning_Track.md](09_Scenario_Planning_Track.md) | U_CAN Task T5.5 Exploratory Scenario Planning: the 2x2 axes, four scenarios, URI frame, Stage I findings, the 14 Sep stress-test |
 | `Source_Files/` | Original attachments extracted from e-mail (agenda PDF, invitation letter, one-pagers, participant lists) |
 
 ## Related folders in this repository
+
+- `../../U_CAN_2026-09-14_Scenario-Stress-Testing/` — **workshop prep pack** for the Mon 14 Sep Scenario Stress-Testing session (prepared answers, technical annex, team roles, printable cheatsheet)
 
 - `../U_CAN_Dresden_Docs/` — Ukrainian internal assignment paperwork (подання, заява, службова, витяг, мета)
 - `../U_CAN_Dresden_Tickets/` — the three purchased travel tickets (PDF)

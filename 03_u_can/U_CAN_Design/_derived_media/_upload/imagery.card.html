@@ -1,0 +1,127 @@
+<!-- @dsCard group="Brand" viewport="880x900" name="Photography" subtitle="Six pilot-city heroes, the official banners, and the consent rule" -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+body{margin:0;padding:28px;background:#fff;color:var(--text-body);font-family:var(--font-sans)}
+h1{font-size:var(--text-2xl);margin-bottom:6px}
+h2{font-size:var(--text-lg);margin:26px 0 10px}
+.sub{color:var(--text-muted);font-size:var(--text-sm);max-width:74ch;margin-bottom:18px}
+.note{font-size:var(--text-sm);color:var(--text-muted);max-width:76ch;margin-top:10px}
+table{border-collapse:collapse;width:100%;font-size:13px;margin-top:8px}
+th,td{border:1px solid var(--table-border);padding:7px 9px;text-align:left;vertical-align:top}
+th{background:var(--table-header-bg);color:var(--table-header-fg);font-weight:600}
+tbody tr:nth-child(even){background:var(--table-zebra-bg)}
+code{font-family:var(--font-mono);font-size:.92em;background:var(--ucan-green-12);padding:1px 4px}
+.bad{background:var(--state-error-bg);border-left:4px solid var(--state-error-fg);padding:12px 14px;margin-top:10px}
+.good{background:var(--state-success-bg);border-left:4px solid var(--state-success-fg);padding:12px 14px;margin-top:10px}
+.warn{background:var(--state-warning-bg);border-left:4px solid var(--state-warning-fg);padding:12px 14px;margin-top:10px}
+.grid6{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:10px}
+.grid6 figure{margin:0}
+.grid6 img{width:100%;display:block;aspect-ratio:16/9;object-fit:cover;background:var(--surface-panel)}
+.grid6 figcaption{font-size:11px;color:var(--text-muted);font-family:var(--font-mono);margin-top:4px}
+.pair{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:10px}
+.pair img{width:100%;display:block}
+.ph{background:var(--surface-panel);border:1px dashed var(--border-hairline);display:grid;place-items:center;color:var(--text-muted);font-size:12px;text-align:center;padding:10px;height:110px}
+</style>
+</head>
+<body>
+<h1>Photography</h1>
+
+<div class="good"><b>All six pilot cities now have photography.</b> Sourced from the consortium
+communications library (<code>WP7_Communication, dissemination, exploitation/Pictures/</code>) and
+supplied in the three crops below. They are aerial and street cityscapes with <b>no identifiable
+individuals</b>, so they carry no consent burden and can be published as they are.</div>
+
+<h2>Pilot-city heroes — 16:9</h2>
+<div class="grid6">
+  <figure><img src="../assets/imagery/cities/lviv-hero-16x9.jpg" alt="Aerial view over the roofs of central Lviv"><figcaption>lviv-hero-16x9.jpg</figcaption></figure>
+  <figure><img src="../assets/imagery/cities/kyiv-hero-16x9.jpg" alt="The Dnipro river and the Lavra hillside in Kyiv"><figcaption>kyiv-hero-16x9.jpg</figcaption></figure>
+  <figure><img src="../assets/imagery/cities/zhytomyr-hero-16x9.jpg" alt="Aerial view of the city hall square in Zhytomyr with the Ukrainian flag"><figcaption>zhytomyr-hero-16x9.jpg</figcaption></figure>
+  <figure><img src="../assets/imagery/cities/khmelnytskyi-hero-16x9.jpg" alt="Aerial view of Khmelnytskyi along the Southern Buh river"><figcaption>khmelnytskyi-hero-16x9.jpg</figcaption></figure>
+  <figure><img src="../assets/imagery/cities/ivano-frankivsk-hero-16x9.jpg" alt="Ivano-Frankivsk old town at dusk seen from above"><figcaption>ivano-frankivsk-hero-16x9.jpg</figcaption></figure>
+  <figure><img src="../assets/imagery/cities/vinnytsia-hero-16x9.jpg" alt="Aerial view of Vinnytsia with its central lake and park"><figcaption>vinnytsia-hero-16x9.jpg</figcaption></figure>
+</div>
+<div class="note">Each city also ships <code>-card-8x5.jpg</code> and <code>-square-1x1.jpg</code>,
+centre-cropped from the same original. Never upscaled — the delivered size is capped by the source.
+<b>Ivano-Frankivsk is print quality</b> (5184&nbsp;×&nbsp;3349 original). <b>Lviv is the thin one:</b>
+exactly one photograph of Lviv exists in the whole archive, so its hero tops out at 1024&nbsp;px and
+should not be used full-bleed above that width.</div>
+
+<h2>Official pilot-city banners — and a contrast problem in three of them</h2>
+<div class="pair">
+  <img src="../assets/imagery/cities/kyiv-banner-16x9.png" alt="U_CAN banner for Kyiv on navy: developing a system of automobile tunnels to reduce vehicle emissions">
+  <img src="../assets/imagery/cities/vinnytsia-banner-16x9.png" alt="U_CAN banner for Vinnytsia on yellow: designing a strategy for the development of the Tyazhylivka river and restoring its biodiversity">
+</div>
+<div class="note">Six banners, <b>1440&nbsp;×&nbsp;810</b>, one per pilot city, produced by WP7. Each
+carries the reversed mark with a circular city photograph masked into the wordmark, the city name,
+the pilot's one-line objective and the white EU emblem, on a per-city background colour.
+<b>The backgrounds are the brand palette</b>, which is worth recording as a real per-city coding —
+and one of them introduces an orange the token set does not contain.</div>
+
+<table><thead><tr><th>City</th><th>Background</th><th>Token</th><th>White text on it</th><th>Verdict</th></tr></thead><tbody>
+<tr><td>Kyiv</td><td><code>#00305E</code></td><td><code>--ucan-navy</code></td><td>13.25:1</td><td>✅ AAA</td></tr>
+<tr><td>Lviv</td><td><code>#0463CD</code></td><td><code>--ucan-blue</code></td><td>5.72:1</td><td>✅ AA</td></tr>
+<tr><td>Zhytomyr</td><td><code>#3B9139</code></td><td><code>--ucan-logo-green-deep</code></td><td>3.97:1</td><td>⚠️ large text only</td></tr>
+<tr><td>Ivano-Frankivsk</td><td><code>#EF7D00</code></td><td><b>not in the palette</b></td><td>2.76:1</td><td>❌ fails</td></tr>
+<tr><td>Khmelnytskyi</td><td><code>#75B23C</code></td><td><code>--ucan-green</code></td><td>2.56:1</td><td>❌ fails</td></tr>
+<tr><td>Vinnytsia</td><td><code>#FFCC00</code></td><td><code>--ucan-yellow</code></td><td><b>1.51:1</b></td><td>❌ fails badly</td></tr>
+</tbody></table>
+
+<div class="bad"><b>Three of the six set white body text on a ground that cannot carry it, and the
+Vinnytsia banner is the exact pairing this system forbids</b> — white on <code>--ucan-yellow</code>,
+1.51:1, the worst measurable combination in the palette. See
+<code>guidelines/colors-pairings.card.html</code>. The objective line under the city name is small
+type, so Zhytomyr's 3.97:1 fails for it too.</div>
+
+<div class="warn"><b>How to use them anyway.</b> The banners are good <i>artwork</i> — official,
+on-brand, correctly cropped, and the only place the reversed lockup appears in real use. Treat the
+text baked into them as decorative: <b>on any surface that must be accessible, place the city name
+and objective as real HTML over the banner, or beside it, rather than relying on the pixels.</b>
+For the three failing cities that also means not reusing their baked-in caption at all. The clean
+fix is to ask WP7 to reissue the three with <code>--ucan-navy</code> text — navy on yellow measures
+8.77:1, navy on the green 5.17:1.</div>
+
+<div class="note">Where a surface supplies its own caption and lockup, use the plain
+<code>-hero-16x9</code> / <code>-card-8x5</code> crops instead; they carry no text and no contrast
+liability.</div>
+
+<h2>⚠️ Consent — the binding rule</h2>
+<div class="bad"><b>Of ten curated project photographs in the archive, only two contain no
+identifiable people.</b> Those two are published here. The other eight show faces at close range —
+conference panels, a posed delegation line-up, briefing and reception tables — and <b>are not in
+<code>assets/</code></b>. They stay out until a release is on file for every person shown. A public
+event does not imply consent for marketing use.</div>
+<div class="pair">
+  <img src="../assets/imagery/project/project-05-ceec-room.jpg" alt="A Slovak Foreign Policy Association 'with Ukraine' banner in an empty conference room at CEEC 2025">
+  <img src="../assets/imagery/project/project-10-zhy-board.jpg" alt="Workshop results board with sticky notes headed Reflections on the Dresden Week, Impressions, Take Away and Open Questions">
+</div>
+<div class="warn"><b>Still needed:</b> 4–8 more project photographs, once consent is confirmed for the
+eight already selected, or fresh ones shot with releases. The eight are staged outside the system
+with per-photo notes in <code>_derived_media/MEDIA-MANIFEST.csv</code>.</div>
+
+<h2>The photographic style</h2>
+<table><thead><tr><th>Attribute</th><th>Rule</th></tr></thead><tbody>
+<tr><td>Colour</td><td><b>Full colour, cool-neutral.</b> Not monochrome — the brand's own palette is saturated, and a mono library fights the green and blue fields it sits next to.</td></tr>
+<tr><td>Subject</td><td><b>People doing the work</b>, in real places: workshops, site visits, municipal offices, installations. Not empty architecture, not abstract "technology" imagery. <i>Cityscapes are the exception — they carry the pilot-city surfaces, where the city itself is the subject.</i></td></tr>
+<tr><td>Framing</td><td>Candid over posed. A posed line-up is acceptable for a consortium record shot and nowhere else.</td></tr>
+<tr><td>Context</td><td>Ukrainian and EU settings should both be visibly present across the set — the project is about the exchange between them.</td></tr>
+<tr><td>Crop</td><td>16:9 heroes, 8:5 cards, 1:1 portraits. Faces must survive the 1:1 crop.</td></tr>
+<tr><td>Type over image</td><td>Only with <code>--scrim-strong</code>. Measured, that is 5.67:1 against a pure-white photo; <code>--scrim-medium</code> reaches 3.45:1 and is headline scale only.</td></tr>
+<tr><td>Alt text</td><td>Describe what is happening and where. "Aerial view of the city hall square in Zhytomyr", not "photo" or "image1.jpg".</td></tr>
+<tr><td>Consent and licence</td><td>Every photograph of an identifiable person needs consent on file, and the licence recorded in the asset manifest. No stock, ever.</td></tr>
+</tbody></table>
+
+<h2>Placeholders, for slots still unfilled</h2>
+<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:10px">
+  <div class="ph">News thumbnail<br><span style="font-size:10px">800×500 — to be supplied</span></div>
+  <div class="ph">Speaker portrait<br><span style="font-size:10px">400×400 — to be supplied</span></div>
+  <div class="ph">Installation / site<br><span style="font-size:10px">1600×900 — consent pending</span></div>
+</div>
+<div class="note">The placeholder states the slot and the target dimensions, so the gap stays
+actionable rather than decorative. <code>PersonCard</code> and <code>Card</code> both render one
+automatically when no image is passed. The third-party stock corridor that once filled every one of
+these slots is gone and is not coming back.</div>
+</body></html>

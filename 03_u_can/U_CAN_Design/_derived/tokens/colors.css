@@ -1,0 +1,94 @@
+/* ============================================================================
+   ⛔  SUPERSEDED — DO NOT UPLOAD THIS FILE TO THE DESIGN SYSTEM  ⛔
+   ----------------------------------------------------------------------------
+   Superseded on 13 September 2026 by design system v0.2.0
+   (project a2b22667-6793-404e-821b-d5219760fa3b). Kept only as a working record.
+
+   WHY THIS IS DANGEROUS. This file predates the live palette and DISAGREES with
+   it. Uploading it would silently change the primary blue system-wide and drop
+   the semantic alias layer that every component depends on:
+
+     token            this file    LIVE system   consequence
+     --ucan-blue      #0057B7      #0463CD       every band, link and title shifts
+     --ucan-green     #3B9139      #75B23C       every field tint shifts
+     --surface-*      absent       defined       components lose their surfaces
+     --text-*         absent       defined       components lose their text colours
+
+   #0057B7 and #3B9139 are the LOGO ARTWORK's colours. #0463CD and #75B23C are
+   the OFFICE TEMPLATES' colours, and those are the brand tokens — #0463CD
+   appears 106 times in Template_Deliverable.docx and 6 times in
+   Template_Presentation.potx. The live system keeps the logo values separately
+   as --ucan-logo-blue / --ucan-logo-green-deep, which is correct.
+
+   The live tokens are at tokens/ in the design system project. Use those.
+   ========================================================================== */
+
+/* =============================================================================
+   U_CAN — Colour tokens                                        tasks B1 · B2
+   -----------------------------------------------------------------------------
+   PROVENANCE. Every brand value below was read out of the vector logo master
+   `Logos/U_CAN_V3_final.ai` (a PDF-1.5 file; 180 vector drawings, no raster).
+   These are the artwork's own fills, not a re-pick from a screenshot.
+   ========================================================================== */
+
+:root{
+  /* --- Core brand, straight from the logo artwork ------------------------- */
+  --ucan-navy:        #00305E;   /* oklch(.309 .095 252.8)  — 44 fills */
+  --ucan-blue:        #0057B7;   /* oklch(.473 .168 257.0)  —  4 fills; the "CAN"
+                                    wordmark. Also exactly the Ukrainian flag blue. */
+  --ucan-eu-blue:     #003399;   /* oklch(.371 .173 262.1)  —  6 fills; exact EU
+                                    flag blue, used for the star field.           */
+  --ucan-green:       #3B9139;   /* oklch(.584 .150 143.0)  — 34 fills */
+  --ucan-green-light: #75B23C;   /* oklch(.698 .162 132.6)  — 34 fills */
+  --ucan-white:       #FFFFFF;
+  --ucan-ink:         #1A1A1A;
+
+  /* --- TASK B1: THE YELLOW — RESOLVED ------------------------------------- */
+  /* #FFCC00 is canonical. Three independent lines of evidence agree:
+       1. The logo master uses #FFCC00 for all 50 star fills. #FFC000 does not
+          appear anywhere in the artwork.
+       2. Across Template_Presentation.potx, #FFCC00 occurs 8 times against
+          #FFC000's 2 — and both values appear on BOTH slide 4 and slide 5, so
+          this is a within-slide picker slip, not a deliberate second tone.
+       3. #FFCC00 is the exact EU emblem yellow, keeping brand and funder
+          aligned on every co-branded surface.                                */
+  --ucan-yellow:      #FFCC00;
+
+  /* DEPRECATED — legacy, do not use in new work.
+     Retained only so existing .potx-derived artwork can be traced. Any surface
+     still using it should be migrated to --ucan-yellow.                      */
+  --ucan-yellow-legacy: #FFC000;
+
+  /* --- TASK B2: semantic state colours ------------------------------------ */
+  /* Derived in OKLCH from the brand palette, not invented: success and info
+     inherit the hues of --ucan-green and --ucan-blue exactly; warning inherits
+     --ucan-yellow's hue, darkened until it can carry text. Only `error` adds a
+     hue the brand does not contain — a danger signal has no green/blue/yellow
+     equivalent — and it keeps the palette's chroma discipline (C≈0.16).
+     Every `-fg` meets WCAG AA 4.5:1 against BOTH its own `-bg` tint and white. */
+
+  --state-success-fg:     #2A822A;  /* oklch(.536 .150 143.0) — 4.51:1 on tint */
+  --state-success-bg:     #EBFBE9;
+  --state-success-border: #AFDEAB;
+
+  --state-warning-fg:     #906B00;  /* oklch(.551 .113  85.0) — 4.52:1 on tint */
+  --state-warning-bg:     #FFF5E0;
+  --state-warning-border: #E9CC8F;
+
+  --state-error-fg:       #C34740;  /* oklch(.568 .160  27.0) — 4.50:1 on tint */
+  --state-error-bg:       #FFF3F1;
+  --state-error-border:   #FFBCB4;
+
+  --state-info-fg:        #246FD2;  /* oklch(.552 .168 257.0) — 4.52:1 on tint */
+  --state-info-bg:        #F0F6FF;
+  --state-info-border:    #B2D2FF;
+
+  /* --- Forbidden pairings (task B3) ---------------------------------------
+     Measured, not estimated. Do not author these combinations:
+       white on --ucan-yellow        1.51:1   use --ucan-navy (8.77:1)
+       white on --ucan-green-light   2.56:1   use --ucan-navy (5.17:1)
+       white on teal #00CC99         2.08:1   use --ucan-navy (6.37:1)
+       --ucan-green on white         3.97:1   headline-scale only; for body
+                                              text use --ucan-navy (13.25:1)
+     Full matrix: _derived/CONTRAST-AUDIT.md                                  */
+}

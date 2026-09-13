@@ -1,0 +1,64 @@
+/* ============================================================================
+   ⛔  SUPERSEDED — DO NOT UPLOAD THIS FILE TO THE DESIGN SYSTEM  ⛔
+   ----------------------------------------------------------------------------
+   Superseded on 13 September 2026 by design system v0.2.0
+   (project a2b22667-6793-404e-821b-d5219760fa3b). Kept only as a working record.
+
+   WHY THIS IS DANGEROUS. This file predates the live palette and DISAGREES with
+   it. Uploading it would silently change the primary blue system-wide and drop
+   the semantic alias layer that every component depends on:
+
+     token            this file    LIVE system   consequence
+     --ucan-blue      #0057B7      #0463CD       every band, link and title shifts
+     --ucan-green     #3B9139      #75B23C       every field tint shifts
+     --surface-*      absent       defined       components lose their surfaces
+     --text-*         absent       defined       components lose their text colours
+
+   #0057B7 and #3B9139 are the LOGO ARTWORK's colours. #0463CD and #75B23C are
+   the OFFICE TEMPLATES' colours, and those are the brand tokens — #0463CD
+   appears 106 times in Template_Deliverable.docx and 6 times in
+   Template_Presentation.potx. The live system keeps the logo values separately
+   as --ucan-logo-blue / --ucan-logo-green-deep, which is correct.
+
+   The live tokens are at tokens/ in the design system project. Use those.
+   ========================================================================== */
+
+/* =============================================================================
+   U_CAN — Print tokens                                               task C6
+   The document kit is print-led and the project is German- and Ukrainian-
+   facing, so A4 — not Letter — is the default page (task K4).
+   ========================================================================== */
+:root{
+  --page-size:            A4;
+  --page-margin-top:      20mm;
+  --page-margin-bottom:   20mm;
+  --page-margin-inner:    25mm;   /* binding edge on duplex deliverables      */
+  --page-margin-outer:    18mm;
+
+  --running-header-height: 14mm;
+  --running-footer-height: 16mm;  /* deep enough for the EU funding statement */
+
+  /* Print-safe ink. Screen navy is a mixed value that separates into a muddy
+     four-colour build; this is the solid, single-strength navy for print. */
+  --print-ink:        #002050;
+  --print-ink-muted:  #4A5560;
+  --print-rule:       #B9C2CC;
+  --print-body-size:  10.5pt;
+  --print-body-leading: 1.45;
+}
+
+@page{
+  size: A4;
+  margin: 20mm 18mm 20mm 25mm;
+}
+
+@media print{
+  :root{ --ucan-navy: var(--print-ink); }
+  a{ text-decoration: underline; }
+  /* Expose link targets in printed deliverables, but not for in-page anchors. */
+  a[href^="http"]::after{ content:" (" attr(href) ")"; font-size:.85em; word-break:break-all; }
+  .no-print{ display:none !important; }
+  table{ break-inside: auto; }
+  tr, figure, .avoid-break{ break-inside: avoid; }
+  thead{ display: table-header-group; }
+}

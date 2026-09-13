@@ -1,0 +1,65 @@
+/* ============================================================================
+   ⛔  SUPERSEDED — DO NOT UPLOAD THIS FILE TO THE DESIGN SYSTEM  ⛔
+   ----------------------------------------------------------------------------
+   Superseded on 13 September 2026 by design system v0.2.0
+   (project a2b22667-6793-404e-821b-d5219760fa3b). Kept only as a working record.
+
+   WHY THIS IS DANGEROUS. This file predates the live palette and DISAGREES with
+   it. Uploading it would silently change the primary blue system-wide and drop
+   the semantic alias layer that every component depends on:
+
+     token            this file    LIVE system   consequence
+     --ucan-blue      #0057B7      #0463CD       every band, link and title shifts
+     --ucan-green     #3B9139      #75B23C       every field tint shifts
+     --surface-*      absent       defined       components lose their surfaces
+     --text-*         absent       defined       components lose their text colours
+
+   #0057B7 and #3B9139 are the LOGO ARTWORK's colours. #0463CD and #75B23C are
+   the OFFICE TEMPLATES' colours, and those are the brand tokens — #0463CD
+   appears 106 times in Template_Deliverable.docx and 6 times in
+   Template_Presentation.potx. The live system keeps the logo values separately
+   as --ucan-logo-blue / --ucan-logo-green-deep, which is correct.
+
+   The live tokens are at tokens/ in the design system project. Use those.
+   ========================================================================== */
+
+/* =============================================================================
+   U_CAN — Base element styling                                       task B4
+   Link colours were undefined, so any link authored in the editor rendered
+   browser-default blue — off-brand and, on navy grounds, invisible.
+   ========================================================================== */
+:root{
+  --link:              var(--ucan-blue);      /* 6.89:1 on white — AA      */
+  --link-hover:        var(--ucan-navy);      /* 13.25:1 on white — AAA    */
+  --link-visited:      #5B3A94;               /* 8.48:1 on white — AAA     */
+  --link-focus-ring:   var(--ucan-yellow);    /* 8.77:1 against navy       */
+  --link-underline-offset: .15em;
+  --link-underline-thickness: .08em;
+}
+
+a{
+  color: var(--link);
+  text-decoration: underline;
+  text-underline-offset: var(--link-underline-offset);
+  text-decoration-thickness: var(--link-underline-thickness);
+}
+a:visited{ color: var(--link-visited); }
+a:hover{   color: var(--link-hover); text-decoration-thickness:.12em; }
+a:active{  color: var(--link-hover); }
+
+/* Never rely on colour alone: the underline is the non-colour affordance. */
+a:focus-visible{
+  outline: 3px solid var(--link-focus-ring);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* On dark/navy bands the link must invert or it drops to 1.9:1 against navy. */
+.on-dark a,
+[data-surface="dark"] a{ color: var(--ucan-yellow); }        /* 8.77:1 on navy */
+.on-dark a:visited,
+[data-surface="dark"] a:visited{ color: #E8C7FF; }   /* 8.86:1 on navy  */
+.on-dark a:hover,
+[data-surface="dark"] a:hover{ color: var(--ucan-white); }   /* 13.25:1 on navy */
+.on-dark a:focus-visible,
+[data-surface="dark"] a:focus-visible{ outline-color: var(--ucan-white); }

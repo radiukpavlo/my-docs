@@ -1,0 +1,50 @@
+/* ============================================================================
+   ⛔  SUPERSEDED — DO NOT UPLOAD THIS FILE TO THE DESIGN SYSTEM  ⛔
+   ----------------------------------------------------------------------------
+   Superseded on 13 September 2026 by design system v0.2.0
+   (project a2b22667-6793-404e-821b-d5219760fa3b). Kept only as a working record.
+
+   WHY THIS IS DANGEROUS. This file predates the live palette and DISAGREES with
+   it. Uploading it would silently change the primary blue system-wide and drop
+   the semantic alias layer that every component depends on:
+
+     token            this file    LIVE system   consequence
+     --ucan-blue      #0057B7      #0463CD       every band, link and title shifts
+     --ucan-green     #3B9139      #75B23C       every field tint shifts
+     --surface-*      absent       defined       components lose their surfaces
+     --text-*         absent       defined       components lose their text colours
+
+   #0057B7 and #3B9139 are the LOGO ARTWORK's colours. #0463CD and #75B23C are
+   the OFFICE TEMPLATES' colours, and those are the brand tokens — #0463CD
+   appears 106 times in Template_Deliverable.docx and 6 times in
+   Template_Presentation.potx. The live system keeps the logo values separately
+   as --ucan-logo-blue / --ucan-logo-green-deep, which is correct.
+
+   The live tokens are at tokens/ in the design system project. Use those.
+   ========================================================================== */
+
+/* =============================================================================
+   U_CAN — Table tokens                                               task C5
+   MetaTable is a shipped component but its row height, zebra tint, header
+   weight and border colour were hard-coded inside it. They belong here so the
+   document kit's table spread and the website kit's data tables agree.
+   ========================================================================== */
+:root{
+  --table-row-height:        40px;
+  --table-row-height-dense:  30px;   /* timesheets, annex tables (task E8)    */
+  --table-cell-padding-x:    12px;
+  --table-cell-padding-y:     8px;
+
+  --table-header-bg:         var(--ucan-navy);
+  --table-header-fg:         var(--ucan-white);   /* 13.25:1 — AAA            */
+  --table-header-weight:     600;
+  --table-header-tracking:   .02em;
+
+  --table-zebra-bg:          #F4F7FA;   /* navy at ~4% — stays in family      */
+  --table-border:            #D8DFE6;
+  --table-border-strong:     var(--ucan-navy);
+  --table-caption-fg:        #4A5560;
+
+  --table-numeric-align:     right;
+  --table-numeric-variant:   tabular-nums lining-nums;
+}

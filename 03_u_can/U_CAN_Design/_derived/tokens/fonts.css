@@ -1,0 +1,123 @@
+/* ============================================================================
+   ⛔  SUPERSEDED — DO NOT UPLOAD THIS FILE TO THE DESIGN SYSTEM  ⛔
+   ----------------------------------------------------------------------------
+   Superseded on 13 September 2026 by design system v0.2.0
+   (project a2b22667-6793-404e-821b-d5219760fa3b). Kept only as a working record.
+
+   WHY THIS IS DANGEROUS. This file predates the live palette and DISAGREES with
+   it. Uploading it would silently change the primary blue system-wide and drop
+   the semantic alias layer that every component depends on:
+
+     token            this file    LIVE system   consequence
+     --ucan-blue      #0057B7      #0463CD       every band, link and title shifts
+     --ucan-green     #3B9139      #75B23C       every field tint shifts
+     --surface-*      absent       defined       components lose their surfaces
+     --text-*         absent       defined       components lose their text colours
+
+   #0057B7 and #3B9139 are the LOGO ARTWORK's colours. #0463CD and #75B23C are
+   the OFFICE TEMPLATES' colours, and those are the brand tokens — #0463CD
+   appears 106 times in Template_Deliverable.docx and 6 times in
+   Template_Presentation.potx. The live system keeps the logo values separately
+   as --ucan-logo-blue / --ucan-logo-green-deep, which is correct.
+
+   The live tokens are at tokens/ in the design system project. Use those.
+   ========================================================================== */
+
+/* =============================================================================
+   U_CAN — Typography tokens                              tasks A2 · A3 · A4
+   -----------------------------------------------------------------------------
+   TYPOGRAPHY LICENCE DECISION (task A2) — STATUS: PROVISIONAL, AWAITING SIGN-OFF
+   Decided by: ................................  Date: ......................
+
+   Evidence gathered from the two archives in `my-docs/03_u_can/U_CAN_Design/`
+   (full working in _derived/FONT-INVENTORY.md):
+
+     · avenir-next-similar-fonts.zip  ->  NOT Avenir Next. It contains
+       METROPOLIS (Chris Simpson, 2015) under the SIL Open Font License 1.1.
+       Licence: web-embeddable and redistributable.  Cyrillic glyphs: ZERO.
+     · Bahnschrift-Font-Family.zip    ->  15 byte-identical copies of one
+       Bahnschrift variable font (wght 300-700, wdth 75-100).
+       Cyrillic: complete (256 codepoints).  Licence: "Microsoft supplied
+       font" — NOT redistributable as a webfont.
+
+   So neither archive alone can serve a bilingual EN/UA web system:
+   the licensable face has no Cyrillic; the Cyrillic face is not licensable.
+
+   The three paths from the audit, restated against that evidence:
+     (a) Real licence   — supply .woff2 for Avenir Next Regular 400 + Bold 700.
+     (b) Substitute     — adopt ONE OFL family covering Latin AND Cyrillic, so
+                          the EN and UA editions of a document share shapes.
+                          Candidates: Manrope, Montserrat, Nunito Sans, Mulish.
+                          RECOMMENDED. Verify Cyrillic coverage on selection.
+     (c) Status quo     — keep the platform fallback stack and record it as a
+                          known, accepted deviation.
+
+   Until (a)/(b)/(c) is chosen this file implements a safe interim:
+   Metropolis is self-hosted for Latin (licence-clean, already in hand) and
+   Cyrillic runs fall through to the platform stack — never to a CJK face.
+   Office templates (.potx/.docx) keep Bahnschrift, which is present on every
+   Windows install; that is a local-install use, not redistribution, and is
+   permitted. Do not copy Bahnschrift into a web build.
+   ========================================================================== */
+
+/* --- Self-hosted Latin: Metropolis, SIL OFL 1.1 -----------------------------
+   NOTE: 8 of the 18 shipped Metropolis faces declare a WRONG OS/2
+   usWeightClass (Thin/ExtraLight/Light all claim 400; Medium-Italic and
+   SemiBold-Italic claim 700). The font-weight values below are taken from the
+   face names, which are correct. Never trust this family's usWeightClass. */
+
+@font-face{font-family:"Metropolis";font-style:normal;font-weight:400;font-display:swap;
+  src:url("../assets/fonts/metropolis/metropolis-regular.woff2") format("woff2");
+  unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+@font-face{font-family:"Metropolis";font-style:italic;font-weight:400;font-display:swap;
+  src:url("../assets/fonts/metropolis/metropolis-regular-italic.woff2") format("woff2");
+  unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+@font-face{font-family:"Metropolis";font-style:normal;font-weight:500;font-display:swap;
+  src:url("../assets/fonts/metropolis/metropolis-medium.woff2") format("woff2");
+  unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+@font-face{font-family:"Metropolis";font-style:normal;font-weight:600;font-display:swap;
+  src:url("../assets/fonts/metropolis/metropolis-semibold.woff2") format("woff2");
+  unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+@font-face{font-family:"Metropolis";font-style:normal;font-weight:700;font-display:swap;
+  src:url("../assets/fonts/metropolis/metropolis-bold.woff2") format("woff2");
+  unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+@font-face{font-family:"Metropolis";font-style:italic;font-weight:700;font-display:swap;
+  src:url("../assets/fonts/metropolis/metropolis-bold-italic.woff2") format("woff2");
+  unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+@font-face{font-family:"Metropolis";font-style:normal;font-weight:800;font-display:swap;
+  src:url("../assets/fonts/metropolis/metropolis-extrabold.woff2") format("woff2");
+  unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+@font-face{font-family:"Metropolis";font-style:normal;font-weight:900;font-display:swap;
+  src:url("../assets/fonts/metropolis/metropolis-black.woff2") format("woff2");
+  unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+
+:root{
+  /* Latin/Western body + UI face. */
+  --font-sans: "Metropolis", "Avenir Next", Avenir,
+               system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+
+  /* Task A4 — CYRILLIC STACK.
+     The source .potx routed every non-Latin run to "Noto Sans SC Regular",
+     a CHINESE face (358 references across the template). That is wrong for a
+     project publishing in Ukrainian and must never be inherited. Metropolis
+     has no Cyrillic, so Ukrainian text resolves to the platform UI face —
+     which on every target OS is a correct Cyrillic design.
+     Replace the first entry once A2 path (b) names a Cyrillic-capable family. */
+  --font-sans-cyr: system-ui, "Segoe UI", "Noto Sans", "Inter",
+                   "Helvetica Neue", Arial, sans-serif;
+
+  /* Display / claim line. Bahnschrift is the source template's display face and
+     is present on Windows; it is NOT web-redistributable, so it is declared
+     here for local resolution only and falls through on other platforms. */
+  --font-claim: Bahnschrift, "DIN Next", "Segoe UI Variable Display",
+                var(--font-sans);
+
+  --font-mono: ui-monospace, "Cascadia Mono", "SF Mono", Menlo, Consolas, monospace;
+}
+
+/* Ukrainian (and any Cyrillic) runs must be tagged with lang="uk" so this rule
+   applies. See task J10 / I6 — `lang` attributes are an accessibility
+   requirement as well as a typographic one. */
+:lang(uk), :lang(ru), :lang(be), [data-script="cyrillic"]{
+  font-family: var(--font-sans-cyr);
+}

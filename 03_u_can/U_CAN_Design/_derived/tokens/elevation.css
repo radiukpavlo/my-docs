@@ -1,0 +1,61 @@
+/* ============================================================================
+   ⛔  SUPERSEDED — DO NOT UPLOAD THIS FILE TO THE DESIGN SYSTEM  ⛔
+   ----------------------------------------------------------------------------
+   Superseded on 13 September 2026 by design system v0.2.0
+   (project a2b22667-6793-404e-821b-d5219760fa3b). Kept only as a working record.
+
+   WHY THIS IS DANGEROUS. This file predates the live palette and DISAGREES with
+   it. Uploading it would silently change the primary blue system-wide and drop
+   the semantic alias layer that every component depends on:
+
+     token            this file    LIVE system   consequence
+     --ucan-blue      #0057B7      #0463CD       every band, link and title shifts
+     --ucan-green     #3B9139      #75B23C       every field tint shifts
+     --surface-*      absent       defined       components lose their surfaces
+     --text-*         absent       defined       components lose their text colours
+
+   #0057B7 and #3B9139 are the LOGO ARTWORK's colours. #0463CD and #75B23C are
+   the OFFICE TEMPLATES' colours, and those are the brand tokens — #0463CD
+   appears 106 times in Template_Deliverable.docx and 6 times in
+   Template_Presentation.potx. The live system keeps the logo values separately
+   as --ucan-logo-blue / --ucan-logo-green-deep, which is correct.
+
+   The live tokens are at tokens/ in the design system project. Use those.
+   ========================================================================== */
+
+/* =============================================================================
+   U_CAN — Stacking and scrim                                   tasks C3 · C4
+   ========================================================================== */
+:root{
+  /* --- C3 Z-index ladder ---------------------------------------------------
+     A named ladder so consumers stop inventing 9999. Gaps of 100 leave room
+     to slot a layer in without renumbering.                                  */
+  --z-base:      0;
+  --z-raised:  100;   /* cards lifted on hover, focused form fields          */
+  --z-sticky:  200;   /* sticky section nav, document running header         */
+  --z-overlay: 300;   /* dropdowns, popovers, tooltips                       */
+  --z-modal:   400;   /* dialogs and their backdrop                          */
+  --z-toast:   500;   /* transient notifications — always on top             */
+
+  /* --- C4 Opacity / scrim --------------------------------------------------
+     The image-text slide and the website hero both set type over photography.
+     Measured worst case = white text over the scrim on a PURE WHITE photo,
+     i.e. the hardest image a scrim can be asked to rescue:
+       --scrim-medium (.55)  ->  3.45:1  headline scale only (>=3.0)
+       --scrim-strong (.72)  ->  5.67:1  safe for body copy   (>=4.5)
+     Use --scrim-strong whenever the image is not art-directed.               */
+  --opacity-disabled:  .45;
+  --opacity-muted:     .65;
+  --opacity-hover:     .85;
+
+  --scrim-subtle: rgba(0,48,94,.35);   /* navy veil, keeps image legible      */
+  --scrim-medium: rgba(0,48,94,.55);   /* headline over photography           */
+  --scrim-strong: rgba(0,48,94,.72);   /* body copy over photography          */
+
+  /* Directional scrim for hero bands: image stays visible at the top, type
+     sits in the darkened foot. */
+  --scrim-gradient: linear-gradient(180deg,
+                    rgba(0,48,94,0)   0%,
+                    rgba(0,48,94,.15) 40%,
+                    rgba(0,48,94,.78) 100%);
+}

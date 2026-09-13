@@ -1,0 +1,85 @@
+<!-- @dsCard group="Charts" viewport="860x860" name="Pilot-cities map" subtitle="The supplied artwork, and the contract a vector rebuild must meet" -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+body{margin:0;padding:28px;background:#fff;color:var(--text-body);font-family:var(--font-sans)}
+h1{font-size:var(--text-2xl);margin-bottom:6px}
+h2{font-size:var(--text-lg);margin:26px 0 10px}
+.sub{color:var(--text-muted);font-size:var(--text-sm);max-width:72ch;margin-bottom:18px}
+.note{font-size:var(--text-sm);color:var(--text-muted);max-width:74ch;margin-top:10px}
+table{border-collapse:collapse;width:100%;font-size:13px;margin-top:8px}
+th,td{border:1px solid var(--table-border);padding:7px 9px;text-align:left;vertical-align:top}
+th{background:var(--table-header-bg);color:var(--table-header-fg);font-weight:600}
+tbody tr:nth-child(even){background:var(--table-zebra-bg)}
+code{font-family:var(--font-mono);font-size:.92em;background:var(--ucan-green-12);padding:1px 4px}
+.bad{background:var(--state-error-bg);border-left:4px solid var(--state-error-fg);padding:12px 14px;margin-top:10px}
+.good{background:var(--state-success-bg);border-left:4px solid var(--state-success-fg);padding:12px 14px;margin-top:10px}
+.warn{background:var(--state-warning-bg);border-left:4px solid var(--state-warning-fg);padding:12px 14px;margin-top:10px}
+.maps{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:10px}
+.maps figure{margin:0}
+.maps img{width:100%;display:block;background:var(--surface-card);border:1px solid var(--border-hairline)}
+.maps figcaption{font-size:11px;color:var(--text-muted);font-family:var(--font-mono);margin-top:4px}
+</style>
+</head>
+<body>
+<h1>The pilot-cities map</h1>
+<div class="sub">Six pilot cities on a map of Ukraine is U_CAN's signature graphic. The WP7 artwork
+has now been located and is in <code>assets/maps/</code> — but only as raster. This card carries
+both: what you can use today, and the contract a vector rebuild must meet.</div>
+
+<div class="good"><b>Found.</b> <code>WP7…/Communication materials/Maps/</code> holds the real
+artwork in <b>five colourways</b>, 1024&nbsp;×&nbsp;537 PNG. Ukraine in grey, the six pilot oblasts
+filled, yellow dots on the pilot cities, other cities as navy dots. Only one variant carries city
+labels; the other four are unlabelled so a layout can set its own type.</div>
+
+<div class="maps">
+  <figure><img src="../assets/maps/ukraine-pilots-light-blue-with-names.png" alt="Map of Ukraine with the six U_CAN pilot oblasts filled in blue and labelled: Lviv, Ivano-Frankivsk, Khmelnytskyi, Vinnytsia, Zhytomyr and Kyiv"><figcaption>light-blue-with-names — the only labelled variant</figcaption></figure>
+  <figure><img src="../assets/maps/ukraine-pilots-dark-green-no-names.png" alt="The same map of Ukraine with the six pilot oblasts filled in dark green and no city labels"><figcaption>dark-green-no-names</figcaption></figure>
+</div>
+<div class="note">Also supplied: <code>light-blue-no-names</code>, <code>light-green-no-names</code>,
+<code>dark-blue-no-names</code>. The six pilot cities are <b>Lviv, Ivano-Frankivsk, Khmelnytskyi,
+Vinnytsia, Zhytomyr and Kyiv</b> — always list them in text near the figure, never leave the map as
+the only place a fact appears.</div>
+
+<div class="bad"><b>No vector master exists.</b> Both project Drive folders were searched in full —
+3 319 files. The only SVGs anywhere are the eleven LHD partner logos. The 19 MB rolldown banners are
+single flat rasters, the pilot postcards are rasters, and <code>D2.1_U_CAN_Interactive map</code> is
+a report <i>about</i> the map whose figures are screenshots. <b>At 1024&nbsp;px the map is ~124 dpi
+at A4 — fine projected at 1280&nbsp;px, too coarse to print.</b></div>
+
+<div class="warn"><b>Two ways to close this.</b> <b>(1)</b> Ask WP7 comms for the Illustrator source —
+five clean colourways of one artwork is the signature of a single <code>.ai</code> with swapped
+swatches, so it exists; it has simply never been shared into the archive. That also gives
+<code>UkraineMap</code> the oblast paths it needs. <b>(2)</b> Rebuild from open oblast geodata, which
+needs a decision on the source and its licence. Until then use the PNGs on screen and keep the map
+out of print deliverables at A4.</div>
+
+<h2>Specification — what a vector rebuild must meet</h2>
+<table><thead><tr><th>Element</th><th>Rule</th></tr></thead><tbody>
+<tr><td>Base landmass</td><td><code>--chart-seq-1</code> #E3EDFA fill, <code>--chart-grid</code> 1px stroke. The country is a ground, not a data layer — it must not compete with the markers.</td></tr>
+<tr><td>Oblast boundaries</td><td>Shown only when oblast-level data is being encoded. Otherwise omitted — they add 24 lines and no information. <i>Note the supplied artwork fills whole oblasts rather than marking points; a rebuild should keep that, since the pilots are oblast-scale programmes.</i></td></tr>
+<tr><td>Pilot city marker</td><td>Filled circle, <code>--ucan-blue</code>, 10px radius, 2px white halo so it survives on any base tint.</td></tr>
+<tr><td>Mission (twinned) city</td><td>Hollow circle, <code>--ucan-blue</code> 2px stroke, white fill. <b>Shape distinguishes the two categories, not colour.</b></td></tr>
+<tr><td>Labels</td><td>Always visible — never hover-only. <code>--chart-value-label</code>, 12px, 600 weight, offset 12px right of the marker, with a 3px white text-halo.</td></tr>
+<tr><td>Bilingual names</td><td>English name first, Ukrainian in the same label tagged <code>lang="uk"</code>, e.g. "Khmelnytskyi / <span lang="uk">Хмельницький</span>".</td></tr>
+<tr><td>Intensity / choropleth</td><td><code>--chart-seq-1</code> → <code>--chart-seq-6</code>, six steps maximum. The two lightest steps need a <code>--chart-grid</code> hairline or the shape loses its edge against the page.</td></tr>
+<tr><td>Format</td><td><b>SVG, always.</b> A map in a deliverable gets printed at A4 and projected at 1280px from the same file. <i>The supplied PNG does not meet this and is an interim.</i></td></tr>
+<tr><td>Accessibility</td><td><code>role="img"</code> plus a list of the six cities in text near the figure.</td></tr>
+</tbody></table>
+
+<h2>Marker key</h2>
+<svg width="420" height="90" role="img" aria-label="Marker key: filled circle is a pilot city, hollow circle is a twinned EU Mission city">
+  <circle cx="24" cy="26" r="10" fill="#0463CD" stroke="#fff" stroke-width="2"/>
+  <text x="44" y="31" font-size="13" fill="#00305E" font-weight="600">Pilot city</text>
+  <text x="140" y="31" font-size="12" fill="#5A6672">Khmelnytskyi / Хмельницький</text>
+  <circle cx="24" cy="64" r="9" fill="#fff" stroke="#0463CD" stroke-width="2"/>
+  <text x="44" y="69" font-size="13" fill="#00305E" font-weight="600">Mission city</text>
+  <text x="140" y="69" font-size="12" fill="#5A6672">twinned EU partner</text>
+</svg>
+<div class="note"><b>Why shape and not colour.</b> The two categories sit on the same map at the same
+size; if they differed only in hue, a greyscale print of the deliverable would merge them. Filled
+versus hollow survives greyscale, photocopying and colour blindness alike.</div>
+</body></html>

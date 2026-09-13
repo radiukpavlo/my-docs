@@ -1,0 +1,57 @@
+/* ============================================================================
+   ⛔  SUPERSEDED — DO NOT UPLOAD THIS FILE TO THE DESIGN SYSTEM  ⛔
+   ----------------------------------------------------------------------------
+   Superseded on 13 September 2026 by design system v0.2.0
+   (project a2b22667-6793-404e-821b-d5219760fa3b). Kept only as a working record.
+
+   WHY THIS IS DANGEROUS. This file predates the live palette and DISAGREES with
+   it. Uploading it would silently change the primary blue system-wide and drop
+   the semantic alias layer that every component depends on:
+
+     token            this file    LIVE system   consequence
+     --ucan-blue      #0057B7      #0463CD       every band, link and title shifts
+     --ucan-green     #3B9139      #75B23C       every field tint shifts
+     --surface-*      absent       defined       components lose their surfaces
+     --text-*         absent       defined       components lose their text colours
+
+   #0057B7 and #3B9139 are the LOGO ARTWORK's colours. #0463CD and #75B23C are
+   the OFFICE TEMPLATES' colours, and those are the brand tokens — #0463CD
+   appears 106 times in Template_Deliverable.docx and 6 times in
+   Template_Presentation.potx. The live system keeps the logo values separately
+   as --ucan-logo-blue / --ucan-logo-green-deep, which is correct.
+
+   The live tokens are at tokens/ in the design system project. Use those.
+   ========================================================================== */
+
+/* =============================================================================
+   U_CAN — Layout scales                                        tasks C1 · C2
+   ========================================================================== */
+:root{
+  /* --- C1 Breakpoints -----------------------------------------------------
+     Custom properties cannot be used inside @media queries, so these exist as
+     the documented source of truth; the literal values must be repeated in the
+     query itself. Intended behaviour at each step:
+       sm  480px  single column throughout; nav collapses to a menu button;
+                  deck/report previews scroll rather than scale.
+       md  768px  two-column content bands; side-by-side figure + caption;
+                  the website kit's card grid goes 1 -> 2 up.
+       lg 1024px  full three-column grid; sticky section nav appears;
+                  document kit shows the running header.
+       xl 1280px  --container-wide stops growing; gutters widen only.        */
+  --bp-sm:  480px;
+  --bp-md:  768px;
+  --bp-lg: 1024px;
+  --bp-xl: 1280px;
+
+  /* --- C2 Container widths / measure -------------------------------------- */
+  --container-text:  68ch;   /* long-form reading column, ~66 chars           */
+  --container-wide: 1180px;  /* wide content column: cards, tables, galleries */
+  --container-full: 100%;    /* full-bleed band used by deck + website hero   */
+  --gutter:          24px;
+  --gutter-lg:       40px;
+
+  /* Measure limits for the document kit (task A5 / C2). Below 45 characters
+     the eye re-tracks too often; above 85 it loses the line start.           */
+  --measure-min: 45ch;
+  --measure-max: 85ch;
+}

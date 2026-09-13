@@ -38,6 +38,11 @@ The workshop also explores how three actors jointly keep the pilot alive under t
 **Goal:** validated, resilient pathways for pilot implementation and replication.
 Swati will re-summarise the four scenarios at the start of the session.
 
+> **Prepared materials for this session are ready:** see
+> `../../U_CAN_2026-09-14_Scenario-Stress-Testing/` — prepared answers for all four scenarios,
+> technical annex (degradation modes, non-AI fallbacks, lock-in analysis), team role cards and a
+> printable one-page cheatsheet. Background knowledge: [09_Scenario_Planning_Track.md](09_Scenario_Planning_Track.md).
+
 **Preparation for Pavlo:** be ready to speak to the technical side of each of the four scenarios —
 degradation modes of the adaptive traffic system, non-AI fallbacks, what parts of the stack are
 affordable/replaceable, and which institutional measures at KhNU would harden the pilot.
