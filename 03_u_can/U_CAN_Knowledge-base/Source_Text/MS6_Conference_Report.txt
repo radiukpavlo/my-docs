@@ -1,0 +1,339 @@
+Conference Report:
+“Reducing CO₂ Emissions in Ukrainian Cities: Pathways to Climate Neutrality”
+for
+U_CAN
+Ukraine towards Carbon Neutrality
+Grant Agreement 101148374
+https://www.ucan-ukraine.eu/
+Author: the KhNU team
+Version 1.0 as of 08/06/2026
+U_CAN
+Ukraine towards Carbon Neutrality
+Document History
+© 2026 U_CAN Consortium. All rights reserved.
+No copying or distributing in any form or by any means is allowed without the prior written agreement. In addition to such written permission, the source must be clearly referenced.
+Disclaimer
+Funded by the European Union. Views and opinions expressed are, however, those of the author(s) only and do not necessarily reflect those of the European Union or European Commission. Neither the European Union nor the European Commission can be held responsible for them.
+All U_CAN Consortium members are also committed to publish accurate and up to date information and take the greatest care to do so. However, the Consortium members cannot accept liability for any direct, indirect, special, consequential or other losses or damages of any kind arising out of the use of this information.
+Acknowledgment
+The U_CAN project has received funding from the European Union’s Horizon Europe Framework Programme for Research and Innovation under grant agreement No. 101148374.
+Table of contents
+Executive Summary
+Conference overview and reporting summary
+The International Conference “Reducing CO₂ Emissions in Ukrainian Cities: Pathways to Climate Neutrality” was organised by Khmelnytskyi National University (KhNU) on 24 April 2026 in Khmelnytskyi, Ukraine, in a hybrid format. The event was delivered within the Horizon Europe project “U_CAN – Ukraine towards Carbon Neutrality” [1] (Grant Agreement No. 101148374 [2]) and is reported here as evidence for the MS6 milestone, WP4 Task 4.5 implementation in Khmelnytskyi, and WP7 communication, dissemination and exploitation records (Table 1).
+Table
+1
+: Conference overview and reporting summary
+The verified evidence base includes the approved bilingual agenda, the public conference website, the KhNU public news post, a registration workbook with 44 records, a feedback workbook with 25 responses collected from 7 May 2026 to 4 June 2026, a speaker tracker with 20 named speaker records, photographs, QR-code materials, and local video files.
+Illustrations 1 and 2 showcase the public communication evidence that supports the Executive Summary and WP7 reporting record.
+Illustration
+1
+: KhNU public news post on the conference, published on 1 May 2026. Source: public KhNU International Relations Office page [3]
+The conference strengthened the enabling conditions for future low-emission mobility actions by connecting municipal departments, city practitioners, researchers, European partners and Ukrainian peer-city experience. It should not be interpreted as direct evidence of reduced emissions; its verified contribution is dissemination, municipal knowledge exchange, policy alignment and a practical uptake pathway for adaptive traffic management and related climate-neutral mobility measures.
+Milestone completion statement
+This report documents the completion of Milestone MS6 through the organisation and delivery of the International Conference “Reducing CO₂ Emissions in Ukrainian Cities: Pathways to Climate Neutrality”, held on 24 April 2026 in Khmelnytskyi, Ukraine, in a hybrid format. The milestone is considered completed because the conference was delivered as a full-day knowledge-dissemination, stakeholder-engagement and municipal-exchange activity directly linked to WP4 Task 4.5, namely the Khmelnytskyi pilot on climate-neutral pilot activities, adaptive traffic management, transport-related CO₂ reduction, and local policy capacity.
+Table 2 records the verification methods and deviation status used for milestone evidence.
+Table
+2
+: Milestone completion and means of verification
+Illustration
+2
+: Dedicated bilingual U_CAN conference website showing the agenda page and project visibility elements. Source: public conference website [4]
+Project and Conference Background
+U_CAN supports Ukrainian cities in moving towards climate neutrality by aligning local urban transformation with European climate and smart-city priorities. Within WP4, pilot implementation in Ukraine is supported by European front-runners. For Khmelnytskyi, Task 4.5 links knowledge dissemination on CO₂ reduction with the development of an adaptive traffic management approach and city-level policy capacity.
+The conference connected the technical KhNU pilot to the city's institutional needs. KhNU researchers and invited speakers addressed AI-supported traffic pattern recognition, topography-aware traffic signal control, digital modelling, sustainable urban mobility planning, and municipal implementation conditions. Illustration 3 documents the event setting in which this project and municipal exchange took place.
+Illustration
+3
+: Conference room and partner-country flags during the hybrid event at KhNU on 24 April 2026. Source: conference archive [5]. Relevance: documents the in-person setting and international cooperation context
+Organisation with Khmelnytskyi City Council and Strategic Alignment
+The conference was organised by KhNU in collaboration with KhCC, which was listed as a co-organiser in the official agenda and represented municipal transport, infrastructure, public transport, and environmental services. The cooperation was practical: it connected the pilot topic with the departments and municipal enterprises relevant to traffic-light regulation, transport modelling, electric public transport, infrastructure planning, and smart-environment management.
+Illustrations 4 and 5 show the formal event setting, participant engagement and partner visibility. Tables 3 and 4 translate the Strategy link from a general alignment statement into operational municipal functions and possible implementation uses.
+Illustration
+4
+: Opening and moderation setting at the conference venue. Source: conference archive [5]. Relevance: documents organised delivery of the opening block and institutional setting
+Illustration
+5
+: Participants standing during the opening segment. Source: conference archive [5]. Relevance: documents in-person participation and formal event opening
+Table
+3
+: Alignment with the Khmelnytskyi 2035 Development Strategy
+Table
+4
+: 2035 Strategy implementation contribution pathway [6]
+Programme and Thematic Sessions
+The agenda was organised as a full-day hybrid conference. It began with registration and an opening session, then moved through a plenary block on sustainable urban mobility, European solutions for low-emission mobility, Ukrainian municipal measures and a final session on citizen engagement and digital innovation. Table 5 summarises the programme logic.
+Table
+5
+: Programme structure and analytical contribution
+Opening Session – Ukraine on the Path to Carbon Neutrality
+The opening session established the institutional and municipal framing for the event and confirmed that the conference was a project milestone activity connected to city implementation capacity. Illustration 6 provides visual evidence of the hybrid format, session delivery and audience engagement across the day.
+Illustration
+6
+: Hybrid participation during an online speaker contribution. Source: conference archive [5]. Relevance: documents the hybrid format and access for European speakers
+Keynote Address – Sustainable Urban Mobility
+The plenary block connected U_CAN coordination and the European mobility experience with the Ukrainian city's needs. Online participation widened access to speakers from European partner organisations (Illustration 7).
+Illustration
+7
+: Online speaker shown on the conference display. Source: conference archive [5]. Relevance: documents remote expert participation and hybrid delivery
+Illustration
+8
+: Audience and municipal/practitioner participants during the programme. Source: conference archive [5]. Relevance: documents stakeholder engagement beyond the organising team
+Session I – European Solutions for Low-Emission Mobility
+Session I presented European and cross-city perspectives on low-emission mobility, SUMP logic, governance and public engagement.
+Illustration
+9
+: Session presentation delivered in the conference room. Source: conference archive [5]. Relevance: documents the dissemination of technical and policy content
+Illustration
+10
+: Local media filming beside U_CAN and EU visibility materials. Source: conference archive [5]. Relevance: documents public communication and media dissemination
+Session II – Measures to Reduce CO₂ Emissions in Ukrainian Cities
+Session II was the strongest municipal implementation block, linking KhCC, municipal enterprises and Ukrainian peer-city practice.
+Illustration
+11
+: Moderator and technical desk supporting hybrid delivery. Source: conference archive [5]. Relevance: documents operational capacity for online and in-room participation
+Session III – Citizen Engagement and Digital Innovation
+Session III linked technical innovation with governance and public participation, showing that climate-neutral mobility requires a combination of data, institutional capacity and citizen-facing communication.
+Illustration
+12
+: Media interview connected with the conference. Source: conference archive [5]. Relevance: documents post-event public communication and media evidence
+Illustration
+13
+: Morning plenary setting with online display and in-room participants. Source: conference archive [5]. Relevance: documents hybrid event delivery
+Speakers and Stakeholders
+The speaker tracker contains 20 named speaker records across the opening session, plenary session and three thematic sessions. The records identify Ukrainian and European contributors from municipal authorities, public transport and infrastructure organisations, universities, European mobility initiatives and U_CAN partners. Table 6 summarises stakeholder groups, while Table 7 records the aggregate speaker profile without exposing personal contact data.
+Table
+6
+: Target-group and stakeholder matrix
+Table
+7
+: Aggregate speaker profile from the speaker tracker
+Participant and Feedback Evidence
+Participant and feedback evidence is reported in aggregate form only. The registration workbook contains personal data and contact details and is therefore used solely for verified counts, consent status, and broad reporting indicators (Table 8). The speaker tracker is maintained separately from participant registration records; consequently, online speaker participation is not interpreted as online participant registration unless separately recorded in the registration workbook or Zoom evidence. The 44-registration records document registration evidence, while the 25 validated feedback responses document post-event quality evidence and follow-up preferences. Neither dataset is presented as a fully audited attendance count (Table 9).
+Table
+8
+: Participant and reach indicators
+Table
+9
+: Feedback summary from validated response workbook
+The feedback results should be interpreted as a response-based quality indicator rather than as a statistically representative survey of all participants. Contact details and raw responses remain restricted. Only anonymised aggregate findings are reproduced in this public report.
+Illustration 14 documents the technical session context used for registration and feedback access.
+Illustration
+14
+: Presentation slide supporting technical mobility discussion. Source: conference archive [5]. Relevance: documents evidence used for transport and emissions dialogue
+Substantive Outcomes and Contribution to the Khmelnytskyi Pilot
+The main substantive outcome was strengthened knowledge exchange on reducing transport-related CO₂ emissions in Ukrainian cities. The conference increased visibility of U_CAN and of the KhNU pilot; disseminated European approaches to low-emission mobility; presented Ukrainian municipal practices; and created a structured policy bridge between the Khmelnytskyi 2035 Strategy [6] and practical adaptive traffic management works [7], [8].
+The technical framing is supported by open-access KhNU-linked research on adaptive machine learning for sustainable traffic planning and topography-aware traffic control. These publications are cited as scientific background for the pilot, not as measured impacts of the conference itself. Illustrations 15–21 show the technical and municipal discussion context connected with these outcomes.
+Illustration
+15
+: Speaker contribution during a thematic session. Source: conference archive [5]. Relevance: documents delivery of session content and stakeholder participation
+Illustration
+16
+: U_CAN project slide shown during the programme. Source: conference archive [5]. Relevance: documents project-level framing and EU-funded project visibility
+Illustration
+17
+: Transport-related presentation slide used during the conference. Source: conference archive [5]. Relevance: documents technical discussion of urban mobility measures
+Illustration
+18
+: Speaker presenting technical or municipal evidence during the afternoon programme. Source: conference archive [5]. Relevance: documents thematic delivery and knowledge exchange
+Illustration
+19
+: Presentation contribution in the digital innovation and transport management block. Source: conference archive [5]. Relevance: documents KhNU pilot-related dissemination
+Illustration
+20
+: Hybrid session evidence with screen and speaker during a later programme block. Source: conference archive [5]. Relevance: documents continued conference delivery
+Illustration
+21
+: Speaker discussing technical application in the final programme block. Source: conference archive [5]. Relevance: supports digital innovation and adaptive traffic-management reporting
+Table 10 presents the output-outcome-impact pathway.
+Table
+10
+: Output-outcome-impact pathway
+Communication, Dissemination and Exploitation
+The report separates communication, dissemination, and exploitation to align with Horizon Europe’s logic. Communication evidence includes public visibility, the website, the KhNU news post, media filming and QR materials. Dissemination evidence includes the agenda, speaker presentations, technical content, recordings and stakeholder exchange. Exploitation and uptake concern future use of the knowledge by municipal, academic and project actors.
+Illustrations 22 and 23 document public/media evidence and a completion-stage group photograph. Tables 11 and 12 define the communication log and uptake pathway.
+Illustration
+22
+: Closing-stage speaker contribution at the venue. Source: conference archive [5]. Relevance: documents final session delivery
+Illustration
+23
+: Group photograph of conference participants after the event. Source: conference archive [5]. Relevance: documents stakeholder participation and conference completion
+Table
+11
+: Communication, dissemination and exploitation log
+Table
+12
+: Exploitation and uptake pathway
+Sustainability and Accessibility Measures
+The conference organisation reflected project sustainability principles through digital access to programme, registration and feedback materials, hybrid participation, reusable visibility materials and limited reliance on printed documents.
+Illustration 24 shows the registration and feedback QR-code materials used for low-paper participant access.
+Illustration
+24
+: QR codes supported digital access to (a) conference registration form and (b) feedback form and digital participant materials, reducing reliance on printed documents.
+Open Science, Data Management and Access to Materials
+The report applies the Horizon Europe principle “as open as possible, as closed as necessary”. Public materials such as the conference website, public posts, the agenda, and open-access research references are cited openly. Personal data, raw registration records, contact details, feedback contacts and identifiable recordings are treated as controlled-access evidence and are not reproduced in raw form (Table 13).
+Table
+13
+: Access status of conference materials
+Ethics, GDPR and Consent
+Identifiable photographs, video frames, registration records, feedback records, and follow-up contact preferences are treated as personal data. KhNU, as the local event organiser and evidence holder for this milestone report, retains the raw registration and feedback materials in a restricted internal evidence archive in accordance with the project’s data-management procedures. Access to raw personal data is limited to authorised project staff who require access for reporting, verification, audit, dissemination-permission management, or follow-up communication where consent has been provided.
+The report uses only aggregate or anonymised participant and feedback information. Personal contact details, individual feedback entries, raw registration records, and identifiable consent records are not reproduced in the public version of the report. Follow-up communication will be sent only to participants who provided permission for contact or where another valid project basis exists under the applicable data-management procedures. Identifiable images and recordings may be reused only where the registration/consent record, event notice, or project communication permissions support such reuse.
+The controlled-access evidence archive should retain the registration workbook, feedback workbook, consent records, photo/video permission evidence, and video files for verification purposes. If a project review, audit, or granting-authority request requires access, the relevant documents should be provided through the coordinator or according to the project’s agreed reporting procedure.
+Conclusion
+The International Conference “Reducing CO₂ Emissions in Ukrainian Cities: Pathways to Climate Neutrality” was successfully organised and conducted by Khmelnytskyi National University on 24 April 2026, confirming the achievement of its milestone and dissemination objectives within the U_CAN project. Throughout the opening session, university and municipal representatives framed climate neutrality as a shared responsibility that requires cooperation among research, city administration, and public service actors. The plenary contributions linked U_CAN’s Ukrainian pilot work with European experience in sustainable urban mobility, zero-carbon districts and integrated energy-mobility systems.
+Session I disseminated European approaches to low-emission mobility, including sustainable urban mobility planning, governance, public engagement and cross-city learning. Session II translated these ideas into the Ukrainian municipal context, highlighting transport management, electric public transport, urban infrastructure, spatial planning and practical experience from Khmelnytskyi, Vinnytsia and Lviv. Session III connected citizen engagement, geoengineering, smart environmental management, public administration and KhNU’s AI-based adaptive traffic-management research, showing that future emission-reduction measures depend on both technical innovation and institutional capacity.
+The conference achieved its milestone purpose by delivering a documented dissemination, stakeholder-engagement and municipal-exchange activity under WP4 Task 4.5, with links to WP7 communication, dissemination and exploitation. It increased the visibility of U_CAN, strengthened cooperation between KhNU and KhCC, disseminated European and Ukrainian low-emission mobility practices, and created an evidence-based basis for future pilot uptake. Finally, the conference report documents enabling conditions for subsequent Strategy-aligned, data-informed and replicable climate-neutral mobility actions in Ukrainian cities.
+References
+U_CAN project website: https://www.ucan-ukraine.eu/ (accessed 11/05/2026).
+CORDIS website (Ukraine towards Carbon Neutrality): https://cordis.europa.eu/project/id/101148374 (accessed 11/05/2026).
+KhNU International Relations Office public conference post: https://iro.khmnu.edu.ua/en/hmelnyczkyj-naczionalnyj-universytet-stav-platformoyu-dlya-obgovorennya-shlyahiv-do-klimatychnoyi-nejtralnosti-ukrayinskyh-mist/ (accessed 11/05/2026).
+U_CAN conference website, agenda page: https://ucan-conference.khmnu.edu.ua/en/programa/ (accessed 11/05/2026).
+Internal evidence archive: approved bilingual agenda, registration workbook, feedback workbook, speaker tracker, photo archive, QR-code materials and MP4 video files (controlled-access project evidence, feedback workbook reviewed 07/06/2026).
+Khmelnytskyi 2035 Strategy page: https://www.khm.gov.ua/uk/node/64755 (accessed 11/05/2026).
+Pavlyshyn, V.; Manziuk, E.; Barmak, O.; Radiuk, P.; Krak, I. An Adaptive Machine Learning Approach to Sustainable Traffic Planning: High-Fidelity Pattern Recognition in Smart Transportation Systems. Future Transportation 2025, 5(4), 152.: https://www.mdpi.com/2673-7590/5/4/152 (accessed 11/05/2026).
+Ryzhanskyi, O.; Barmak, O.; Manziuk, E.; Radiuk, P.; Krak, I. Topography-Aware Deep Reinforcement Learning with Contextual Reward Engineering for Sustainable and Efficient Urban Traffic Control. Future Transportation 2026, 6(2), 82.: https://www.mdpi.com/2673-7590/6/2/82 (accessed 11/05/2026).
+European Research Executive Agency, Horizon Europe - Grants & reporting: https://rea.ec.europa.eu/horizon-europe-grants-reporting_en (accessed 11/05/2026).
+European Commission / CINEA, Communication requirements: https://cinea.ec.europa.eu/beneficiaries-corner/communication-and-raising-eu-visibility/what-are-communication-requirements_en (accessed 11/05/2026).
+European Commission, Dissemination and exploitation of research results: https://research-and-innovation.ec.europa.eu/strategy/dissemination-and-exploitation-research-results_en (accessed 11/05/2026).
+European Research Executive Agency, Open science: https://rea.ec.europa.eu/open-science_en (accessed 11/05/2026).
+Annexes
+Annex A: Full conference agenda
+The agenda below, presented in illustrations A1 and A2, is reproduced from the approved English agenda and supports the programme interpretation in Table 5.
+Illustration A1: Screenshot of the full conference agenda, part 1. Source: public conference website and conference archive [4]
+Illustration A2: Screenshot of the full conference agenda, part 2. Source: public conference website and conference archive [4]
+Annex B: Speaker list and affiliations
+Table B1: Annex B speaker records without contact data
+Annex C: Feedback questionnaire and anonymised summary
+The feedback workbook contains 25 responses covering ratings, topic relevance, learning, preferred sessions, application plans, cooperation interest, networking, follow-up activities, respondent field, city/region and contact-permission status. Personal contact fields are not reproduced. The anonymised aggregate findings are reported in Table 9 and support future improvement of U_CAN dissemination activities.
+Overall conference rating: average 4.88 / 5; 5/5: 22; 4/5: 3.
+Topic relevance: average 4.44 / 5; 5/5: 14; 4/5: 8; 3/5: 3.
+Most valuable sessions and follow-up interests: Session I was selected most often (12 responses); leading follow-up interests were workshops (13), EU exchange (11), pilot projects (10), digital tools (9) and policy-development support (5).
+Contact details: excluded from this public report and treated as restricted personal data.
+Programme: Horizon Europe Framework Programme (HORIZON) Grant Agreement: 101148374 | Programme: Horizon Europe Framework Programme (HORIZON) Grant Agreement: 101148374
+Call: Topic: Type of Action: Project start date: Duration: | HORIZON-MISS-2023-CIT-02 HORIZON-MISS-2023-CIT-02-01 HORIZON Coordination and Support Actions 1 May 2024 48 months
+Conference Report: “Reducing CO₂ Emissions in Ukrainian Cities: Pathways to Climate Neutrality” | Conference Report: “Reducing CO₂ Emissions in Ukrainian Cities: Pathways to Climate Neutrality”
+Related Work Package | WP4 – Pilot Implementation in Ukraine, supported by European front-runners; linked to WP7 Communication, Dissemination and Exploitation
+Dissemination Level | PU – Public
+Version | 1.0
+Date of completion | 08/06/2026
+Lead Partner | Khmelnytskyi National University (KhNU)
+Editors | Kateryna Skyba (KhNU); Oleksandr Barmak (KhNU); Eduard Manziuk (KhNU); Pavlo Radiuk (KhNU)
+Contributors | LYKUML; Khmelnytskyi City Council (KhCC); ISKPI; TUD; WUST; AU; invited municipal and academic speakers
+Reviewers | Swati Kulashri (TUD); Claudia Hawke (TUD)
+Approver | Claudia Hawke (TUD)
+Version | Date | Author/s | Organisation | Description
+0.1 | 11/05/2026 | Pavlo Radiuk, Eduard Manziuk, Oleksandr Barmak, Kateryna Skyba, Oleg Sinyuk, Serhii Matiukh | KhNU | Initial draft
+0.2 | 26/05/2026 | Swati Kulashri | TUD | Reviewer input
+0.3 | 27/05/2026 | Claudia Hawke | TUD | Reviewer input
+1.0 | 08/06/2026 | Pavlo Radiuk, Eduard Manziuk, Oleksandr Barmak, Kateryna Skyba, Oleg Sinyuk, Serhii Matiukh | KhNU | Final version
+Field | Verified reporting content
+Conference title | International Conference “Reducing CO₂ Emissions in Ukrainian Cities: Pathways to Climate Neutrality”
+Date and place | 24 April 2026, Khmelnytskyi, Ukraine
+Format | Hybrid: in-person participation at KhNU and online participation through Zoom
+Host | Khmelnytskyi National University (KhNU)
+Co-organisers | LYKUML, KhCC, ISKPI, TUD, WUST and AU, as listed in the official agenda
+Project context | U_CAN – Ukraine towards Carbon Neutrality, Horizon Europe, GA No. 101148374
+Primary U_CAN relevance | WP4 Task 4.5 Khmelnytskyi pilot: knowledge dissemination, adaptive traffic management and local policy support
+Evidence package | Agenda, public website, public news post, registration workbook, 25-response feedback workbook, speaker tracker, photo archive, QR materials and video files
+Milestone | Related task | Completion evidence | Status | Deviation
+MS6 | WP4 / Task 4.5 – Climate-neutral pilot activities in Khmelnytskyi | Hybrid conference delivered on 24 April 2026; agenda, website, registration evidence, visual archive, speaker materials, 25-response feedback workbook and public communication evidence available | Completed | No milestone-delivery deviation identified in the evidence reviewed
+Strategy priority | Conference contribution | Expected implementation value
+Clean air and climate resilience | Discussion of congestion reduction, urban traffic control, vehicle emissions and low-emission mobility | Supports integration of emission and air-quality criteria into mobility decisions
+Digital transformation and smart solutions | Adaptive traffic management, video-camera data, modelling, AI-based pattern recognition and smart-environment tools | Builds a practical foundation for data-driven municipal governance
+Ecological and accessible transport infrastructure | Municipal and inter-city exchange on public transport, traffic regulation, parking and active mobility | Informs safer, more inclusive and environmentally oriented mobility interventions
+European integration and international cooperation | Participation of TUD, WUST, AU, Mobility2Grid, Mobilities for EU and Ukrainian peer cities | Connects Khmelnytskyi to tested European methods and replication channels
+Strategy objective | Conference input | Municipal application | City function | Expected indicator
+Cleaner and safer transport | Adaptive traffic-management pilot and public transport exchange | Prioritise intersections or corridors where signal control and public-transport operations can reduce congestion | Transport and communications | Defined pilot corridor or intersection package
+Digital public services | AI, video-derived data and modelling presentations | Create a shared technical data workflow between KhNU and municipal services | Smart city / digital governance | Data-access protocol or technical working group
+Ecological infrastructure | Electric transport and infrastructure presentations | Link mobility planning with clean-air and infrastructure priorities | Urban infrastructure and environment | Project ideas for the 2026–2030 action plan
+Public participation | Citizen engagement and feedback mechanisms | Use feedback and public communication channels in future pilot design | Public administration and communication | Stakeholder consultation or workshop record
+Time | Session | Main contribution to conference objectives
+09:30–10:00 | Registration | Enabled hybrid and in-person coordination by the KhNU organising team
+10:00–10:30 | Opening Session – Ukraine on the Path to Carbon Neutrality | Positioned the conference within U_CAN, KhNU’s institutional role and the city’s climate-neutrality agenda
+10:30–12:00 | Keynote Address – Sustainable Urban Mobility | Connected Ukrainian participants with European project coordination, mobility innovation and energy-mobility integration
+12:00–13:00 | Session I – European Solutions for Low-Emission Mobility | Shared European approaches to suburbanisation, governance, public engagement and pilot-city experience
+14:00–15:30 | Session II – Measures to Reduce CO₂ Emissions in Ukrainian Cities | Grounded the discussion in municipal practice from Khmelnytskyi, Vinnytsia and Lviv
+15:30–17:00 | Session III – Citizen Engagement and Digital Innovation | Linked geoengineering, smart environment tools, public administration and AI-based traffic management
+17:00–17:15 | Closing Remarks and Summary | Consolidated conclusions, follow-up directions and dissemination value
+Target group | Evidence of participation | Needs addressed | U_CAN relevance | Follow-up potential
+KhNU and the pilot team | Host role, agenda, speaker tracker, visual archive | Research dissemination and pilot translation | Core WP4 implementation capacity | Technical working group and reporting evidence
+KhCC and municipal services | Agenda, public post, registration and photo evidence | Traffic management, infrastructure, public transport and smart environment needs | Municipal uptake route for Task 4.5 | Pilot corridor discussions and data-access coordination
+European partners and mobility initiatives | Online speaker records and public website | Transfer of SUMP, living-lab and integrated mobility experience | European front-runner support for Ukrainian pilots | Follow-up workshops and peer review
+Ukrainian peer cities | Agenda and registration evidence | Exchange on practical mobility planning and traffic management | Replication and cross-city learning | Peer-city knowledge exchange
+Students, researchers and civil society-facing actors | Registration and feedback workbooks | Capacity building and public engagement | WP7 dissemination and skills development | Training, workshops and student involvement
+Indicator | Verified value | Evidence source | Reporting relevance
+Named speaker records | 20 | Speaker tracker workbook | Confirms the scale of the programme
+Countries represented in speaker records | Ukraine: 15; Germany: 3; Poland: 1; Denmark: 1 | Speaker tracker workbook | Documents Ukrainian and European participation
+Session distribution | Opening session: 4; Plenary session: 3; Session I: 3; Session II: 5; Session III: 5 | Speaker tracker workbook | Supports programme completeness
+Participation modes in the tracker | In person: 13; Online: 7; TBA: 0 | Speaker tracker workbook | Supports hybrid-format evidence
+Indicator | Verified value | Evidence source | Reporting relevance
+Registration records | 44 | Registration workbook | Documents conference registration evidence
+In-person registration selections | 43 | Registration workbook | Supports evidence of in-room participation
+Online registration selections | 1 | Registration workbook | Supports hybrid access evidence
+Data-processing consent | 44 affirmative or consent-bearing records | Registration workbook | Supports GDPR and data management note
+Photo/video use consent | 44 affirmative or consent-bearing records | Registration workbook | Supports the use of identifiable visual evidence
+Public website | Published | Conference website screenshot and URL | Supports communication reach without inventing analytics
+Public KhNU post | Published on 1 May 2026 | KhNU public post screenshot and URL | Supports WP7 communication evidence
+Feedback responses | 25 | Feedback workbook | Documents post-event quality evidence and follow-up preferences
+Feedback area | Result | Interpretation | Follow-up implication
+Response count and period | 25 responses collected from 7 May 2026 to 4 June 2026 | The workbook is the current feedback dataset; response count equals 56.8% of the 44 registration records, while registration is not an audited attendance count | Use the 25-response dataset for all feedback reporting
+Overall conference rating | Average 4.88 / 5; 5/5: 22; 4/5: 3 | Respondents rated the event very positively | Maintain the event format and continue evidence collection
+Topic relevance | Average 4.44 / 5; 5/5: 14; 4/5: 8; 3/5: 3 | The topic was relevant to respondents, with most scores at 4 or 5 | Keep the focus on mobility, policy, municipal uptake and implementation
+New information received | Yes: 21; Partly: 4 | All respondents reported at least partial new information | Use follow-up workshops for deeper learning
+Most valuable session | Session I : 12; Session II : 5; Session III: 3; Opening: 3; Plenary: 2 | European mobility content remained the most frequently selected session, with meaningful interest across the municipal and digital-innovation blocks | Prioritise EU exchange while retaining municipal implementation and digital innovation content
+Plans to apply knowledge | Yes: 13; Maybe: 12 | Respondents indicate either a direct or a possible future application | Translate materials into practical follow-up formats
+Fields for applying knowledge | Education/research: 11; urban mobility/transport: 10; other: 8; policy/governance: 4 | Responses are multi-select and show both academic and transport-policy relevance | Design follow-up for both technical mobility and education/research audiences
+Interest in further U_CAN cooperation | Maybe: 14; Yes: 11 | All respondents expressed either confirmed or possible cooperation interest | Use consent-compliant follow-up communication
+New professional contacts | Partly: 15; Yes: 8; No: 2 | Networking outcomes were partly or fully achieved for most respondents | Structure networking more explicitly in future events
+Preferred follow-up activities | Workshops: 13; EU exchange: 11; pilot projects: 10; digital tools: 9; policy-development support: 5 | Workshops, EU exchange and pilot projects are the leading follow-up interests | Plan workshops and EU exchange formats around pilot-readiness needs
+Respondent's field of activity | Students: 11; science/education: 7; public authorities: 4; business: 3 | Responses cover students, academic/education actors, public authorities and business | Keep materials understandable for mixed technical and non-technical audiences
+City/region represented in feedback | Khmelnytskyi: 17; Lviv: 2; Starokostiantyniv, Shepetivka, Kamianets-Podilskyi, Vinnytsia, Ivano-Frankivsk and Zhytomyr: 1 each | Feedback covers eight city/region entries after normalising Khmelnytskyi spelling variants | Use regional spread as evidence of cross-city interest, not attendance
+Permission for follow-up contact | No: 16; Yes: 9 | Contact preferences are mixed; personal contact details are not reproduced in the report | Keep all raw contact details in the restricted evidence workbook
+Conference output | Immediate outcome | Longer-term pathway | Evidence | Caution
+Full-day hybrid programme | Shared knowledge across municipal, academic and European partners | Improved capacity to define Strategy-aligned mobility actions | Agenda, website, photos | Does not by itself prove emission reductions
+Municipal participation | Pilot topic connected to city functions | Potential data and corridor coordination for adaptive traffic management | Agenda, registration, and visual evidence | Requires follow-up agreements and data access
+Technical presentations | KhNU’s research and modelling capability disseminated | Potential use in traffic-light regulation and simulation-based planning | Speaker tracker, photos, publications | Operational deployment remains a future step
+Public website and media coverage | Wider awareness beyond the event room | Reusable communication evidence for WP7 | Website and public post screenshots | No reach analytics were available
+Feedback form | 25-response set indicates positive rating, topic relevance, cooperation interest and preferred follow-up formats | Targeted workshops, EU exchange, pilot-project support and contact-permitted cooperation pathways | Feedback workbook | Feedback is aggregate and anonymised; contact details remain restricted personal data
+Activity | Type | Date | Channel | Audience | Evidence | Horizon relevance
+Dedicated conference website | Communication / dissemination | Before and after 24 April 2026 | Public website | Participants, speakers, U_CAN partners, public audiences | Website screenshot and URL [4] | Project visibility, public access and dissemination [9]
+Official KhNU public post | Communication | 1 May 2026 | KhNU International Relations Office website | Public and institutional audiences | Public post screenshot and URL [3] | Public communication and EU visibility [10]
+Full-day hybrid agenda | Dissemination | 24 April 2026 | In-person and Zoom programme | Municipal, academic and European stakeholders | Agenda and speaker tracker [4] | Results and know-how made available to relevant users
+Photo and video archive | Communication / evidence | 24 April 2026 and post-event | Conference archive and public channels | Project reviewers, partners and public audiences where appropriate | Photo archive and MP4 files [5] | Proof of event delivery and dissemination [11]
+Feedback form and QR materials | Engagement / quality evidence | Post-event, 7 May-4 June 2026 | Digital forms | Participants and follow-up contacts | Feedback workbook with 25 responses and QR code files | Evidence for learning, future improvement and follow-up planning [12]
+Municipal technical follow-up | Exploitation / uptake | Continuing | KhNU-KhCC coordination | City departments and the pilot team | Follow-up action register | Potential use of results in policy and public services [12]
+Conference output | Potential user | Intended use | Next step | Timeline | Dependency
+Adaptive traffic-management presentation | KhNU pilot team and KhCC transport functions | Define pilot data needs and candidate intersections | Technical working meeting | Q2–Q3 2026 | Data access and municipal priorities
+European mobility cases | KhCC, KhNU and U_CAN partners | Adapt the living-lab and SUMP lessons to Ukrainian city conditions | Follow-up workshop | 2026 | Speaker availability and partner interest
+Feedback results | KhNU conference team | Improve future U_CAN events and target support using the 25-response anonymised dataset | Share anonymised feedback summary and plan workshops/EU exchange follow-up | June 2026 | Participant permissions and data protection
+Public communication materials | WP7 communication contacts | Reuse evidence for project channels | Prepare a concise news/social package | May–June 2026 | Approved text and image permissions
+2035 Strategy alignment [6] | KhCC and municipal departments | Feed project ideas into the strategy action planning | Draft implementation concept notes | 2026–2030 planning cycle | Municipal mandate and funding opportunities
+(a) | (b)
+Output | Access status | Location type | Reuse condition | Reporting use
+Conference website [4] | Public | Project/conference website | Use with the correct source and EU visibility | Communication and dissemination of evidence
+KhNU public post [3] | Public | University website | Use with source attribution | Communication evidence
+Registration workbook | Restricted | Internal evidence archive | Aggregate reporting only | Participant indicators and consent record
+Feedback workbook | Restricted | Internal evidence archive | Aggregate/anonymised reporting only; contact details excluded | 25-response quality evidence and follow-up planning
+Photo archive [5] | Controlled reuse | Conference archive | Use only where consent and communication permissions support reuse | Visual evidence and reporting
+Video files [5] | Controlled reuse | Conference archive/public channels as applicable | No quotes without a verified transcript | Video evidence and dissemination record
+Open-access publications [7] and [8] | Public | Publisher websites | Cite with bibliographic details | Scientific background for pilot logic
+Speaker | Session | Organisation | Role | Mode
+Serhii Matiukh | Opening session | Khmelnytskyi National University | Rector | In person
+Kateryna Skyba | Opening session | Khmelnytskyi National University | Vice-Rector | Online
+Oleg Sinyuk | Opening session | Khmelnytskyi National University | Vice-Rector | In person
+Mykola Vavryshchuk | Opening session | KhCC | Deputy Mayor of Khmelnytskyi | In person
+Swati Kulashri | Plenary session | Dresden University of Technology | U_CAN Project Coordinator | Online
+Frances Weiss | Plenary session | Mobilities for EU | Project Lead | Online
+Jonas Fahlbusch | Plenary session | Mobility2Grid | Deputy Managing Director | Online
+Maciej Skulimowski | Session I | Wroclaw University of Science and Technology | Research Fellow | Online
+Helle Ørsted Nielsen | Session I | Aarhus University | Senior Researcher | Online
+Yurii Polianskyi | Session I | Municipal Institution “City Institute”, Lviv | Project Manager | Online
+Volodymyr Laba | Session II | KhCC | Head of the Transport and Communications Department | In person
+Serhii Bobukh | Session II | KhCC | Director of Electrotrans, the Khmelnytskyi Municipal Enterprise | In person
+Vasyl Kabalskyi | Session II | KhCC | Deputy Director of the Department of Urban Infrastructure and Head of the Municipal  Infrastructure Department | In person
+Maksym Kravchuk | Session II | Municipal Enterprise “Agency of Spatial Development”, Vinnytsia City Council | Chief Expert in Spatial Planning | In person
+Taras Mazur | Session II | Lviv Transport Department | Head of the Department of Transport Planning, Modelling and Traffic Management | In person
+Olena Han | Session III | Igor Sikorsky Kyiv Polytechnic Institute | Associate Professor | In person
+Ivan Pidopryhora | Session III | KhCC | Head of the “Smart Environment” Office | In person
+Tetiana Pidlisna | Session III | Leonid Yuzkov Khmelnytskyi University of Management and Law | Dean of the Faculty of Public Administration | In person
+Eduard Manziuk | Session III | Khmelnytskyi National University | Professor | In person
+Pavlo Radiuk | Session III | Khmelnytskyi National University | Associate Professor | In person

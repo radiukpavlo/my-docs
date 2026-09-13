@@ -1,0 +1,48 @@
+<context>
+Візьми на себе роль відповідального виконавця проєкту U_CAN. Тобі потрібно написати короткий звіт про виконану роботу в межах проєкту за звітний період.
+</context>
+<instructions>
+Твоє завдання – написати стисло список з {num_tasks} найбільш значущих виконаних завдань у рамках проєкту U_CAN, що коротко описані в блоці {report_info}.
+– Агрегуй всі вказані виконані роботи з блоку {report_info} у {num_tasks} виконаних завдань.
+– Напиши про кожне виконане завдання одним стислим реченням.
+– Почни кожне речення з дієслова в доконаній формі, наприклад, «Проведено…", «Взято участь…", «Виконано…" тощо.
+– Подай твою відповідь нумерованим списком у форматі Markdown, аналогічно до прикладу, що наведений у блоці {report_example}.
+</instructions>
+<inputs>
+<variables>
+{num_tasks} = “сім (7)”
+</variables>
+<report_info>
+```md
+02.06.2026 – Participated in the U_CAN Consortium Meeting and reviewed current KhNU responsibilities for WP4 pilot-city activities and WP7 dissemination follow-up.
+03.06.2026 – Continued finalising the MS6 conference report by consolidating evidence on the International Conference “Reducing CO₂ Emissions in Ukrainian Cities: Pathways to Climate Neutrality”, held in Khmelnytskyi on 24 April 2026.
+04.06.2026 – Prepared and signed the June time-sheet documentation while updating the MS6 report sections linked to WP4 Task 4.5 and U_CAN reporting requirements.
+05.06.2026 – Completed the remaining MS6 report refinements, including the conference outcomes, stakeholder engagement evidence, and links to Khmelnytskyi’s adaptive traffic-management pilot.
+08.06.2026 – Started preparing the business-trip documentation for the U_CAN Consortium Meeting in L’Aquila, Italy, scheduled for 6–8 July 2026.
+09.06.2026 – Compiled the L’Aquila travel-support materials, including the invitation, agenda, and administrative evidence required for KhNU approval.
+10.06.2026 – Prepared the draft internal travel documents for the L’Aquila consortium meeting, including the business-trip objective and supporting project justification.
+11.06.2026 – Checked the consistency of the L’Aquila travel package against the U_CAN meeting dates, participant role, and KhNU administrative requirements.
+12.06.2026 – Finalised the working set of L’Aquila business-trip documents for subsequent approval and signature routing within KhNU.
+15.06.2026 – Began preparing the KhNU Pilot City annual report for May 2025–June 2026 and aligned it with the U_CAN pilot-city evidence base.
+16.06.2026 – Continued the KhNU Pilot City annual report by documenting transport-indicator work, including public-transport speed and vehicle-idling evidence for Khmelnytskyi.
+17.06.2026 – Finalised the KhNU Pilot City annual report and cross-checked its annual narrative against the U_CAN pilot timeline and June 2026 reporting needs.
+18.06.2026 – Submitted the final MS6 conference report and the KhNU Pilot City annual report for May 2025–June 2026 as completed U_CAN reporting outputs.
+19.06.2026 – Conducted computational experiments and prepared conference materials for the manuscript “Bridging the Sim-to-Real Gap in Topography-Aware Traffic Control using Automated Video Analytics”.
+22.06.2026 – Submitted the manuscript “Bridging the Sim-to-Real Gap in Topography-Aware Traffic Control using Automated Video Analytics” to the 3rd International Scientific Conference “Intelligent Transport Systems: Ecology, Safety, Quality, Comfort”, scheduled for 15–16 October 2026.
+```
+</report_info>
+<report_example>
+```md
+1. Опрацьовано (01–04.05.2026) програму конференції MS6, тематичні сесії, склад спікерів і зацікавлених сторін із використанням трекера на 20 підтверджених доповідачів та їхніх інституційних афіліацій.
+2. Проаналізовано (05–06.05.2026) реєстраційні, зворотні та змістові матеріали конференції MS6.
+3. Підготовлено (07–08.05.2026) основні розділи звіту MS6 про конференцію, включно з описом проєктного контексту, організації заходу, співпраці з Хмельницькою міською радою, узгодження зі Стратегією розвитку Хмельницького до 2035 року та доказами публічної комунікації.
+4. Завершено (11–12.05.2026) пакет звітності MS6 та презентовано прогрес за квітень-травень 2026 року на щомісячній англомовній зустрічі WP4.
+5. Взято участь (21.05.2026) в україномовному семінарі «Energy Efficiency in Martial Law», організованому LYKUML як представником пілотного міста Хмельницький.
+6. Підготовлено (27.05.2026) матеріали до щомісячної україномовної зустрічі WP4.
+7. Представлено (28.05.2026) завершені результати U_CAN за квітень-травень 2026 року на щомісячній україномовній зустрічі WP4.
+```
+</report_example>
+</inputs>
+<output>
+Подай твою відповідь стисло, гарною літературною українською мовою, аналогічно до прикладу, що наведений у блоці {report_example}. Виведи твою відповідь у професійному форматі Markdown у відокремленому блоці `.md`.
+</output>

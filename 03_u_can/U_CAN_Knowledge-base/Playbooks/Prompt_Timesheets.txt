@@ -1,0 +1,51 @@
+<context>
+Візьми на себе роль відповідального виконавця проєкту U_CAN. Тобі потрібно розписати виконані завдання для заповнення табеля робочого часу в прикріпленому файлі {timesheets} для періоду {month}.
+</context>
+<instructions>
+Твоє завдання – написати стисло {num_tasks} виконаних завдань у рамках проєкту U_CAN за період {month} для табелю робочого часу в прикріпленому файлі {timesheets}. Для виконання цього завдання якнайкраще, виконай такі інструкції:
+– Використай стислий перелік завдань, які були точно виконані в конкретні дні за період {month}, що наведений у блоці {report_info}.
+– Врахуй відпрацьовані робочі години, що вказані для кожного робочого дня в теці {tab} для місяця {month} в прикріпленому файлі {timesheets}.
+– Розбий стислий перелік завдань із блоку {report_info} на {num_tasks} деталізованих завдань, що відображатимуть виконану роботу повнота зрозуміло; подай кожне з {num_tasks} деталізованих завдань одним реченням.
+– Використай усі матеріали цього проєкту з відповідною інформацією для деталізації {num_tasks} виконаних завдань; наведи конкретні та реальні факти, як от дати, числа, персоналії тощо до кожного з {num_tasks} виконаних завдань.
+– Подай твою відповідь нумерованим списком у форматі Markdown та відформатуй його, аналогічно до прикладу завдань, що наведений у блоці {report_example}.
+</instructions>
+<inputs>
+<variables>
+{timesheets} = “U_CAN_Pavlo_Radiuk_Timesheets_2026.xlsx”
+{month} = “June 2026”
+{num_tasks} = “fifteen (15)”
+{tab} = “Jun”
+{report_language} = “English (British)”
+<variables>
+<report_info>
+```md
+02.06.2026 – U_CAN Consortium Meeting
+04.06.2026 – Preparing and signing timesheets
+03-06.06.2026 – Finalising the conference report (MS6).
+08-19.06.2026 – Preparing the documents for a business trip to L'Aquila, Italy, to participate in the U_CAN Consortium Meeting, 6-8 July 2026.
+15-17.06.2026 – Preparing and finalising the annual report of the KhNU Pilot City (05.25-06.26).
+15-19.06.2026 – Conducting the computantional experiments and preparing the conference materials titled "Bridging the Sim-to-Real Gap in Topography – Aware Traffic Control using Automated Video Analytics".
+18.06.2026 – Submitted the final conference report (MS6).
+18.06.2026 – Submitted the annual report of the KhNU Pilot City (05.25-06.26).
+22.06.2026 – Submitted the conference manuscript titled "Bridging the Sim-to-Real Gap in Topography – Aware Traffic Control using Automated Video Analytics" to the 3nd International Scientific Conference "INTELLIGENT TRANSPORT SYSTEMS: Ecology, Safety, Quality, Comfort," which will be held on 15-16 October 2026.
+```
+</report_info>
+<report_example>
+```md
+01.05.2026 – Continued drafting the MS6 conference report and incorporated public communication evidence, including the KhNU conference post and the dedicated conference website materials.
+04.05.2026 – Developed the report sections on project background, conference organisation, Khmelnytskyi City Council cooperation, and alignment with the Khmelnytskyi 2035 Development Strategy.
+05.05.2026 – Prepared the programme and thematic-session analysis for the conference report, covering the opening session, plenary block, European mobility session, Ukrainian municipal session, and digital innovation session.
+06.05.2026 – Compiled the speakers and stakeholders section using the speaker tracker, including the 20 named speaker records and their institutional affiliations.
+07.05.2026 – Reviewed participant and feedback evidence, including 44 registration records and the first validated post-event feedback materials.
+08.05.2026 – Drafted the substantive outcomes section linking conference dissemination to the KhNU adaptive traffic-management pilot and future municipal uptake pathways.
+11.05.2026 – Finalised the comprehensive MS6 conference report package and prepared supporting material for the monthly English-language WP4 meeting.
+12.05.2026 – Participated in the monthly English-language WP4 meeting and presented April–May progress on final conference readiness, MS6 delivery, evidence consolidation, public dissemination, feedback review, and pilot-uptake planning.
+21.05.2026 – Participated in the Ukrainian-language workshop “Energy Efficiency in Martial Law”, organised by LYKUML as the Khmelnytskyi pilot-city representative, and captured its relevance for local climate-neutral policy capacity.
+27.05.2026 – Prepared materials for the monthly Ukrainian-language WP4 meeting, including May follow-up actions, municipal technical meeting planning, and the adaptive traffic-management pathway.
+28–29.05.2026 – Presented the completed April–May 2026 U_CAN results at the monthly Ukrainian-language WP4 meeting and completed the May 2026 time-sheet documentation.
+```
+</report_example>
+</inputs>
+<output>
+Подай твою відповідь стисло, гарною літературною {report_labguage}, аналогічно до форматування прикладу, що наведений у блоці {report_example}. Виведи твою відповідь у професійному форматі Markdown у відокремленому блоці `.md`.
+</output>

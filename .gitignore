@@ -6,3 +6,10 @@
 Thumbs.db
 .DS_Store
 desktop.ini
+
+# Heavy binary formats — keep print masters and raw media on Google Drive,
+# not in git. Curated PNG/SVG/PDF equivalents are committed instead.
+# See 03_u_can/U_CAN_KB/08_Asset_Index.md
+*.eps
+*.mp4
+*.mov

@@ -1,0 +1,121 @@
+Ukraine towards Carbon Neutrality
+
+WP4: Pilot Implementation in Ukraine, supported
+by European front-runners
+1st U_CAN Review Meeting / M1-M18
+
+19.01.2026, online
+Yurii Polianskyi (Municipal institution City Institute)
+WP4 Objectives
+
+ The aim of WP4 is to implement short to medium-term climate mitigation strategies in
+ 6 pilot cities in Ukraine (Lviv, Kyiv, Zhytomyr, Khmelnytskyi, Ivano Frankivsk and
+ Vinnytsia). The specific objectives are:
+ · Support implementation of pilot activities in six cities to demonstrate climate-
+
+    neutral city solutions; and
+ · Integrate learnings from project and contemporary practices in short and medium-
+
+    term strategies of local governing bodies in Ukraine.
+WP4 Tasks and Timeline
+
+Task description                  Lead Q1 Q2                    Q3  Q4  Q5  Q6  Q7    Q8
+
+T4.1 Assessment of climate        OMB                                       M05 D4.1
+      indicators in pilot cities
+
+T4.2 Climate-neutral pilot activities in Lviv CIL
+
+T4.3 Climate-neutral pilot activities in Kyiv ISKPI
+
+T4.4 Climate-neutral pilot activities in Zhytomyr ZCC
+
+WP4 T4.5 Climate-neutral pilot activities in Khmelnytskyi KhNU                        M06
+
+Climate-neutral pilot
+
+T4.6 activities in Ivano          BRIT
+
+Frankivsk
+
+T4.7 Climate-neutral pilot ME
+activities in Vinnytsia           IUD
+
+Performance assessment
+
+T4.8 of initiatives in six pilot ENV
+
+cities
+
+                                                                                1st Review
+WP4 Progress and Achievements
+
+Task 4.5: Climate-neutral pilot activities in Khmelnytskyi (KhNU)
+
+ Ukraine towards Carbon Neutrality (U_CAN)
+ WP4 / Task 4.5 - Khmelnytskyi
+ 1st U_CAN Review Meeting / M1-M18
+ Presenter: Khmelnytskyi National University
+ (KhNU)
+
+ Pilot focus in WP4:
+ · Adaptive traffic management with a focus on urban emissions reduction (KhNU)
+ · Knowledge dissemination via conference (MS6)
+ · Centre supporting local policies on climate-neutral construction and energy (LYKUML)
+WP4 Progress and Achievements
+
+Task 4.5: Progress Timeline (Q1-Q6) - KhNU Achievements
+
+ 23-24 May 2024: Participated in the     26 November 2024: Joined the U_CAN                      April 2025: Jointly showcased the U_CAN project for
+    project kick-off (Dresden).             Integration Workshop (26 November 2024) to              the first time at the Cities Mission Conference 2025.
+                                            align Ukrainian pilot cities with CNSC Mission
+ Launched EU Horizon: Formally              Cities..                                             Unveiled Technical Solution: KhNU representatives
+    commenced the "U_CAN: Ukraine on                                                                formally introduced the "Adaptive Traffic
+    the Path to Carbon Neutrality"       Initiated Action Plans: Launched Knowledge                 Management System" designed to enhance urban
+    Horizon Europe project activities.      and Experience Exchange Sessions (KEES).                climate resilience.
+
+Q1  Q2                                          Q3                                          Q4   Q5                                                        Q6
+
+     June-September 2024: Defined                    Secured Political Support: Held high-        21-23 May 2025: Attended the
+        Strategic Goals: Conducted preparatory          level discussions with the Khmelnytskyi      Consortium meeting (Wroclaw).
+        meetings to establish clear project             City Council and Deputy Mayor.
+        tasks and operational objectives.                                                         October 2025: Released the peer-
+                                                     Formalised Implementation: Established          reviewed article "An Adaptive Machine
+     Analysed Best Practices: Completed a               a direct working partnership with the        Learning Approach to Sustainable Traffic
+        comprehensive review of existing                Department of Transport Infrastructure       Planning" in the high-impact journal
+        methodologies to support the pilot              to integrate the adaptive control            Future Transportation (Gold Open
+        work's theoretical foundation.                  software into the municipal traffic          Access, Q2).
+                                                        system.
+WP4 Progress and Achievements
+
+Task 4.5: Objectives, Needs & Opportunities
+
+ Primary Goal: To improve urban mobility efficiency and significantly reduce CO emissions.
+WP4 Progress and Achievements
+
+Task 4.5: Adaptive Traffic Management System - Architecture & Evidence
+WP4 Progress and Achievements
+
+Task 4.5: Conclusions, Outlook & Deliverable 4.5
+
+ · Validated a novel adaptive machine learning
+     architecture for traffic pattern recognition, confirming
+     its efficacy for sustainable urban planning through
+     high-fidelity simulation.
+
+ · Achieved rigorous scientific dissemination by
+     publishing core research findings in Future
+     Transportation (Q2).
+
+ · Prioritising preparations for the KhNU Conference
+     (MS6) on CO Emissions Reduction (April 2026) to
+     scale pilot learnings across Ukrainian municipalities.
+Ukraine towards Carbon Neutrality
+
+                               Thank you for your attention!
+
+                                                    Funded by the European Union. Views and opinions expressed are however those of the author(s) only
+                                                    and do not necessarily reflect those of the European Union or CINEA. Neither the European Union nor
+
+                                                                                the granting authority can be held responsible for them.
+

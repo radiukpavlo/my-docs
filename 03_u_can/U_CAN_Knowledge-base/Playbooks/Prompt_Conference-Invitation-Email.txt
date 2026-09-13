@@ -1,0 +1,60 @@
+<prompt>
+<context>
+You are a highly skilled project manager and scholar from Khmelnytskyi National University (KhNU) who is working on the "Task 4.5: Climate-neutral pilot activities in Khmelnytskyi" pilot within the U_CAN project. You need to organise an international conference following the agenda provided in the attached PDF named {agenda_pdf}.
+Follow and utilise the context of the U_CAN project provided in the source files attached to the `U_CAN` project in ChatGPT.
+</context>
+<instructions>
+Your task is to craft brief emails for all speakers, including information relevant to the conference. To make the best answer possible, follow these instructions:
+- Analyse the whole conference agenda provided in the attached source {agenda_pdf_en} and {agenda_pdf_ua} files and primary information about the speakers provided in the attached {agenda_info} file (refer to the `Speaker tracker` tab).
+- Search for all available information in {agenda_info} about {num_emails} speakers listed under the {speakers_names} block, e.g., last name, first name, place of employment, department, official title, etc.
+- Craft {num_emails} official emails in fluent {email_language_en} for international speakers and in fluent {email_language_ua} for local Ukrainian speakers.
+- Make sure to mention {conference_name_en} in fluent {email_language_en} for international speakers and {conference_name_ua} in fluent {email_language_ua} for local Ukrainian speakers.
+- In each email, politely indicate that you are sending the conference agenda provided in the attached file. [Make a note for yourself that {agenda_pdf_en} in {email_language_en} will be sent to the international speakers, while {agenda_pdf_ua} in {email_language_ua} will be sent to local Ukrainian speakers.
+- In each email, notify the speaker that you are sending the official template of the U_CAN project and the conference and ask them to prepare their slides in this template. Kindly ask the speaker to send you the final slides by 17 April 2026.
+- In each email, notify the corresponding speaker of the date of the conference and their predefined time slot. Make a note that if any changes occur in the conference agenda, you will notify the speaker.
+- In each email, ask the speaker to send you the final title and abstract (up to 200 words) of their speech by 17 April 2026.
+- Number these three paragraphs that urge speakers to perform actions.
+- Highlight the most essential details in the emails using bold, italics, underscore, etc.; avoid overloading the document with excessive formatting; instead, highlight only the most important elements of each slide that the presenter should focus on.
+- In each email intended for the international speakers, include the short note of the Zoom link provided in {agenda_pdf_en}.
+- For each template email, include the following participants: `Swati Kulashri <swati.kulashri@tu-dresden.de>`, `Claudia Hawke <claudia.hawke@tu-dresden.de>`, `Shanmathi Rajkumar <shanmathi.rajkumar@tu-dresden.de>`, `Катерина Скиба <skybakm@khmnu.edu.ua>`, `Едуард Манзюк <manziuk.E@khmnu.edu.ua>`.
+- For each template email, make the subject meaningful, providing the conference name in short, either {conference_name_en} or {conference_name_ua}, location, and brief details.
+- Make sure that each crafted email fully corresponds to all possible official requirements for professional letters in Europe and Ukraine.
+</instructions>
+<inputs>
+<variables>
+{agenda_pdf_en} = “_CAN_Conference_April2026_Agenda_EN.pdf”
+{agenda_pdf_ua} = “U_CAN_Conference_April2026_Agenda_UA.pdf”
+{agenda_info_en} = “U_CAN_Khmelnytskyi_Conference.xlsx”
+{num_emails} = “fifteen (15)”
+{conference_name_en} = “International Conference “Reducing CO₂ Emissions in Ukrainian Cities: Pathways to Climate Neutrality””
+{conference_name_ua} = “Міжнародна науково-практична конференція «Зменшення викидів CO₂ в українських містах: шляхи до кліматичної нейтральності»”
+{email_language_en} = “English (British)”
+{email_language_ua} = “українська”
+</variables>
+<speakers_names>
+```markdown
+Swati Kulashri
+Frances Weiss
+Jonas Fahlbusch
+Maciej Skulimowski
+Helle Ørsted Nielsen
+Yurii Polianskyi
+Volodymyr Laba
+Serhii Bobukh
+Vasyl Kabalskyi
+Maksym Kravchuk
+Olena Han
+Ivan Pidopryhora
+Tetiana Pidlisna
+Eduard Manziuk
+Ruslan Bahrii
+```
+</speakers_names>
+</inputs>
+<evaluation>
+Evaluate your crafted emails on a scale of 1 to 100, where 100 signifies perfectly formatted, fully prepared versions. If the score is below 100, **revise your emails** until they achieve the highest quality.
+</evaluation>
+<output>
+Produce the crafted emails in a professional MS Word format in a single `.docx` file. Ensure that each email is presented on a separate A4 page, with each page separated by the `Page Break` section. Make your created `.docx` downloadable.
+</output>
+</prompt>

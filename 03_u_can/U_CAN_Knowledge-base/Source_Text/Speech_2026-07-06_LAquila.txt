@@ -1,0 +1,22 @@
+Slide 1: Work Package 4, Task 4.5
+Dear colleagues, thank you very much for having me here today. My name is Pavlo Radiuk. I represent Khmelnytskyi National University, Khmelnytslyi Pilot City. I would like to report briefly our contribution to Work Package 4, Task 4.5, focused on climate-neutral pilot activities in our city.
+Slide 2: D4.5 – Implementation Plan Khmelnytskyi
+The Khmelnytskyi pilot focuses on adaptive traffic management as a practical route to improving urban mobility and reducing transport-related CO₂ emissions. During this period, KhNU established the evidence base for D4.5 through simulation, scientific validation, municipal cooperation, and dissemination.
+Slide 3: Year 2 Progress at a Glance
+Year 2 moved from preparation to structured implementation evidence, covering municipal meetings, indicator work, scientific publications, PTV review, and the MS6 conference. The timeline shows a continuous progression across cooperation, research, capacity building, dissemination, and reporting.
+Slide 4: Problem and Intervention Logic
+The pilot addresses a reactive traffic-management problem: static signals, congestion, idling, delayed emergency response, and poor conditions for pedestrians and cyclists. The proposed intervention is proactive, using AI-driven optimisation, dynamic prioritisation and improved safety logic at crossings.
+Slide 5: Implementation Evidence and Results
+The technical evidence is already substantial: scenario identification reached approximately 92.8 to 95.0 percent, and simulation showed potential CO₂ reductions of up to 8.6 percent against Max-Pressure and 4.7 percent against standard DQN. These results were supported by cooperation with Khmelnytskyi City Council, PTV Visum training and MS6 dissemination.
+Slide 6: Formal Model and Simulation Framework
+The formal model combines static road-network characteristics with dynamic traffic inputs, allowing the system to recognise changing mobility conditions. The simulation framework used SUMO and deep reinforcement learning, including a nine-hour horizon with 14,800 vehicles and a 20 percent heavy-vehicle fleet.
+Slide 7: Technical Foundation
+Two Gold Open Access Q2 publications provide the scientific foundation for the pilot: one on adaptive machine learning for traffic-pattern recognition and one on topography-aware reinforcement learning for signal control. Together, they show how KhNU’s research can support adaptive, evidence-based traffic management in Khmelnytskyi.
+Slide 8: Dissemination, MS6 Milestone, and Pathway to D4.5
+The MS6 conference, held by KhNU on 24 April 2026, was a key dissemination and stakeholder-engagement milestone. Its hybrid format connected Ukrainian municipal needs with European low-emission mobility practice and created a public uptake route for the pilot.
+Slide 9: Capacity Building and Engagement Pathway
+Capacity building was strengthened through the PTV Visum cycle with City Council staff, covering network construction, demand modelling, calibration, validation, visualisation and scenario testing. This means municipal partners are now better prepared to discuss data, modelling and future adaptive traffic-management scenarios.
+Slide 10: Year 3 Updates
+Year 3 will convert the research, municipal cooperation, and MS6 evidence into a documented implementation plan. The next phase will focus on feedback synthesis, data-access protocols, corridor selection, scenario review, calibration, municipal appraisal, risk mapping, and D4.5 preparation.
+Slide 11: Thank You
+To conclude, KhNU’s Year 2 work has created a clear technical, municipal, and dissemination foundation for the Khmelnytskyi pilot. The next step is to consolidate this foundation into a realistic implementation plan that supports climate-neutral urban mobility in the city.

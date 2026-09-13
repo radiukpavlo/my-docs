@@ -1,0 +1,147 @@
+# Prompt for Preparing the Final Conference Report
+## International Conference “Reducing CO₂ Emissions in Ukrainian Cities: Pathways to Climate Neutrality”
+<context>
+Take on the role of a highly skilled project manager, conference moderator, academic editor, and Horizon Europe reporting specialist representing Khmelnytskyi National University (KhNU) within the U_CAN project. Your task is to prepare a polished, accurate, evidence-based, and publication-ready final report for the successfully organised and conducted International Conference “Reducing CO₂ Emissions in Ukrainian Cities: Pathways to Climate Neutrality”.
+The conference was hosted by Khmelnytskyi National University in Khmelnytskyi, Ukraine, in a hybrid format on 24 April 2026. It was organised within the Horizon Europe project U_CAN: Ukraine towards Carbon Neutrality, Grant Agreement No. 101148374. The event served as an important milestone for the KhNU pilot activity under the U_CAN project, particularly in relation to reducing CO₂ emissions in Ukrainian cities, advancing sustainable urban mobility, disseminating knowledge, demonstrating climate-neutral urban solutions, strengthening cooperation between Ukrainian and European partners, and supporting the broader mission of climate neutrality.
+You must write the report from the institutional perspective of Khmelnytskyi National University and the KhNU conference team. The report should be suitable for submission to U_CAN project partners, Work Package leaders, the project coordinator, and other relevant stakeholders. It should also be suitable for internal documentation, dissemination reporting, and potential adaptation for Horizon Europe communication and reporting purposes.
+</context>
+<main_task>
+Write a professional final report for the conference titled **“Зменшення викидів CO₂ в українських містах: шляхи до кліматичної нейтральності”** in fluent **English (British)**.
+The English title to be used consistently throughout the report is:
+**International Conference “Reducing CO₂ Emissions in Ukrainian Cities: Pathways to Climate Neutrality”**
+The report must be written in a formal, clear, evidence-based, and project-reporting style. It must not read like a generic event summary. Instead, it should present the conference as a concrete U_CAN milestone, linking the event to project objectives, Work Package 4 pilot implementation, communication and dissemination activities, local stakeholder engagement, municipal cooperation, European knowledge exchange, and sustainability principles.
+The final output must be delivered as a structured Microsoft Word document in `.docx` format, written directly into the official U_CAN report template provided in the file **Template_Report.docx**. The produced report must follow the structure, formatting, styles, visual identity, headings, page layout, footer/header conventions, and any required disclaimer or acknowledgement sections of the template.
+</main_task>
+<input_files_and_materials>
+Use all relevant materials provided in the current project and attached source package. Treat the following as required inputs:
+1. **conf_sources.zip**
+Use all source files provided in the combined ZIP archive named `conf_sources.zip`. Extract and review all documents, images, figures, screenshots, tables, media references, conference materials, and event photos contained in the archive. Use these materials as important additional context for the final report.
+2. **Template_Report.docx**
+Use the official U_CAN report template provided in the DOCX file `Template_Report.docx`. The report must be written specifically into this template. Do not create a visually unrelated document. Preserve the official formatting and adapt content to the existing report structure.
+3. **U_CAN_Conference_April2026_Agenda_EN.docx**
+Use the conference agenda as the authoritative source for the event title, date, format, host, co-organisers, programme structure, session titles, speakers, affiliations, timings, and conference flow.
+4. **U_CAN_conf_slides.pdf**
+Use the combined PDF file containing the conference slides. Extract the key themes, technical content, session evidence, figures, diagrams, presentation messages, and relevant conclusions. Use the slides to describe the substance of the conference, not merely its schedule.
+5. **U_CAN_Speakers_Bio.pdf**
+Use the speaker biography file to ensure that all speakers, organisations, roles, and professional profiles are represented accurately. Do not invent speaker titles or affiliations. Where necessary, cross-check names and affiliations against the agenda.
+6. **Conference post-note provided below**
+Use the post-note as a key narrative source for the actual outcomes, organisational reflections, communication activities, sustainability practices, dissemination links, event atmosphere, and follow-up actions.
+</input_files_and_materials>
+<conference_post_note>
+Dear Swati and Shanmati,
+Following the International Scientific and Practical Conference “Reducing CO₂ Emissions in Ukrainian Cities: Pathways to Climate Neutrality”, successfully hosted by Khmelnytskyi National University on 24 April 2026, I would like to sincerely thank you, on behalf of the entire KhNU team, for your support in organising this important milestone event.
+We would also like to express our sincere appreciation to our WP leader, Yurii, for attending the conference in person and for bringing his colleagues.
+Unfortunately, I was not able to attend the conference due to an overlap with my CPD course for vice-rectors in Germany. However, I ensured that all key preparations were completed in advance. I am very proud of my team, who did an excellent job delivering the conference at such a high level. It is a pity that my recorded video message was muted for Zoom participants due to technical limitations. Please allow me to reiterate that it included sincere words of gratitude to everyone involved in making this conference possible.
+We were honoured to host a number of invited international speakers whom you kindly helped us secure. We were also pleased to welcome participants in person from Lviv and Vinnytsia, as well as online attendees from Kyiv, Ivano-Frankivsk and other Ukrainian cities. In addition, representatives of the Khmelnytskyi City Council participated, particularly from departments responsible for transport mobility and traffic light regulation, which added valuable practical insights to the discussions.
+We also developed a dedicated bilingual conference website:
+Website: https://ucan-conference.khmnu.edu.ua/en/programa/
+The website provides full information on the agenda, speakers and presentations, and includes video materials to ensure accessibility and wider dissemination.
+We even brought a real traffic light into the conference space to enhance the atmosphere and the event's thematic focus.
+To further expand outreach, we engaged local media and produced a video report that was broadcast on local television. We have shared this coverage with Yuliia to support dissemination on the project website, in line with WP7 communication and dissemination activities.
+We have also prepared a feedback form and certificates, which will be circulated today. News about the conference has already been published on our university website in two languages, and we are preparing a LinkedIn post to further promote the event.
+We are currently working on the conference report and expect to finalise it by 11 May. We will share the first draft with you next week for your review.
+Regarding conference-related expenses, I will follow up with Claudia separately. These include catering services, roll-up banners, and flags of the partner countries. In line with the project’s sustainability principles, we deliberately minimised printed materials. We adopted an eco-friendly approach by using QR codes to provide online access to the programme and materials. We believe this is a valuable sustainability measure that could be highlighted in the report.
+Please let us know if there are any additional steps required on our end for this milestone.
+Thank you once again for your continuous support and collaboration. It is highly appreciated.
+This is a link to our post on our KhNU webpage:
+Webpage: https://iro.khmnu.edu.ua/en/hmelnyczkyj-naczionalnyj-universytet-stav-platformoyu-dlya-obgovorennya-shlyahiv-do-klimatychnoyi-nejtralnosti-ukrayinskyh-mist/
+Kind regards,
+Kateryna and the KhNU team
+</conference_post_note>
+<required_report_content>
+Your final report must include, at minimum, the following content areas. Adapt them to the structure of the official U_CAN report template rather than forcing an artificial structure.
+## 1. Executive Summary
+Write a concise but substantive executive summary explaining what the conference was, when and where it took place, who hosted it, why it mattered, and how it contributed to U_CAN objectives. Mention that the conference was held in Khmelnytskyi in hybrid format on 24 April 2026 and focused on reducing CO₂ emissions in Ukrainian cities through sustainable urban mobility, digital innovation, public engagement, municipal cooperation, and climate-neutral urban policy.
+The executive summary should highlight that the event functioned as a major dissemination and stakeholder-engagement activity for the KhNU pilot and as a platform for connecting Ukrainian municipalities, academic experts, European partners, and local government representatives.
+## 2. Project and Conference Background
+Describe the U_CAN project context, including its focus on supporting Ukrainian cities on the path towards climate neutrality and aligning urban transformation with European climate-neutrality priorities. Explain the relevance of the conference within the project, especially for knowledge dissemination, pilot implementation, and municipal engagement.
+Clarify the relationship between the conference and the Khmelnytskyi pilot activities, particularly the themes of adaptive traffic management, sustainable transport planning, CO₂ emission reduction, local policy support, and digital tools for climate-neutral urban transformation.
+## 3. Organisation and Format
+Specify the host institution, principal organising role of Khmelnytskyi National University, and relevant co-organisers as indicated in the agenda. Present the hybrid format clearly, including in-person participation in Khmelnytskyi and online participation through Zoom. Include the exact date: 24 April 2026.
+Describe the organisational preparation, including the coordination of speakers, preparation of the bilingual website, publication of the agenda, preparation of certificates and feedback forms, media engagement, and eco-friendly measures such as the use of QR codes instead of excessive printed materials.
+Mention the use of visual event elements, including roll-up banners, flags of partner countries, and the real traffic light brought into the conference space to reinforce the thematic focus on traffic management and sustainable mobility.
+## 4. Programme and Sessions
+Use the agenda to reconstruct the conference programme accurately. Present the main sessions, their themes, timings, and speakers. Do not omit important speakers. Use the following programme logic:
+- Registration by the KhNU organising team.
+- Opening Session: Ukraine on the Path to Carbon Neutrality.
+- Keynote session on reducing CO₂ emissions through sustainable urban mobility.
+- Session I: European Solutions for Low-Emission Mobility.
+- Session II: Measures to Reduce CO₂ Emissions in Ukrainian Cities.
+- Session III: Citizen Engagement and Digital Innovation for CO₂ Emissions Reduction.
+- Closing remarks and summary.
+For each session, write a short analytical paragraph explaining its contribution to the overall conference objectives. Do not simply reproduce the agenda as a list; interpret the session content in relation to climate neutrality, mobility, local governance, emissions reduction, and knowledge exchange.
+## 5. Speakers and Stakeholders
+Use the agenda and speaker biography file to identify the invited speakers, their roles, and organisations accurately. Include international speakers, Ukrainian municipal representatives, academic contributors, U_CAN partners, and Khmelnytskyi City Council representatives.
+Emphasise the diversity of participants and contributors, including representatives from Khmelnytskyi, Lviv, Vinnytsia, Kyiv, Ivano-Frankivsk, and other Ukrainian cities, as well as European experts and project partners.
+Mention the in-person attendance of the WP leader Yurii and colleagues, as well as the participation of municipal departments responsible for transport mobility and traffic light regulation. Explain why their presence strengthened the practical relevance of the event.
+## 6. Substantive Outcomes
+Extract and synthesise the main substantive outcomes from the agenda, slides, speaker materials, and available photos or figures. Focus on concrete conference outcomes, including:
+- strengthened knowledge exchange on reducing transport-related CO₂ emissions;
+- increased visibility of U_CAN and the KhNU pilot activity;
+- dissemination of European approaches to low-emission mobility;
+- presentation of Ukrainian municipal practices and challenges;
+- discussion of adaptive traffic management and digital innovation;
+- engagement of local authorities and technical departments;
+- contribution to WP4 pilot implementation and WP7 dissemination;
+- expansion of stakeholder awareness and public communication.
+Avoid exaggeration. Do not claim that emissions were already reduced unless the source files explicitly support this. Instead, state that the conference supported knowledge dissemination, policy dialogue, capacity building, and preparation for future implementation.
+## 7. Communication and Dissemination
+Describe the communication and dissemination actions connected with the conference. Include the bilingual conference website, KhNU webpage publication, local television video report, planned or prepared LinkedIn communication, conference video materials, certificates, feedback form, and sharing of media coverage with relevant U_CAN communication contacts.
+Mention that the dedicated website provides information on the agenda, speakers, presentations, and video materials, thereby extending access beyond the immediate participants and supporting wider dissemination.
+Connect these activities explicitly to U_CAN communication and dissemination objectives, especially WP7.
+## 8. Sustainability Measures
+Include a dedicated discussion of sustainability principles applied in the organisation of the conference. Specifically mention that the organisers deliberately minimised printed materials and used QR codes to provide access to the programme and conference materials. Explain that this approach was consistent with the project’s sustainability principles and the conference theme.
+If supported by the source archive, also mention any reusable materials, digital documentation, or visual communication tools used in place of single-use printed materials.
+## 9. Visual Evidence and Annex Materials
+Extract all necessary photos from `conf_sources.zip` and from URLs included in the post-note. Include important event photos, figures, tables, screenshots, and relevant visuals from the conference materials. Place them professionally within the report, with informative captions.
+Do not overload the report with images. Select visuals that provide evidence of the event, participants, speakers, hybrid format, conference atmosphere, media presence, thematic traffic-light installation, sustainability measures, and dissemination outputs.
+Each visual must have a concise caption explaining what it shows and why it is relevant. If the template includes figure numbering, apply it consistently.
+## 10. Challenges and Lessons Learned
+Include a balanced section on organisational lessons learned. Mention the technical limitation where the recorded video message was muted for Zoom participants, but frame it professionally as a minor technical issue that did not prevent the successful delivery of the conference.
+Mention that despite the absence of Kateryna due to an overlapping CPD course for vice-rectors in Germany, key preparations had been completed in advance and the KhNU team delivered the event successfully.
+Identify lessons related to hybrid moderation, speaker coordination, online accessibility, technical checks, media outreach, and sustainable event organisation.
+## 11. Follow-Up Actions
+Describe relevant follow-up actions, including circulation of certificates and feedback forms, completion of the conference report, sharing of materials with U_CAN partners, coordination regarding expenses, possible publication or dissemination through LinkedIn and project channels, and continued use of the conference outputs for KhNU pilot implementation.
+Write this section as completed and planned follow-up, making a clear distinction between actions already done and actions still pending.
+## 12. Conclusion
+Conclude by stating that the conference was successfully organised and conducted by KhNU as a milestone event within U_CAN. Emphasise its role in strengthening cooperation between Ukrainian cities, European partners, researchers, municipal authorities, and practitioners. Reinforce that the conference contributed to knowledge dissemination, capacity building, stakeholder engagement, and the practical discussion of pathways to climate-neutral Ukrainian cities.
+</required_report_content>
+<style_and_quality_requirements>
+Write in polished British English. Use formal but readable project-reporting language. Avoid promotional exaggeration, vague praise, or unsupported claims. Every statement about factual details, dates, names, affiliations, outputs, and participation must be traceable to the source materials.
+Use precise wording such as “the conference contributed to”, “the event supported”, “the discussion highlighted”, “participants exchanged experience on”, and “the activity strengthened dissemination” rather than unsupported claims such as “the conference achieved climate neutrality” or “the conference reduced emissions”.
+Maintain a professional institutional tone. The report should sound like it was prepared by an experienced project manager and conference moderator familiar with Horizon Europe reporting standards.
+Ensure internal consistency in names, spelling, titles, dates, acronyms, and institutional references. Use “CO₂” with the correct subscript where formatting permits. Use “Khmelnytskyi” consistently. Use “KhNU” after first mention of Khmelnytskyi National University.
+Do not overuse uppercase words. Use bold formatting only where appropriate in headings, labels, or key report elements. Avoid cluttered formatting. The final DOCX should be clean, professional, and easy to read.
+</style_and_quality_requirements>
+<verification_and_accuracy_rules>
+Before writing the final report, review all provided source files carefully. Cross-check the agenda against speaker biography information and slides. If there are inconsistencies between sources, prioritise the official agenda for conference structure and speaker order, but note any uncertainty internally before finalising the text.
+Do not invent participant numbers, budget figures, exact attendance statistics, quotes, survey results, or media reach unless these are explicitly present in the source files. If participant numbers are not available, use qualitative wording such as “participants joined in person and online from several Ukrainian cities and partner institutions”.
+Do not fabricate photo captions. Each caption must correspond to what is visible in the photo or clearly supported by file metadata or surrounding context.
+Do not insert unverified external claims about U_CAN, Horizon Europe, or partner institutions unless those claims are present in the provided materials or can be verified from official sources.
+</verification_and_accuracy_rules>
+<formatting_and_template_rules>
+Produce the report as a Microsoft Word `.docx` file. Use the official `Template_Report.docx` as the base document.
+Preserve the template’s core formatting, including margins, fonts, heading hierarchy, cover page logic, headers, footers, page numbering, disclaimers, acknowledgement text, and any U_CAN visual identity elements.
+Insert content into the appropriate sections of the template. If the template has predefined headings, use them. If a required section is missing, create a logically placed subsection using the template’s heading styles.
+Include images at appropriate resolution and scale. Ensure that inserted visuals do not distort the page layout. Use consistent caption formatting. Ensure tables, figures, and links remain readable.
+Include the following URLs in the report where appropriate:
+- Dedicated conference website: https://ucan-conference.khmnu.edu.ua/en/programa/
+- KhNU webpage post: https://iro.khmnu.edu.ua/en/hmelnyczkyj-naczionalnyj-universytet-stav-platformoyu-dlya-obgovorennya-shlyahiv-do-klimatychnoyi-nejtralnosti-ukrayinskyh-mist/
+Where the template allows, include a short list of dissemination links or references as an annex or final section.
+</formatting_and_template_rules>
+<self_evaluation>
+After drafting the report, evaluate it on a scale from 1 to 100, where 100 means that the report is fully prepared, accurately formatted, complete, source-grounded, professionally written, visually polished, and ready for review by U_CAN partners.
+Use the following evaluation criteria:
+1. Accuracy of factual information.
+2. Completeness of coverage of agenda, speakers, outcomes, dissemination, sustainability, and follow-up.
+3. Alignment with U_CAN project context and Horizon Europe reporting expectations.
+4. Quality of English and professional tone.
+5. Correct use of the official DOCX template.
+6. Appropriate integration of photos, figures, tables, and links.
+7. Internal consistency and absence of unsupported claims.
+If the score is below 100, revise the report until it reaches the highest possible quality. Do not output an unfinished draft unless explicitly requested. The final answer must provide the completed `.docx` report file.
+</self_evaluation>
+<final_output>
+Output the final report as a structured Microsoft Word document in `.docx` format, written in **English (British)** and based exactly on the official U_CAN template file `Template_Report.docx`.
+The report must fully correspond to the template, incorporate the required content, include relevant photos and links, and be ready for review by U_CAN project partners.
+</final_output>

@@ -1,0 +1,2266 @@
+Technical Report (Part B)
+
+                    for
+
+             U_CAN
+
+Ukraine towards Carbon Neutrality
+
+            Grant Agreement 101148374
+           https://www.ucan-ukraine.eu/
+
+                 RP number: 1
+    Duration: 01/05/2024 - 31/10/2025
+
+        Version 1.0 as of 05.01.2026
+Periodic Report 1, Part B
+
+                  U_CAN
+Ukraine towards Carbon Neutrality
+
+        Programme: Horizon Europe Framework Programme (HORIZON)
+        Grant Agreement: 101148374
+
+Call:                      HORIZON-MISS-2023-CIT-02
+Topic:                     HORIZON-MISS-2023-CIT-02-01
+Type of Action:            HORIZON Coordination and Support Actions
+Project start date:        1 May 2024
+Duration:                  48 months
+
+                           Technical Report (Part B)
+
+Dissemination              SEN - Sensitive
+Level
+
+Version                    1.0
+
+Date of completion 05/01/2026
+
+Lead Partner               TUD
+
+Editors                    WP Leaders
+
+Contributors               All partners
+
+                                                      Page 2 of 46
+Periodic Report 1, Part B
+
+DOCUMENT HISTORY
+
+Version  Date              Author/s             Organisation  Description
+0.1      20.10.25          Claudia Hawke        TUD
+0.2      12.12.25          WP-Leaders                         Initial version
+                                                TUD
+0.3      22.12.25          Shanmathi Rajkumar                 Input for all WPs
+                                                TUD
+1.0      05.01.26          Shanmathi Rajkumar,                Complete draft for internal re-
+                           Claudia Hawke                      view without Use of Resources
+
+                                                              Finalization of all sections, final
+                                                              version for submission
+
+© 2026 U_CAN Consortium. All rights reserved.
+No copying or distributing in any form or by any means is allowed without the prior written agree-
+ment. In addition to such written permission, the source must be clearly referenced.
+Disclaimer
+Funded by the European Union. Views and opinions expressed are however those of the author(s)
+only and do not necessarily reflect those of the European Union or European Commission. Neither
+the European Union nor the European Commission can be held responsible for them.
+All U_CAN Consortium members are also committed to publish accurate and up to date infor-
+mation and take the greatest care to do so. However, the Consortium members cannot accept liabil-
+ity for any direct, indirect, special, consequential or other losses or damages of any kind arising
+out of the use of this information.
+Acknowledgment
+
+The U_CAN project has received funding from the European Union's Horizon Europe Framework
+Programme for Research and Innovation under grant agreement No. 101148374.
+
+                                                                                                         Page 3 of 46
+Periodic Report 1, Part B
+
+TABLE OF CONTENTS
+
+Document History ............................................................................................................................. 3
+Table of contents ............................................................................................................................... 4
+1. EXPLANATION OF THE WORK CARRIED OUT AND OVERVIEW OF THE
+PROGRESS....................................................................................................................................... 5
+
+  1.1 Objectives ............................................................................................................................. 5
+  1.2 Explanation of the work carried out per WP ........................................................................ 8
+
+     1.2.1. Work Package 1: Project Management (M1-M48, TUD)............................................. 8
+     1.2.2. Work Package 2: Creation of U_CAN project platform for knowledge sharing and
+     networking (M1-M48, OMB) .................................................................................................. 11
+     1.2.3. Work Package 3: CNSC synergy building towards climate goals (M1-M48, WUST)14
+     1.2.4. Work Package 4: Pilot Implementation in Ukraine, supported by European front-
+     runners (M13-M45, CIL) ......................................................................................................... 20
+     1.2.5. Work Package 5: Modernization and standardisation of technologies and practices
+     (M4-M45, ULA) ...................................................................................................................... 27
+     1.2.6. Work Package 6: Capacity building and localised knowledge mobilisation in Ukraine
+     (M18-M45, ISKPI)................................................................................................................... 32
+     1.2.7. Work Package 7: Communication, dissemination and exploitation (M1-M48, ECSA)
+
+               34
+  1.3 Impact ................................................................................................................................. 38
+  1.4 Update of the plan for exploitation and dissemination of results ....................................... 39
+2. FOLLOW-UP OF RECOMMENDATIONS AND COMMENTS FROM PREVIOUS
+REVIEW(S) .................................................................................................................................... 41
+3. EXPLOITATION PRIMARILY IN NON-ASSOCIATED THIRD COUNTRIES ................ 41
+4. OPEN SCIENCE ..................................................................................................................... 41
+5. DEVIATIONS FROM ANNEX 1 AND ANNEX 2 (IF APPLICABLE) ............................... 41
+  5.1 Tasks/objectives.................................................................................................................. 41
+  5.2 Use of resources.................................................................................................................. 41
+
+     5.2.1. Unforeseen subcontracting.......................................................................................... 46
+     5.2.2. Unforeseen use of in kind contributions ..................................................................... 46
+
+                                                                                                         Page 4 of 46
+Periodic Report 1, Part B
+
+#@PER-REP-HE@# #@PRO-GRE-PG@#
+
+1. EXPLANATION OF THE WORK CARRIED OUT AND OVERVIEW OF THE
+     PROGRESS
+
+Ukraine towards Carbon Neutrality (U_CAN) is a Coordination and Support Action funded un-
+der the EU Framework Programme for Research and Innovation, Horizon Europe, and contributes
+to the EU Mission Climate-Neutral and Smart Cities. U_CAN supports selected Ukrainian cities in
+aligning their strategies and standards with EU climate policies. This is achieved through targeted
+support to Ukrainian city administrations in their efforts to collaborate with European counterparts,
+including EU Mission Cities.
+
+This section provides an overview of the work carried out and progress achieved during the first
+reporting period (months 1-18) of the U_CAN project. Progress is reported against the project ob-
+jectives as defined in the Description of Action (DoA) and focuses on activities implemented to date.
+The section introduces the main areas of work, including twinning activities, pilot preparation, ca-
+pacity building, impact, and dissemination, which are described in more detail in the subsequent
+subsections.
+
+1.1 Objectives
+
+Objective 1: to support Ukrainian cities that are willing to transition to climate neutrality by devel-
+oping context specific climate strategies. The envisioned outcome is a core group / network of pio-
+neering Ukrainian stakeholders who require support in building capacities to address climate neu-
+trality.
+
+Progress:
+    - Six Ukrainian cities (Lviv, Kyiv, Zhytomyr, Khmelnytskyi, Ivano-Frankivsk, Vinnytsia)
+         were engaged as a structured pilot group for climate-neutral transition activities. Lviv, Zhy-
+         tomyr, and Vinnytsia participate through direct municipal representatives, while Kyiv,
+         Khmelnytskyi, and Ivano-Frankivsk are represented through university partners and NGOs
+         respectively. In all cases, designated municipal contact persons were identified, involved in
+         all key workshops, and engaged in bilateral discussions with project partners.
+    - City-specific needs, priorities, and institutional capacities were collected through structured
+         exchanges involving representatives from each pilot city, including Knowledge and Expe-
+         rience Exchange Sessions (KEES) (2 synergy workshops and over 20 bilateral meetings), 2
+         extensive questionnaires, 3 thematic workshops led by Mission Cities, 5 structured inter-
+         views, and 2 dedicated workshops. These activities were implemented by multiple project
+         partners across different research areas, as detailed in the respective Work Package descrip-
+         tions.
+
+Objective 2: to identify key sectors in Ukraine for climate transition. This includes identifying crit-
+ical sectors that require transitioning including industrial decarbonisation, energy transition, nature-
+based solutions, etc. Outcomes envisioned here are recommendations, standards and best practices
+co-developed with EU experts.
+
+Progress:
+    - Key climate transition sectors were identified at national and municipal levels through a
+         combination of policy analysis, scientific literature review, and structured inputs from the
+         six Ukrainian pilot cities. This work resulted in the completion of Deliverable D3.1 - Sec-
+         tors for Climate Actions in Ukraine, which provides an integrated assessment of priority
+         sectors, policy relevance, local capacities, and barriers.
+    - Based on this sectoral mapping, research tasks under WP5 have been initiated and advanced,
+         analysing standardisation, modernisation, and technological needs across the identified sec-
+         tors. This includes the completion of Deliverable D5.1 - Overview of the standardisation
+         landscape and ongoing analytical work on building renovation, energy systems, industrial
+
+                                                                                                         Page 5 of 46
+Periodic Report 1, Part B
+
+         decarbonisation, and local climate governance constraints, providing a concrete basis for
+         translating sectoral priorities into technical and procedural pathways.
+
+Objective 3: to facilitate CNSC twinning activities, fostering the exchange of best practices in cli-
+mate action. This facilitation includes connecting CNSC Mission cities as pioneering examples
+and mentors for Ukrainian cities to achieve climate neutrality. This leadership will leverage the ex-
+pertise and success stories of established CNSC cities to inspire and support their Ukrainian coun-
+terparts. The envisioned outcomes are long-term partnerships between CNSC Mission cities and
+partner Ukrainian cities.
+
+Progress:
+    - Partnerships were formally established with six Mission Cities (Bratislava, Dresden,
+         Kosice, Leipzig, Thessaloniki, and Wroclaw), to support our Ukrainian pilot cities in their
+         transition to climate neutrality.
+    - A structured twinning framework between Ukrainian pilot cities and EU CNSC Mission
+         Cities was established and operationalised through the design and implementation of the
+         Knowledge and Experience Exchange Sessions (KEES).
+    - Twinning activities were implemented through multiple exchange formats, including 2
+         CNSC Synergy Workshops (1 online and 1 hybrid at Wroclaw), over 20 bilateral meetings
+         between Ukrainian and Mission City representatives, and 3 thematic workshops address-
+         ing priority topics such as sectoral pathways, solar and low-carbon solutions, and public
+         engagement. These activities enabled targeted knowledge transfer, needs clarification, and
+         the assessment of compatibility for longer-term city-to-city cooperation.
+
+Objective 4: to facilitate local Pilot initiatives as indication of on-ground efforts demonstrating
+feasibility and benefits of climate-neutral measures. This will also propagate tangible efforts in
+terms of replication and knowledge exchange between Ukrainian partner cities and other cities in
+Ukraine. Outcomes envisioned here are localised pilot implementation plans.
+
+Progress:
+    - Task 4.1 progressed through the development and application of a common framework for
+         climate-neutrality indicators in pilot cities. A preliminary set of indicators was defined using
+         a combined methodological approach, drawing on international sustainability assessment
+         frameworks and adapted to the Ukrainian context. Indicators were reviewed and prioritised
+         by representatives of all six pilot cities based on relevance and data availability, supported
+         by workshops, questionnaires, and bilateral meetings. By the end of the reporting period,
+         Milestone MS5 (Indicators for climate neutrality in the context of pilot activities) was
+         achieved, and the preparation of Deliverable D4.1 was underway.
+    - Across Tasks 4.2-4.7, pilot implementation activities were initiated in all six pilot cities,
+         focusing on city-specific priority areas and the preparation of local pilot concepts, in coor-
+         dination with municipal stakeholders and European partners. These activities prompted the
+         gradual development of the pilot concepts, institutional arrangements, and stakeholder en-
+         gagement processes that form the basis for localised pilot implementation plans.
+
+Objective 5: to facilitate awareness-building among a wider group of Ukrainian cities. This will
+ensure the dissemination and exploitation of project results for long-term impacts on Ukraine's align-
+ment with the EGD. Outcome envisioned here is exploitation of the project activities to pan-Ukraine
+CNSC initiatives.
+
+Progress:
+    - Project results and activities were actively disseminated to a wider group of Ukrainian and
+         European stakeholders through the establishment and operation of the U_CAN project plat-
+         form and associated communication channels. During the reporting period, the bilingual
+         project website was launched and regularly updated, supported by interactive maps, news
+
+                                                                                                         Page 6 of 46
+Periodic Report 1, Part B
+         items, newsletters, and social media channels (LinkedIn, Facebook, YouTube), enabling
+         access to project information beyond the project partners and the six pilot cities.
+
+    - Communication and dissemination materials (brochures, postcards, digital banners, videos)
+         were developed and used to present U_CAN objectives, pilot city activities, and emerging
+         results, strengthening visibility and engagement with Ukrainian cities beyond the core pilot
+         group.
+
+    - Engagement with the EU Climate-Neutral and Smart Cities Mission ecosystem was initiated
+         and advanced. This involved the formalisation of an MoU with NetZeroCities, the creation
+         of a public group within the NetZeroCities Platform to share U_CAN activities and outputs,
+         and active participation in Cities Mission-related events, including hosting a Ukraine Clus-
+         ter stand at the Cities Mission Conference. These actions increased the visibility of U_CAN
+         and supported outreach to Mission Cities beyond the six partner Mission Cities involved in
+         the project.
+
+                                                                                                         Page 7 of 46
+Periodic Report 1, Part B
+
+#@WRK-PLA-WP@#
+
+1.2 Explanation of the work carried out per WP
+
+1.2.1. Work Package 1: Project Management (M1-M48, TUD)
+
+WP1 Objectives
+
+The aim of this WP is to ensure effective management of the project with emphasis on meeting the
+European Commission requirements. The objectives are:
+
+    - Management and monitoring of project progress of WPs against deliverables.
+    - Ensuring accurate, timely reporting on activities and communication with the EC.
+    - Ensuring Compliance and the fulfilment of ethical necessities and
+    - Exchange with Network Partners.
+
+Progress in WP1 during the first Reporting Period of the project
+
+WP1 focused on establishing the organisational, administrative, and coordination frameworks nec-
+essary for the effective implementation of U_CAN. Key management structures, procedures, and
+processes were set up to support consortium collaboration, ensure compliance with administrative
+and reporting requirements, and facilitate engagement with external stakeholders.
+
+Table 1: Overview of deliverables (D) & milestones (MS) of WP1
+
+# Title                        Due date    Actual delivery        Delay justification
+D1.1 Project Management        31/07/2024  09/09/2024
+                                           (20/01/2025)           Request by CINEA to include col-
+       Handbook                31/10/2024                         laboration with SUN4Ukraine and
+                               31/10/2025  01/11/2024             integration of CINEA feedback fol-
+D1.2 Data Management Plan      31/07/2024  (20/01/2025)           lowing 1st submission
+                                           10/11/2025
+D1.3 1st update of Data Man-                                      Integration of CINEA feedback fol-
+       agement Plan                        12/08/2024             lowing 1st submission
+
+MS1 Working Network Part-                                         Long negotiations on joint control-
+       ners Board established                                     lership agreement
+
+                                                                  Late confirmation of some network
+                                                                  partners and small delay with com-
+                                                                  pletion of interactive map of net-
+                                                                  work partners
+
+Task 1.1: Management of Consortium and Work Packages
+M1-M48; TUD (WP-Leads, all partners)
+
+Achievements:
+
+Q1. With a consortium of 21 partners, the first months of the project were used to establish meeting
+protocols and a solid management structure, defining the roles of the Coordinator, the Administra-
+tive Manager, WP-Leaders, Task-Leaders and partner representatives. Following several online con-
+sortium meetings prior to the project start, the face-to-face Kick-off meeting took place on 23-24
+May 2024 in Dresden, Germany. This event brought together all consortium partners to outline the
+project objectives and initial work plan, align expectations, and lay the groundwork for effective
+collaboration.
+
+                                                                  Page 8 of 46
+Periodic Report 1, Part B
+
+Q2-Q4. To ensure continuous communication and coordination, monthly online Work Package
+meetings and bi-monthly online Consortium Meetings were facilitated by TUD as the main coordi-
+nation frameworks. These meetings supported the regular exchange of knowledge and results, iden-
+tification of synergies, and discussion of potential challenges and upcoming activities.
+
+      Figure 1: U_CAN Consortium Meeting at (a) Dresden, Germany (left), (b) Wroclaw, Poland
+Q5. A second in-person Consortium Meeting was held on 21-23 May 2025 in Wroclaw, Poland,
+serving as a Year 1 review and Year 2 planning meeting. The programme was structured as follows:
+the first day focused on general Work Package progress updates, the second day was dedicated to
+eight parallel workshops, and the third day was devoted to the Synergy Workshop between Ukrain-
+ian Cities and EU Mission Cities.
+Q6. Report preparation for the first reporting period was coordinated at consortium level. An internal
+workshop titled "Get Ready for EU Reporting" was organised by TUD to support partners in under-
+standing reporting requirements and preparing technical and administrative inputs.
+Deviations and Impact on Other Tasks or Work Packages:
+None.
+
+Task 1.2: Administration and Financial Management
+M1-M48; TUD-EPC (all partners)
+Achievements:
+Q1. The Consortium Agreement, a vital document defining the roles, responsibilities, and rights of
+all partners, was successfully signed. This agreement provides a legal framework for the collabora-
+tion, outlining governance structures, intellectual property rights, and conflict resolution mecha-
+nisms. Furthermore, the first part of the pre-financing was distributed by the Coordinator TUD to
+all partners.
+Q2. A comprehensive Project Management Handbook (D1.1) was drafted by TUD, detailing the
+project's management structure, procedures, and guidelines. This document serves as a reference for
+all partners, ensuring consistency and clarity in project operations.
+Q3-Q4. To facilitate effective collaboration, a suite of tools and platforms has been implemented by
+TUD. These include the Project Management Tables (complementing the Project Management
+Handbook), a shared document repository, and mailing lists. These tools have streamlined work-
+flows, enhanced information sharing, and supported remote collaboration, especially amidst the cur-
+rent challenging scenario in Ukraine. In addition, an internal financial report was prepared by all
+partners, allowing the Coordinator TUD to get an overview of current spending.
+Q5-Q6. Financial documentation from all partners for the first reporting period was coordinated,
+reviewed, and consolidated. Emerging issues were identified and resolved in coordination with
+
+                                                                                                         Page 9 of 46
+Periodic Report 1, Part B
+
+partners to ensure timely and accurate financial reporting. During an internal workshop on
+07.10.2025 the Coordinator TUD explained the details of financial reporting and calculation of eli-
+gible costs to all consortium partners.
+
+Deviations and Impact on Other Tasks or Work Packages:
+Deliverable D1.1 was resubmitted following the incorporation of feedback from CINEA. The re-
+quired revisions were minor and, as a result, the adjusted timeline did not have any negative impact
+on subsequent tasks or work packages.
+
+Task 1.3: Data Management, Ethics and Gender Assurance
+M1-M48; TUD (ULA, all partners)
+Achievements:
+Q1-Q2. The Deliverable D1.2. Data Management Plan was developed by TUD, outlining the strat-
+egies for data collection, storage, sharing, and protection. The DMP aligns with EU data protection
+regulations and ensures that all project data are managed responsibly. The data management plan
+was made available to all consortium members for information and training purposes.
+
+Q3-Q6. As the project involves sensitive groups of people and the transfer of personal data to third
+countries that do not have European data protection standards, the data management plan was sup-
+plemented by a joint controllership agreement. The main content was developed jointly with all
+consortium members, in particular with the data protection officer of the TUD and the legal advisor
+of the European Project Centre of the TUD. The joint controller agreement specifies individual and
+joint responsibilities in data processing and was submitted to the consortium for signature. It serves
+to provide legal protection for data processing and to raise awareness within the consortium. This
+was included within the Deliverable D1.3. 1st update of Data Management Plan.
+
+Deviations and Impact on Other Tasks or Work Packages:
+Deliverable D1.2 was resubmitted following the incorporation of feedback from CINEA. The re-
+quired revisions were minor and, as a result, the adjusted timeline did not have any negative impact
+on subsequent tasks or work packages.
+
+Task 1.4: Working Network Board formation and operation
+M1-M48; TUD (WUST, all partners)
+Achievements:
+
+Q1-Q2. The foundations for establishing the Network of Eternal Partners (NEP) have been laid. The
+NEP is presented on the U_CAN project platform.
+
+Q3. A digital application process for NEP membership was made available via the project website.
+The NEP was established as a central point of contact for external individuals and organisations.
+Members originate from several European countries as well as Ukraine. Sectors currently repre-
+sented include municipal institutions, NGOs, research institutions and private companies.
+
+Q4-Q6. Invitations were disseminated on a regular basis, and collaboration was expanded through
+the engagement and onboarding of additional relevant organisations. The partner map on the project
+platform was continuously updated. By the end of the reporting period, the NEP consisted of 18
+members.
+
+Deviations and Impact on Other Tasks or Work Packages:
+Minor delay of Milestone MS01. Working Network Partners Board established due to late confir-
+mation of some network partners and development of the interactive map of network partners for
+the U_CAN website. This had no impact on subsequent tasks or work packages.
+
+                                                                                                       Page 10 of 46
+Periodic Report 1, Part B
+
+1.2.2. Work Package 2: Creation of U_CAN project platform for knowledge sharing and net-
+       working (M1-M48, OMB)
+
+WP2 Objectives
+
+The aim of this WP is to establish and operate a project platform for data and knowledge sharing,
+and for stakeholder networking. The objective is:
+
+    - Establish a project platform for collaboration, engagement of stakeholder network and
+         knowledge sharing among Ukrainian cities that are committed to the goal of carbon neutral-
+         ity.
+
+Progress in WP2 during the first Reporting Period of the project
+
+WP2 focused on the development of the U_CAN Project Platform as a central tool for dissemination,
+communication, and stakeholder engagement. The platform was established to support project visi-
+bility and knowledge exchange and includes three interactive maps presenting the Network of Ex-
+ternal Partners, "Climate Neutrality"-related initiatives in Ukraine, and the suitability of locations
+for solar power station deployment. By the end of the reporting period, the general number of views
+at the Platform is 11 thousand with 548 new users and 563 active users. The engagement rate for the
+Platform is 62.9% which is considered successful for the platforms developed within EU projects.
+
+Table 2: Overview of deliverables (D) & milestones (MS) of WP2
+
+# Title                     Due date Actual delivery Delay justification
+                            30/11/2024 02/01/2025 Integration of CINEA feedback fol-
+D2.1 Interactive map inte-
+       grated with Project                 (20/01/2025) lowing 1st submission
+       platform
+                            31/10/2024 22/08/2024 n/a
+MS2 U_CAN Project platform
+       established
+
+Task 2.1: U_CAN project platform creation
+M1-M6; OMB (TPF, ECSA, ENV, all partners)
+
+Achievements:
+
+Q1-Q2. The U_CAN project platform available at https://ucan-ukraine.eu was successfully devel-
+oped and launched as a central knowledge-sharing and networking hub, facilitating stakeholder en-
+gagement, dissemination of best practices, and collaboration among key actors in climate neutrality.
+The platform design and development were undertaken in a phased manner, with initial structuring
+and content planning carried out in M1-M3, followed by technical implementation and content in-
+tegration in M3-M4. The platform was launched in M4, with a subsequent review by all partners
+(Google forms were developed for submitting information about partners and pilot cities
+https://forms.gle/AM5U1HoNruLQgMp38 https://forms.gle/FroD3GTNStfMkcDq6), final testing
+and deployment in M5-M6. All remarks, suggestions and corrections were duly implemented. TPF
+was responsible for the technical development, while OMB led the content structuring.
+
+The platform operates as a bilingual (English/Ukrainian) resource to ensure accessibility for a broad
+range of stakeholders, including municipalities, policymakers, researchers, and industry representa-
+tives. Key functionalities include a dedicated repository for project results, knowledge and materials,
+event updates, news. The platform was developed using a flexible, GDPR-compliant Content Man-
+agement System (CMS) (WIX), ensuring adaptability and ease of maintenance. The architecture
+integrates user-friendly navigation, accessibility-compliant design (WCAG 2.1), and embedded data
+visualization features, supporting structured content dissemination.
+
+Q3-Q4. Preparatory work was undertaken to enable future expansion, including the integration of
+Interactive Mapping tools, a Learning Management System (linked to WP6), and additional features
+required for presenting project outcomes. The U_CAN platform will serve as a long-term knowledge
+
+                                                                  Page 11 of 46
+Periodic Report 1, Part B
+
+hub, remaining operational beyond the project duration to support urban climate neutrality efforts
+in Ukraine.
+Q3-Q6. Regular platform maintenance and content updates were carried out by OMB and TPF in
+collaboration with ECSA (WP7) and other partners. This included publishing news and events in
+line with the WP2-WP7 dissemination algorithm, updating the knowledge repository, maintaining
+interactive map data, and ensuring interoperability with external platforms, including NetZeroCities
+and the sister project SUN4Ukraine.
+
+                                    Figure 2: U_CAN Project Platform structure
+Deviations and Impact on Other Tasks or Work Packages:
+The U_CAN platform was established and launched two months ahead of the planned delivery date,
+resulting in a positive impact on the project by both supporting and accelerating the implementation
+of tasks, particularly within WP2 and WP7.
+Task 2.2: Interactive Mapping tool
+M7-M48; TPF (OMB, MCU, WUST)
+Achievements:
+Q1. The conceptual framework and functional scope of the U_CAN Interactive Mapping tools were
+defined, positioning the maps as key instruments for supporting collaboration among climate neu-
+trality stakeholders in Ukraine and the EU, as well as for providing structured access to climate-
+
+related data generated within the project.
+Q2-Q6. Three key interactive maps (https://www.ucan-ukraine.eu/interactive-maps) were launched
+within this reporting period by TPF with the support of project partners:
+
+    - Interactive Map of U_CAN External Partners Network: This map visually represents the
+         diverse array of organizations from Ukraine and the EU engaged in climate neutrality
+         initiatives. It enables users to explore potential partners based on sector expertise,
+         collaboration interests, and geographic location, thereby enhancing interdisciplinary
+         cooperation.
+
+    - Interactive Map of "Climate Neutrality"-Oriented Initiatives in Ukraine: This map
+         showcases ongoing and completed initiatives at municipal, regional, and national levels,
+
+                                                                                                       Page 12 of 46
+Periodic Report 1, Part B
+         with filtering options by sector, project status, and location, facilitating strategic planning
+         and matchmaking.
+
+    - Interactive Map of Ukrainian Territory Suitability for Solar Power Stations Placement: This
+         map was developed to support the strategic planning and deployment of solar power
+         infrastructure across Ukraine. Based on Deliverable D3.2 developed by ISKPI, the map
+         applies a multi-criteria approach combining geospatial data, satellite observations, and
+         analytical modelling to visualise territorial suitability.
+
+All maps were developed using Power BI embedded analytics, selected for their advanced data vis-
+ualization capabilities and dynamic interactivity. The interactive maps will continue to be expanded
+and refined in the upcoming project phases. Future developments include the integration of addi-
+tional datasets to disseminate outcomes of Work Packages WP3-WP6.
+Deviations and Impact on Other Tasks or Work Packages:
+Deliverable D2.1 was submitted with a short delay, because data collection for the map has taken
+longer than expected and the internal review process was still implemented to ensure good quality
+deliverables. There was no impact on other deliverables or tasks.
+
+                                                                                                       Page 13 of 46
+Periodic Report 1, Part B
+
+1.2.3. Work Package 3: CNSC synergy building towards climate goals (M1-M48, WUST)
+
+WP3 Objectives
+
+The aim of this WP is to initiate and conduct twinning among the CNSC mission cities and other
+EU entities with collaboration-minded Ukrainian stakeholders involved in localised climate action
+initiatives. The objectives are:
+
+    - Develop consensus building in envisioning climate goals in various planning and recon-
+         struction sectors in Ukraine and initiate teaming and partnerships between Ukrainian and
+         CNSC Mission cities.
+
+    - Develop pilot Use cases for the Ukrainian cities of Lviv, Kyiv, Zhytomyr, Khmelnytskyi,
+         Ivano Frankivsk and Vinnytsia that aspire climate neutrality.
+
+    - Support local authorities of pilot cities in building capacities for climate policy dialogues
+         and creating opportunities for consensus-building with local communities and other stake-
+         holder groups, including determining the economic and social benefits of the green trans-
+         formation for all potential stakeholders and
+
+    - Collaborate with the Mission platform and identify online networking opportunities for col-
+         laboration with funding institutes, and additional stakeholders in interested Ukrainian cities
+         with other EU organisations by network building to link Ukrainian cities with EU and UN
+         climate goals.
+
+Progress in WP3 during the first Reporting Period of the project
+
+WP3 focused on identifying priority sectors for climate action in Ukraine and initiating structured
+knowledge exchange between Ukrainian pilot cities and EU Mission Cities. The work package de-
+livered key analytical inputs on sectoral priorities and launched the twinning process through tar-
+geted exchange formats, laying the foundation for capacity building, pilot implementation, and long-
+term cooperation in support of climate neutrality objectives.
+
+Table 3: Overview of deliverables (D) & milestones (MS) of WP3
+
+# Title                    Due date Actual delivery Delay justification
+
+D3.1 Base report: Sectors for 30/04/2025 30/07/2025 A 3-months extension was approved
+
+Climate Actions in                                                to improve the quality of the report
+
+Ukraine                                                           with input from Ukrainian pilot cit-
+
+                                                                  ies during the consortium meeting
+
+                                                                  in Wroclaw in Mai 2025
+
+D3.2 Ukrainian Territory Suit- 30/04/2025 05/05/2025 n/a
+
+ability for Solar Power
+
+Station Placement
+
+MS3 Collaboration with Mis- 31/08/2024 06/03/2025 Signature of MoU with NetZeroCi-
+
+sion Platform established                                         ties has been delayed by negotiation
+
+                                                                  of legal departments and receiving
+
+                                                                  mandates from each U_CAN part-
+
+                                                                  ner for TUD to sign the MoU
+
+MS4 CNSC Synergy workshop 30/11/2024 29/11/2024 n/a
+
+conducted
+
+MS5 Indicators for climate 31/10/2025 31/10/2025 n/a
+
+neutrality in the context
+
+of pilot activities
+
+Task 3.1: Identification of key sectors in climate actions
+M4-M12; AU (ISKPI, WUST, ENV, JRG, SFPA)
+
+                                                                         Page 14 of 46
+Periodic Report 1, Part B
+
+Achievements:
+
+Task 3.1 was planned for the first 12 months of the project and entailed (i) the identification of
+priority climate mitigation and adaptation sectors at the national and municipal levels and (ii) spatial
+assessment of renewable energy deployment conditions. Two submitted deliverables associated with
+the task are: (a) sectoral mapping of emissions and policy relevance (D3.1), and (b) geospatial suit-
+ability analysis for solar power investment siting (D3.2).
+
+The task was led by AU, who was also the lead author of D3.1, with contributions and reviews from
+ENV, ULA, as well as WUST, JRG, and SFPA, while the principal authorship of D3.2 was held by
+ISKPI, with contributions and reviews from ZCC and JRG.
+
+Q2-Q5. The Deliverable D3.1. Sectors for Climate Actions in Ukraine was based on document anal-
+ysis of national climate legislation, policy frameworks, and local climate plans, complemented by a
+review of scientific literature and international best practice sources. Evidence was further informed
+through bilateral agreement reviews and targeted searches in multiple languages to capture non-
+English sources. Additionally, qualitative data were collected from six Ukrainian pilot cities through
+interviews, a workshop, and an open-ended questionnaire conducted in spring-summer 2025, offer-
+ing insights into local priorities, barriers, and institutional capacities. This combination of desk re-
+search and stakeholder consultation enabled a multi-level assessment of climate action needs and
+sectoral opportunities in Ukraine.
+
+According to the report, Ukraine's climate policy targets climate neutrality by 2050 and a 65% re-
+duction in GHG emissions by 2030, framing green reconstruction as essential for EU integration
+and energy security. The energy sector is the core priority, alongside heating modernisation, renew-
+able expansion, transport decarbonisation and waste management. In the six pilot cities, actions fo-
+cus on heating upgrades, clean mobility, and resilience, and gain the strongest support when linked
+to energy security. Key barriers include limited financing, weak coordination and administrative
+capacity, and delays in the implementation of national instruments, all of which are amplified by
+wartime conditions. Despite this, strong city leadership, EU alignment, academic cooperation and
+public support create favourable conditions, with pilot initiatives expected to build capacity and
+demonstrate scalable solutions.
+
+Q2-Q4. The Deliverable D3.2. Ukrainian Territory Suitability for Solar Power Station Placement
+employed an integrated, multi-criteria geospatial approach to evaluate land suitability for solar
+power stations across Ukraine. It utilised satellite-derived climatic variables (GHI, temperature, pre-
+cipitation, wind), topographic datasets (elevation and slope), and a 2022 national land-cover map.
+All inputs were standardised through fuzzy logic to a 0-1 suitability scale. Their relative significance
+was determined using the Analytical Hierarchy Process and expert pairwise comparison, yielding
+consistent weighting coefficients. These weighted factors were then combined using the Weighted
+Sum Model to produce a national suitability index, with wetlands, rivers, and dense forests entirely
+excluded from potential zones. This process produced a spatially explicit suitability map that sup-
+ports evidence-based identification of optimal solar PV deployment sites.
+
+The geospatial assessment indicates that most of Ukraine's territory has medium to high suitability
+for solar PV development, with the highest values concentrated in the southern oblasts and Crimea,
+where suitability exceeds 0.75. Mountainous and densely forested areas, especially the Carpathians
+and northern Polissia, are mainly unsuitable due to steep terrain and low solar access. Existing large
+solar farms are mainly situated in zones classified as highly or very highly suitable, validating the
+model. Yet, several regions (including Poltava, Dnipropetrovsk, Donetsk, Luhansk, and northern
+Odesa) remain underexploited despite their high potential. Notably, 35.65% of land falls within the
+medium suitability class, 14.4% within the high suitability class, and 4.78% within the very high
+suitability class, revealing significant potential to expand decentralised PV systems to support na-
+tional energy security and climate neutrality objectives.
+
+                                                                                                       Page 15 of 46
+Periodic Report 1, Part B
+
+The findings are now being used as the foundation for subsequent Tasks in WP3, mainly twinning
+activities, and to support alignment with WP4 pilot actions.
+
+Deviations and Impact on Other Tasks or Work Packages:
+The delivery of D3.1 was postponed from April to July 2025 due to restrictions on data collection
+from municipalities under wartime conditions. Limitations in administrative capacity and the lack
+of key technical staff required additional consultations and further interview rounds with Kyiv and
+Khmelnytskyi to complete the dataset. The revised timeline did not negatively impact subsequent
+Tasks or Work Packages.
+
+Task 3.2: CNSC and Ukraine twinning initiation
+M7-M30; WUST (LHD, TUD, TPF, all pilot cities in UA)
+Achievements:
+Task 3.2 commenced in November 2024 with the objective of initiating structured twinning between
+six Ukrainian pilot cities and Climate-Neutral and Smart Cities (CNSC) Mission Cities through the
+design and implementation of Knowledge and Experience Exchange Sessions (KEES, D3.3). The
+task builds on the analytical results of Task 3.1 and supports the implementation of Tasks 3.3 and
+3.4.
+
+Q2-Q3. A key element of the twinning process was the development of Knowledge and Experience
+Exchange Sessions (KEES) by WUST. These sessions were interactive formats designed to establish
+long-lasting, practically relevant collaboration between Mission Cities and Ukrainian partners.
+KEES aim to close capacity gaps, enhance governance standards, and facilitate the transfer of prac-
+tical experiences in climate mitigation and adaptation.
+KEES methodology structures twinning around: (1) needs-based sectoral analysis, (2) transferable
+solution identification, (3) local scenario development, (4) monitoring and policy alignment. The
+conceptual twinning structure is rooted in creating proximity (sectoral, organisational and geo-de-
+mographic) while building incentives for durable cooperation within the broader European decar-
+bonisation agenda. Nine sectors were identified as key fields for exchange:
+
+    - construction and infrastructure,
+    - energy and utilities,
+    - industry,
+    - transport and mobility,
+    - waste and circular economy,
+    - environment and green infrastructure,
+    - spatial planning and land management,
+    - digital and Smart City solutions, and
+    - citizen engagement and social innovation.
+
+Drawing on the identified sectors, a survey-based matchmaking process was completed to determine
+twinning constellations. Each Ukrainian pilot city was paired with two Mission Cities best aligned
+in terms of (1) sector-based expertise, and (2) geo-demographic and spatial comparability. The pair-
+ing logic is flexible, allowing iterative adjustments to secure the strongest possible synergies. How-
+ever, based on the experience so far, the following matches are developing:
+
+                                                                                                       Page 16 of 46
+Periodic Report 1, Part B
+                                         Figure 3: Initial twinning partnerships
+
+Q4-Q6: KEES activities were further divided into two streams as explained below:
+(a) Twinning-dedicated (closed): U_CAN Mission Cities + UA pilot cities - synergy workshops and
+bilateral meetings.
+Synergy Workshops bring together U_CAN Mission Cities and Ukrainian pilot cities to build con-
+nections, exchange experiences, and identify shared priorities. Through guided discussions, partici-
+pants define knowledge gaps, share good practices, and explore opportunities for mutual learning.
+The workshops help form a collaborative network, inspire new ideas, and lay the groundwork for
+future cooperation. They also support the selection of strong twinning partnerships by highlighting
+complementary strengths and areas for joint action. Within the first reporting period, two synergy
+workshops were organised by WUST - one online (Nov 2024) and one hybrid with the delegates
+from Mission Cities and UA pilot cities invited to Wroclaw (May 2025).
+Bilateral Meetings are focused one-to-one sessions between representatives of Ukrainian pilot cities
+and U_CAN Mission Cities. They address specific fields of expertise or explore the potential for
+twinning partnerships. These targeted conversations enable cities to discuss concrete needs, ex-
+change specialised knowledge, and assess compatibility for future collaboration. The meetings help
+clarify expectations, deepen mutual understanding, and support the development of well-matched,
+purposeful partnerships within the U_CAN initiative. Over 20 bilateral meetings were facilitated by
+WUST till the end of the first reporting period, mainly online, but also including study visits.
+
+                                                                                                       Page 17 of 46
+Periodic Report 1, Part B
+
+                           Figure 4: KEES activities scheme
+
+(b) Other knowledge exchange activities (open / semi-open): U_CAN partners, SUN4Ukraine part-
+ners, other Mission Cities external municipalities and experts - thematic workshops.
+
+Thematic Workshops focus on the priority topics identified by Ukrainian U_CAN Cities. These tar-
+geted sessions enable more profound exploration of specific challenges, case studies, or fields of
+expertise. They serve as additional knowledge-exchange events, bringing together practitioners, ex-
+perts, and researchers to provide specialised input and evidence-based insights. Three online The-
+matic Workshops were organised, involving Mission Cities, Ukrainian partners, SUN4Ukraine
+members, and selected external cities and experts:
+
+    1. Sectors for Climate Action in Ukraine (February 2025) - Led by AU, focusing on differen-
+         tiated sectoral pathways.
+
+    2. Advancing Decarbonisation Through Solar and Low-Carbon Solutions (April 2025 - Led
+         by LHD with contributions from Klagenfurt am Wörthersee and U_CAN partners, covering
+         solar potential, land analysis, and district-scale decarbonisation models.
+
+    3. Public Engagement for Climate Neutrality (November 2025) - Kosice and Wroclaw shared
+         governance and citizen engagement strategies, formats and measurement methods, accom-
+         panied by input from AU and WUST.
+
+Deviations and Impact on Other Tasks or Work Packages:
+None.
+
+Task 3.3: Pilot use cases conception
+M7-24; AU (WUST, LHD, TUD, TPF, AU, all pilot cities in UA)
+
+Achievements:
+Q3-Q4.Task 3.3 aims to translate the analytical outputs of Task 3.2 into city-specific transition
+scenarios and pilot use cases for five Ukrainian cities. It operationalises strategic climate and en-
+ergy targets into concrete pathways and governance models, tailored to local institutional capacity.
+
+Q5-Q6: AU, together with other WP3 partners and the pilot cities, is implementing the following
+ongoing activities:
+
+    - Creation of transition scenarios for each pilot city, outlining decarbonisation priorities,
+         heating system modernisation options, PV integration, transport reforms, and climate-re-
+         silient reconstruction approaches.
+
+                                                                                                       Page 18 of 46
+Periodic Report 1, Part B
+
+    - Identification of institutional pathways, specifying which actors (mayors, utilities, CSOs,
+         housing providers, EU twinning partners) must coordinate to unlock energy transition
+         steps and secure capacity for implementation.
+
+    - Assessment of localised renewable energy potential and post-war feasibility of decentral-
+         ised energy solutions, drawing directly on Task 3.2 suitability results and climate-neutral
+         governance frameworks.
+
+    - Development of a best-practice catalogue (D3.4) that compiles scalable and replicable
+         models for Ukrainian urban transition, aligned with EU Mission Cities experience, IPCC
+         guidance, and EGD principles.
+
+    - Linking transition options to lived realities of the cities, including institutional stability,
+         displacement patterns, damaged heat networks, and needs for quick-deployment renewa-
+         bles (e.g. rooftop and floating PV, modular heat networks).
+
+    - Integration with twinning and CNSC mentoring, ensuring that pilot use cases benefit from
+         structured exchange and not only technical recommendations.
+
+Deviations and Impact on Other Tasks or Work Packages:
+
+None.
+
+Task 3.4: Engagement with CNSC Mission Platform
+M1-48; WUST (LHD, TPF, TUD, ENV)
+
+Achievements:
+Task 3.4 is focused on building structured engagement between U_CAN partners and the CNSC
+Mission Platform, strengthening the twinning architecture between EU Mission Cities and Ukrainian
+pilot cities throughout the project period.
+
+Q1-Q2: Coordination was initiated with key European climate-neutrality networks, including Net-
+ZeroCities, CrAFt, Eurocities and ICLEI, ensuring that Ukrainian stakeholders gain access to estab-
+lished transition methodologies, governance models, and financial instruments used by Mission Cit-
+ies.
+
+Q2-Q3: Onboarding into the CNSC ecosystem through the signing of a Memorandum of Under-
+standing was formalised, enabling continuous cooperation and knowledge exchange channels.
+
+Q4-Q5. A dedicated U_CAN group was established within the NetZeroCities portal and is currently
+being populated with pilot city data, climate strategies, and contact information. This represents a
+first step towards integrating Ukrainian local authorities into the same operational digital environ-
+ment used by EU Mission Cities. The NetZeroCities platform is expected to serve as a long-term
+infrastructure for knowledge exchange, matchmaking, benchmarking, and capacity building be-
+tween Mission Cities and Ukrainian cities. In parallel, a Collaboration Agreement between U_CAN
+and NetZeroCities was drafted and agreed upon by both parties, with signatures underway by the
+end of the reporting period.
+
+Q6. Engagement and collaboration with other complementary European and Ukrainian initia-
+tives (DREAMER, ConnectED, Eurocities, ICLEI, EECU) was initiated. This helps in broadening
+the U_CAN collaboration network beyond twinning alone and aligning with European best practices
+on just transition, multilevel governance, climate finance, and post-war green reconstruction.
+
+Deviations and Impact on Other Tasks or Work Packages:
+
+Due to a delay in the formalisation of the Memorandum of Understanding between NetZeroCities
+and the U_CAN project, MS3 was achieved later than scheduled. No impacts on other tasks or
+work packages were observed.
+
+                                                                                                       Page 19 of 46
+Periodic Report 1, Part B
+
+1.2.4. Work Package 4: Pilot Implementation in Ukraine, supported by European front-runners
+       (M13-M45, CIL)
+
+WP4 Objectives
+
+The aim of this WP is to implement short to medium-term climate mitigation strategies in 6 pilot
+cities in Ukraine (Lviv, Kyiv, Zhytomyr, Khmelnytskyi, Ivano Frankivsk and Vinnytsia). The ob-
+jectives are:
+
+    - Support implementation of pilot activities in six cities to demonstrate climate-neutral city
+         solutions and
+
+    - Integrate learnings from project and contemporary practices in short and medium-term strat-
+         egies of local governing bodies in Ukraine.
+
+Progress in WP4 during the first Reporting Period of the project
+
+WP4 focused on establishing the methodological and operational foundations for pilot implementa-
+tion, including the development of climate indicators, preparatory assessments, and early pilot-spe-
+cific activities, thereby enabling the transition from planning and knowledge exchange to concrete,
+city-level implementation.
+
+Table 4: Overview of deliverables (D) & milestones (MS) of WP4
+
+Deliverable number Deliverable title  Delivery date               Comment
+No deliverables until M18
+
+# Title                           Due date Actual delivery Delay justification
+                                  31/10/2025 31/10/2025 n/a
+MS5 Indicators for climate
+       neutrality in the context
+       of pilot activities
+
+Task 4.1: Assessment of climate indicators in pilot cities
+M13-M21; OMB (ENV, BRIT, all pilot partners)
+
+Achievements:
+
+Q4. Climate indicators to assess the progress in Pilot Activities were selected. The framework meth-
+odology was developed by OMB and ENV, implementing a complex approach uniting several meth-
+odologies of evaluating sustainability of cities and territories, including the UNESCAP methodology
+for National Sustainable Development Goals adapted for the purposes of the U_CAN project. Dur-
+ing the first stage of the climate indicators development, the preliminary complex list of climate
+neutrality indicators sorted by the field of origin (e.g., Transport, Energy, etc.) was formed.
+
+Q5. During the second stage the given indicators were evaluated by the representatives of the Pilot
+Cities by their relevance to their Pilot Use Cases and the availability of data. The latter states a
+particular challenge due to the martial law in Ukraine which states restricted access to a number of
+indicators, and the absence of centralized data collection systems, as well as the absence of data on
+certain climate indicators in Ukrainian municipalities. The preliminary selection of climate indicator
+groups was conducted at the Workshop within the Consortium Meeting in Wroclaw in M13.
+
+Q6. During the third stage the collection of data on the selected climate indicators from the Pilot
+Cities was conducted via the protected file sharing system used in the project. A questionnaire was
+developed by OMB to gather additional information on sustainability in the Pilot municipalities.
+During M16-M17 six meetings were held between OMB, ENBV and the representatives of the Pilot
+Cities within the Project Consortium, including the representatives of the municipalities where the
+Cities are represented by the university partners in the Consortium. Milestone MS5 Indicators for
+
+                                                                                Page 20 of 46
+Periodic Report 1, Part B
+
+climate neutrality in the context of pilot activities was achieved by the end of M18 which marked
+the end of selection of the climate indicators.
+
+The Deliverable D4.1. Climate neutrality and impact indicators in Pilots is being developed and
+will be submitted by the end of M21. The methodology given in the Deliverable will serve not only
+for the assessment of the Pilot Activities implementation but also will allow to indicate the key
+hazards and potential risks within the Activities. The scalability of the methodology will allow for
+disseminating the findings of the Task to the climate neutrality actions outside the U_CAN project.
+
+Deviations and Impact on Other Tasks or Work Packages:
+None.
+
+Task 4.2: Climate-neutral pilot activities in Lviv
+M13-M42; CIL (OMB, ENV)
+
+Achievements:
+As part of the U-CAN project, the city of Lviv is implementing two pilot initiatives:
+
+(a) the Creation and Implementation of the Potential Energy District (PED)
+
+Q5-Q6. CIL team focused on data collection to support the formation of the PED. Expert assistance
+was provided to develop a heat-supply scheme for the cities of Lviv. Based on the 2023 SECAP,
+Lviv aims to become climate neutral by 2050, with the energy sector and the creation of the PED
+playing a key role in achieving this goal.
+
+    - As part of the implementation, a one-stop-shop concept was developed. The primary objec-
+         tive of this office is to communicate with residents, providing information on how to form
+         an energy-positive district within specific locations.
+
+    - In addition, preparatory activities for developing the municipal energy plan within the pilot
+         project were carried out. The city currently faces a significant challenge in gathering rele-
+         vant data for the energy sector. The plan will streamline data collection and support the
+         continued development and implementation of the PED.
+
+(b) the Formation of a European Integration Bureau and City Office in Brussels.
+
+Q2-Q6. Initially, the pilot design anticipated "Creating a European Integration Bureau and an office
+in Brussels." The European Integration Bureau was already actively operating at the beginning of
+the U_CAN project. Consequently, the pilot's focus shifted more towards establishing an office in
+Brussels.
+
+    - During this period, we engaged with other cities that have implemented similar offices, such
+         as Oslo and Izmir, to assess the feasibility and scope of full implementation.
+
+    - Another key idea that has emerged was the creation of a unique training program for mu-
+         nicipal employees. This program would bring in experts and foreign specialists to familiar-
+         ize local staff with EU legislation, inform them about grant programs currently relevant to
+         Ukraine, and conduct training within programs that are presently closed to Ukraine, thereby
+         facilitating Ukraine's future deeper integration with the European Union once it becomes a
+         full member.
+
+Deviations and Impact on Other Tasks or Work Packages:
+None.
+
+                                                                                                       Page 21 of 46
+Periodic Report 1, Part B
+
+Task 4.3: Climate-neutral pilot activities in Kyiv
+M13-M42; ISKPI (OMB, ENV)
+
+Achievements:
+
+During the reporting period, the Kyiv pilot team developed the morphological analysis method,
+modified by the authors, and adapted to the complex problems of planning cities with climate neu-
+trality goals, is among the most prospective ways of structuring complex problems and considering
+multiple influence criteria, and can be viewed as a part of an important process of transforming the
+scientific methods into management decisions.
+
+Q4-Q5. The authors tested 8 automobile tunnels provided for by the General Plan of Kyiv. The
+obtained car tunnel prioritization for Kyiv city was a decision with several groups of risk (logistical,
+ecological, safety) with different approaches to form rankings, that enhances management capabili-
+ties. The morphological model allowed to assess the impact of 10 structural and functional factors,
+and process ca. 280 000 value configurations to obtain numerical estimates for tunnel rankings. The
+analysis of results reveals the leaders of the ranking, recommended for priority construction. De-
+pending on the impact factor consideration, those are either tunnels 5, 4, 3 (approach 1), or tunnels
+5, 7, 8 (approach 2), with tunnel 5 being the leader in both cases. Introduction of the climate neu-
+trality factor to the set of the impact factors significantly influenced the tunnel prioritization results
+and provided more reliable results for the future development of Kyiv city. This approach could be
+an important factor in making management decisions for cities that are undergoing a transformation
+of the transport system on the basis of climate neutrality.
+
+Q6. Requests for official data were submitted to Kyivmetropoliten and Kyivpastrans. The process
+of obtaining and verifying these data was completed and reflected in the team's interim report. Reg-
+ular communication was maintained with project coordinators and other partner cities through
+monthly meetings to discuss progress, challenges, and next steps.
+
+Deviations and Impact on Other Tasks or Work Packages:
+
+The main deviation from the initial schedule concerns delay in obtaining official transport and en-
+vironmental data from municipal utilities. Some datasets remain limited and require additional ad-
+ministrative permissions and requests, which has somewhat delayed the completion of certain ana-
+lytical steps. However, this delay did not critically impact the overall progress of Task 4.3 or its
+integration with other Work Packages. The team compensated for this by conducting additional desk
+research, analysing publicly available data using verified open sources.
+
+Task 4.4: Climate-neutral pilot activities in Zhytomyr
+M13-M42; ZCC (OMB, ENV)
+
+Achievements:
+
+Within the U-CAN project, the city of Zhytomyr is developing two comprehensive plans:
+
+(a) the study of the legal basis and technical characteristics of the construction of a floating solar
+power plant
+
+Q4. The Zhytomyr team focused on a comprehensive and integrative approach to studying the legal
+basis for introducing solar energy on water in Ukraine. ZCC reviewed a number of Ukrainian regu-
+latory acts that establish requirements for the construction and use of solar energy on water. It should
+be noted that, unlike in Europe, the use of floating solar power plants is innovative for Ukraine,
+which means that the topic has not been researched and there may be resistance from the community
+during implementation. Thus, the following basic regulatory and legal acts were studied: the Land
+Code of Ukraine, the Water Code of Ukraine, the Law of Ukraine `On the Regulation of Urban
+Development,' the Law of Ukraine `On the Basic Principles of State Climate Policy,' the Law of
+Ukraine `On Alternative Energy Sources,' the Law of Ukraine `On Strategic Environmental
+
+                                                                                                       Page 22 of 46
+Periodic Report 1, Part B
+
+Assessment,' the Law of Ukraine `On Local Self-Government in Ukraine,' and the Law of Ukraine
+`On Land Management.' The resolutions of the Cabinet of Ministers of 21 February 2025 No. 194
+"On Approval of the Procedure for Organising and Conducting Public Hearings in the Process of
+Issuing an Integrated Environmental Permit (amendments thereto)` and the Order of the Cabinet of
+Ministers of Ukraine 'On Approval of the National Renewable Energy Action Plan for the Period
+until 2030 and the Plan of Measures for its Implementation" dated 13 August 2024 No. 761-r.
+
+Q5-Q6. Within the framework of WP4 and WP7, the project was presented to the executive bodies
+of the council: the ecology department of the city council, the mayor and deputies, as well as the
+public utilities department of the city council, the municipal enterprise `KATP-0628' of the Zhyto-
+myr City Council, which will subsequently use the generated electricity. The legal model for the
+station's operation was presented in detail, tax obligations for land tax were studied, and the possi-
+bility of connecting (if necessary) the floating solar station to the central power grid was exam-
+ined. As of 31 October 2025, the following results were achieved:
+
+    - Guarantees were received for the further implementation of the project from the city admin-
+         istration and the deputy corps. On 16 October 2025, we received an official decision from
+         the city council granting permission to the Zhytomyr City Council's municipal institution,
+         the City Development Agency, to develop documentation for obtaining a land plot under a
+         water body for the further construction of a floating solar power station. This decision is
+         binding in accordance with Article 122 of the Land Code of Ukraine. This is an extremely
+         important decision, as it expresses the support of the city authorities for moving towards the
+         development of alternative energy sources.
+
+    - Memorandum of cooperation was approved by the Zhytomyr City Council by decision No.
+         1497 of 16 October 2025, with Ocean Sun AS and Nicc LLC, which provides for the devel-
+         opment, expansion and strengthening of relations between the parties regarding the creation
+         and operation of renewable energy sources.
+
+    - An agreement with Leo Energy was established on preliminary arrangements for the con-
+         struction of a floating solar power plant.
+
+    - The City Development Agency signed a contract with a contractor to carry out work on the
+         formation and registration of the land plot on which the future floating power plant will be
+         located.
+
+    - A memorandum was signed with the municipal enterprise KATP of the Zhytomyr City
+         Council, which is responsible for the removal of household waste.
+
+(b) a plan for the development of urban horticulture through the renovation of the city's greenhouse
+facilities.
+
+Q4. ZCC sees this pilot as an opportunity to strengthen the community's food security, as a tool for
+improving communication and cooperation within the community, integrating internally displaced
+persons, a way to restore the trust of city residents in local authorities through the implementation
+of mechanisms for the temporary transfer of greenhouses to city residents for use. Thanks to the
+work in Work Package 3, we were able to find a partner city that has useful experience in the relevant
+field.
+
+Q5-Q6. A comprehensive, informative and inspiring working trip to the city of Dresden was organ-
+ised with a colleague from the Zelenbud Municipal Enterprise of the ZCC, which has greenhouses
+at its disposal and will be the legal entity that will subsequently transfer this property for use by
+citizens.
+
+In order to renovate and develop the city's greenhouse industry, the ZCC will consider the example
+of shared gardens in Dresden and develop its own unique legal and practical model of cooperation
+between citizens and local authorities, based on the principles of transparency, cooperation and mu-
+tual responsibility, environmental friendliness, development and scaling. As of 31 October 2025,
+the following results were achieved:
+
+                                                                                                       Page 23 of 46
+Periodic Report 1, Part B
+
+    - The project concept was presented and received positive feedback from the city administra-
+         tion regarding approaches to property use. We have conducted photo and video shooting of
+         the greenhouse industry using a drone.
+
+    - The legal basis for the transfer of property for use was assessed for feasibility.
+    - The Land Code and the Laws of Ukraine: `On Farming', `On Personal Peasant Farming',
+
+         `On the Lease of State and Municipal Property' and the Civil Code of Ukraine in terms of
+         easement rights was reviewed.
+    - The most important achievement, which is of fundamental importance for the further devel-
+         opment of the pilot project, was the definition of the legal basis and model of cooperation
+         between the ZCC and the greenhouse user, the definition of mutual rights and obligations,
+         and the development of a preliminary cooperation agreement between the parties
+
+Deviations and Impact on Other Tasks or Work Packages:
+
+None.
+
+Task 4.5: Climate-neutral pilot activities in Khmelnytskyi
+M13-M42; KhNU (LYKUML, OMB, ENV, LHD)
+
+Achievements:
+
+Within the U-CAN project, the city of Khmelnytskyi is developing two pilots, led by two different
+university partners:
+
+(a) Center for Local Policy Support in the Field of Climate-Neutral Construction and Energy, led by
+LYKUML
+
+Q5-Q6. On October 24, 2025, on the International Day of Climate Action, the official opening of
+The Centre for the support of local policies in the field of climate- neutral construction and energy
+(hereinafter - the Centre) took place within the walls of Leonid Yuzkov Khmelnytskyi University
+of Management and Law. The event involved representatives of the city authorities, non-govern-
+mental organizations, business representatives, academic community, international partners, repre-
+sentatives of the U_CAN pilot partner cities, and the public.
+
+The positive impact of the event was the increased level of public interest in issues of energy trans-
+formation and climate neutrality, the strengthening of partnership interaction between authorities,
+science, and the public, and the formation of a positive image of Khmelnytskyi as a modern, pro-
+gressive and environmentally responsible city.
+
+The establishment of the Centre is a logical step in the implementation of the city's environmental
+strategy, as it will become a platform for scientific research, education, public initiatives, and inter-
+national partnership in the field of climate-neutral development and energy. The Centre's main ob-
+jective is to conduct educational-scientific, and cultural-awareness activities in the field of develop-
+ing climate neutrality, ecological, and energy transformation through the study of local policies,
+programmes, and practices, international cooperation, and the search for innovative proposals.
+
+The Centre will ensure:
+    - The creation of a platform for dialogue and cooperation between authorities, businesses,
+         non-governmental organizations, educational institutions, and scientists.
+    - Raising community awareness regarding contemporary environmental challenges and op-
+         portunities for sustainable development.
+    - Development of practical solutions in the fields of energy efficiency, waste management,
+         and climate change adaptation.
+    - Support for the formation of local policies that will contribute to achieving climate neutrality
+         and the sustainable development goals of the city of Khmelnytskyi.
+    - Training of specialists through workshops, experience exchanges, and educational initia-
+         tives. Identification of the target groups of the Centre's for the support of local policies in
+
+                                                                                                       Page 24 of 46
+Periodic Report 1, Part B
+
+         the field of climate-neutral construction and energy activities, including public authorities,
+         civil society organizations, the business community, 2 educational institutions of Khmelny-
+         tskyi, as well as experts and researchers in the fields of ecology, climate neutrality and en-
+         ergy.
+
+(b) Adaptive Traffic Management system to improve urban mobility and reduce CO emissions in
+Khmelnytskyi, led by KhNU
+
+Q5-Q6. Key activities completed during the reporting period include:
+
+    - An Adaptive Traffic Management System was introduced, designed to enhance the climate
+         resilience of Ukrainian cities. The system integrates AI algorithms, smart sensors, and geo-
+         spatial data to optimise traffic flows and support sustainable urban mobility.
+
+    - The article "An Adaptive Machine Learning Approach to Sustainable Traffic Planning:
+         High-Fidelity Pattern Recognition in Smart Transportation Systems" -- authored by Vitaliy
+         Pavlyshyn, Eduard Manziuk, Oleksander Barmak, Pavlo Radiuk, and Iurii Krak -- was pub-
+         lished in the (Gold Open Access, SJR: Q2) MDPI journal Future Transportation (Basel,
+         Switzerland), https://doi.org/10.3390/futuretransp5040152 .
+
+    - A meeting was held with representatives of the Khmelnytskyi City Council and the Deputy
+         Mayor to discuss collaboration on the implementation of scientific solutions developed un-
+         der the U_CAN project. As a result, a working relationship was established with the De-
+         partment of Transport Infrastructure to support the integration of adaptive control software
+         into the city's traffic system, advancing the city's transition toward sustainable mobility.
+
+    - Preparations began for the KhNU Conference on CO Emissions Reduction 2026 (MS6),
+         including organisational arrangements and programme development to ensure effective dis-
+         semination of project results and exchange of expertise.
+
+Deviations and Impact on Other Tasks or Work Packages:
+
+None.
+
+Task 4.6: Climate-neutral pilot activities in Ivano-Frankivsk
+M13-M42; BRIT (OMB, ENV)
+
+Achievements:
+
+BRIT is responsible for the implementation of a photovoltaic (PV) installation within a selected
+public building located in the central part of Ivano-Frankivsk.
+
+The final selection of the building will be based on the outcomes of a comprehensive needs assess-
+ment, taking into account dissemination potential, synergies with other ongoing or planned initia-
+tives, and alignment with the overall project objectives. The planned installation will comprise a
+PV-panel solution, smart metering components, LED lighting, and ensure public accessibility for
+demonstration purposes.
+
+Q3. BRIT established and maintained close cooperation with the Ivano-Frankivsk City Administra-
+tion, in particular with Ms. Nadiia Kromkach, Deputy Head of the Department of Economic Devel-
+opment, Ecology, and Energy Saving of the Ivano-Frankivsk City Council.
+
+Q4. During the application stage, the initially proposed costs for PV equipment (EUR 10,000) were
+removed, as U_CAN is classified as a soft project without direct hardware investment components.
+Nevertheless, BRIT identified an alternative approach by utilizing existing PV panels available for
+public buildings, thereby ensuring the continuation of this demonstrative activity within the project's
+framework. IT development services were used to establish an online platform to present, monitor,
+and promote the initiative.
+
+                                                                                                       Page 25 of 46
+Periodic Report 1, Part B
+Q5-Q6. In this regard, the BRIT team held a series of coordination meetings with representatives of
+the company responsible for the development and maintenance of the official website of the City of
+Ivano-Frankivsk. The collaboration will ensure the visibility, transparency, and replicability of the
+implemented actions in line with EU project dissemination and communication standards. By the
+end of the reporting period, the online platform was launched and disseminated through U_CAN
+channels.
+BRIT's experts, in cooperation with representatives of the Ivano-Frankivsk City Administration,
+conducted joint work aimed at collecting and analysing data necessary for the development and
+completion of climate indicators. This collaboration contributed to enhancing the city's capacity for
+systematic climate monitoring and data-driven policy planning.
+Deviations and Impact on Other Tasks or Work Packages:
+None.
+Task 4.8: Performance assessment of initiatives in six pilot cities
+M22-M45; ENV (OMB, BRIT, all pilot partners)
+Activity has not started yet.
+
+                                                                                                       Page 26 of 46
+Periodic Report 1, Part B
+
+1.2.5. Work Package 5: Modernization and standardisation of technologies and practices (M4-
+       M45, ULA)
+
+WP5 Objectives
+
+The aim of this WP is to support the process of standardisation and modernisation of technologies.
+Objectives are:
+
+    - Standardisation activities relevant to the EU and international levels.
+    - Modernisation of green technologies in the building sector.
+    - Procedures and protocols development for building stocks and its reconstruction and
+    - Citizen participation and engagement in local climate mitigation strategies.
+
+Progress in WP5 during the first Reporting Period of the project
+
+As a first action within the WP5 activities, a survey was prepared to enable the pilot cities to express
+their development and reconstruction needs and interests with a view to carbon neutrality. In order
+to make the process effectively shared and feasible, the following actions were carried out:
+
+- involvement of project partners who share the objective of modernising and standardising
+    technologies and practices.
+
+- identification of hot topics related to the carbon neutrality of the built environment.
+- definition of the queries within each topic by the partners previously involved.
+- collecting the questions, skimming and systematising them to avoid repetitions and overlaps
+
+    that could lead to ambiguities.
+- defining the survey structure.
+- administration and sharing of the survey to the Pilot cities involved in the U_CAN project.
+- analysis of results.
+
+The survey results were presented at the 2025 Cities Mission Conference held on May 6-8 in Vilnius,
+Lithuania, and at the 2025 IEEE International Workshop on Metrology for Living Environment,
+session no. 9, "Modernization of technologies and practices towards cities carbon neutrality
+(U_CAN Project)," held on June 11-13 in Venice, Italy.
+
+The results provided the basis for the Co-Creation Labs held in Wroclaw during the project's Con-
+sortium Meetings, which were then further explored in bilateral meetings with the Pilot Cities held
+in June and July 2025, during which it was possible to establish the cities' priorities and objectives.
+
+Table 5: Overview of deliverables & milestones of WP5
+
+# Title                    Due date Actual delivery Delay justification
+
+D5.1 Overview of standardiza- 30/04/2025 05/05/2025 n/a
+
+tion landscape
+
+Task 5.1: Standardisation activities
+M4-M45; DIN (JRG, ULA, TUD, all pilot partners)
+
+Achievements:
+
+Q2. The standardisation landscape analysis was carried out. The process began with the collection
+of keywords by DIN and direct input provided by other WP5 partners, which were used to identify
+relevant standards. Initial research resulted in approximately 4,000 standards. The raw dataset was
+then cleaned by removing irrelevant results as well as standards that did not meet the criteria of the
+International Classification of Standards (ICS), reducing the dataset to approximately 1,600 stand-
+ards. Keywords were clustered, these clusters were assigned to partners based on their areas of ex-
+pertise. Partners evaluated the standards within their assigned clusters using a provided template and
+
+                                                                         Page 27 of 46
+Periodic Report 1, Part B
+
+predefined rating criteria. After the first rating process, the dataset was further refined to approxi-
+mately 800 standards.
+
+Q3-Q4. A second rating process was completed by all WP5 partners in February 2025. The Deliv-
+erable D5.1. Overview of standardization landscape was completed by end of the first year of the
+U_CAN project. This included an introduction to standardization, basic concepts, the main types of
+standardization documents, and a summary of the standards relevant to U_CAN
+
+In parallel, a liaison with CEN/TC 465, "Sustainable and Smart Cities and Communities," was ap-
+proved and initiated by TUD. The final assignment of the liaison was completed and formalised,
+marking a significant step forward in aligning with relevant standardisation bodies. TUD partici-
+pated in regular monthly Ad-hoc meetings of the working group.
+
+Q5-Q6. Preparations were undertaken by DIN for the Standardization Potentials and Opportunities
+Workshop. As part of this preparation phase, two alternative 30-minute introductory sessions were
+offered on September 30th 2025 and October 2nd 2025, allowing consortium members to attend the
+session that best suited their schedule. These sessions provided the necessary background ahead of
+the main workshop. The main workshop was scheduled for November 3rd, with the goal of gathering
+insights on the priority areas of each pilot city and exploring how these can translate into potential
+standardization activities. It also aims to foster dialogue between pilot cities and experts and to iden-
+tify ways in which these local opportunities may contribute to the broader standardization landscape.
+
+Deviations and Impact on Other Tasks or Work Packages:
+
+None.
+
+Task 5.2: Modernisation of technologies for decarbonisation of industries
+M10-M33; JRG (AU, ULA, OMB)
+
+Achievements:
+
+During this reporting period, the following activities were carried out:
+    - Identification of the needs of Ukrainian cities regarding decarbonisation measures.
+    - Determining the sources of CO2 emissions in Ukraine.
+    - Evaluation of the potential of Ukrainian cities to implement renewable energy sources.
+    - Economic assessment of specific renewable energy generation technologies.
+
+Q4. In April 2025, WUST and ISKPI organized the Thematic workshop "Synergy Building towards
+Climate Goals", with JRG taking an active part to gather and discuss insights on recent develop-
+ments in solar power generation for urban infrastructure.
+
+Q5. During the consortium meeting in May 2025, a further workshop was held to conduct an initial
+assessment and to identify decarbonisation areas and solution approaches relevant for the pilot cities.
+Together with all six pilot cities, their needs for various decarbonisation technologies were identified
+and prioritised.
+
+In parallel, an economic assessment of the potential, production technologies, and supply options
+for exporting hydrogen from UKRAINE to the EU was contacted (Terekhov, Y., Tuerk, A.,
+Blaettner, D., (2024) Options of exporting hydrogen from Ukraine to the EU. International Multi-
+disciplinary Scientific GeoConference: SGEM, Sofia, Vol. 4, Issue 2.
+https//doi.org/10.5593/sgem2024v/4.2/s16.04.).
+
+Q5-Q6. A separate study by JRG analysed the prospects for the development of renewable energy
+in Ukraine and provided an assessment of investments in different renewable energy generation
+technologies. The results of this work were presented in (Terekhov, Y. (2025) Recovery of the en-
+ergy system of Ukraine towards the development of renewable energy. BIS Energy and Engineering,
+Vol. 2, https://unimma.press/conference/index.php/biseeng/article/view/361).
+
+                                                                                                       Page 28 of 46
+Periodic Report 1, Part B
+
+In continuation of this work, opportunities for implementing decarbonization technologies using
+solar energy in urban infrastructure were identified by JRG (Terekhov, Y. (2025) Current Decar-
+bonization Technologies in Ukrainian Cities in the Energy Production and Consumption Sector Us-
+ing Solar Energy, 2025 IEEE International Workshop on Metrology for Living Environment (Me-
+troLivEnv), Venice, Italy, 2025, DOI: 10.1109/MetroLivEnv64961.2025.11107025).
+
+Deviations and Impact on Other Tasks or Work Packages:
+
+None.
+
+Task 5.3: Procedures for repurposing war-affected demolition materials
+M10-M33; ULA (RCSD, OMB, ENV)
+
+Achievements:
+
+Task 5.3 focuses on three main areas:
+    - Debris management, with particular emphasis on selective demolition.
+    - Recovery and reuse of building components.
+    - Recycling of materials from decommissioned buildings.
+
+Q4. A dedicated, iterative methodology was developed by ULA collaboratively with all task partners
+and refined based on feedback from pilot cities and the preparatory Ukraine Reconstruction Confer-
+ence (Rome, July 2025). Each phase was revisited and adjusted according to the outcomes of sub-
+sequent steps, allowing continuous optimisation of analyses, decision-making, and intervention
+strategies. The methodology comprised seven interrelated phases:
+
+    - Characterization of typical buildings in the Ukrainian building stock, focusing on construc-
+         tion techniques and materials.
+
+    - Parametric quantification of materials and building components per unit of surface area.
+    - Development of an algorithm to identify representative building types through cartographic
+
+         analysis.
+    - Statistical correlation of building types with material quantities.
+    - Selection of best practices and definition of strategies for selective demolition.
+    - Assessment of component reuse potential and recycling pathways for non-reusable materi-
+
+         als.
+    - Development of a framework for building waste management, accounting for recoverable
+
+         materials.
+
+This iterative approach ensures continuous refinement of procedures and supports evidence-based
+strategies for the sustainable repurposing of materials from war-affected buildings.
+
+Q5. Building on this, ULA conducted a detailed characterization of construction techniques and
+materials in typical buildings and developed a parametric table quantifying the prevalence of domi-
+nant materials and components (e.g., doors and windows, cladding, concrete panels). This work was
+carried out in synergy with task 5.4.
+
+To gather detailed information on the typological, material, and construction characteristics of build-
+ings, two questionnaires were distributed to pilot cities in close collaboration with task 5.4, and co-
+creation labs were held in July 2025 for more in-depth analysis, with the participation of interested
+partners. These co-creation labs built on those held in Wroclaw, during the Consortium Meeting. A
+comprehensive bibliographic review provided additional insights into Ukraine's architectural herit-
+age.
+
+Q6. The current integration phase focuses on implementing parametric calculation within a GIS
+environment, based on the methodology previously developed in spreadsheets. In collaboration with
+task partners, research was also focused on identifying best practices for selective demolition, com-
+ponent recovery, and material recycling. To advance these efforts, a thematic workshop is scheduled
+for 10 December 2025, aimed at refining strategies and fostering knowledge exchange on post-
+
+                                                                                                       Page 29 of 46
+Periodic Report 1, Part B
+
+disaster reconstruction and long-term urban resilience. The workshop, organized with the Special
+Agency for the Reconstruction of L'Aquila (USRA), will focus on ,,Rock, Excavated Soil, and Rub-
+ble in Reconstruction Following the 2009 Earthquake."
+
+Deviations and Impact on Other Tasks or Work Packages:
+
+Although challenges arose in collecting information on rubble due to the war, a comprehensive bib-
+liographic review has facilitated the reconstruction of the state of the art, enabling the development
+of an accurate and detailed understanding of the built heritage of many pilot cities. It also facilitated
+the advancement of task 5.4.
+
+Task 5.4: Protocols for renovation/energy retrofit of existing buildings
+M10-M36; ULA (OMB, RCSD)
+
+Achievements:
+
+During this reporting period, ULA advanced along five complementary strands:
+
+(a) Adaptive reuse:
+
+    - Q4. The strategy of adaptive reuse focused on exploring the potential of Ukraine's building
+         stock, particularly unused or underutilized structures, to address housing needs for displaced
+         populations and vulnerable groups, including veterans affected by conflict-related injuries.
+         A typological characterization was conducted in collaboration with task 5.3, emphasizing
+         building layouts and adaptability rather than materials and construction.
+
+    - Q5. The goal was to identify temporary housing solutions and develop preliminary strate-
+         gies for accessibility and inclusivity, in line with discussions from the Verona Conference
+         (May 2025) and the Ukraine Reconstruction Conference (Rome, July 2025). To support this
+         work, the same questionnaires previously described were distributed to pilot cities, and re-
+         sults were shared at the Cities Mission Conference 2025 in Vilnius (May 2025), ensuring
+         alignment with local needs and ongoing collaborative activities.
+
+(b) Energy efficiency:
+
+         - Q4. The research was organised into three areas of study: definition of the regulatory
+              framework in light of European directives and Ukrainian regulations on energy effi-
+              ciency; study of the construction and thermal characteristics of Ukrainian buildings
+              through literature analysis (also in collaboration with the activities of task 5.3) and the
+              aforementioned survey, in order to define the variables of the project's multi-criteria
+              methodology; definition of possible case studies useful for validating the methodology.
+
+         - Q5. This last point was made possible thanks to the already cited bilateral co-creation
+              labs, which identified Ivano-Frankivsk and Khmelnytskyi as the cities most interested
+              in energy efficiency issues. The initial results of these joint development activities were
+              also presented at the 2025 IEEE International Workshop on Metrology for Living En-
+              vironment, session no. 9, "Modernization of technologies and practices towards cities
+              carbon neutrality (U_CAN Project)," held on June 11-13 in Venice, Italy.
+
+(c) Renewable solar energy:
+
+         - Q4-Q5.The following steps were taken: classification of building envelope construction
+              systems; analysis of residential and specialized building types in the pilot cities; study
+              of solar potential and production capacity per hectare of urban land based on recurring
+              building types and settlement systems in the pilot cities.
+
+         - Q6. This territorial data was strategic for framing actions to introduce renewables into
+              buildings according to a multi-level protocol currently being developed.
+
+(d) Mitigation of urban floods:
+
+                                                                                                       Page 30 of 46
+Periodic Report 1, Part B
+
+         - Q4. The hydraulics group was carried out: an initial phase of literature review regarding
+              the state of the art of sewer systems and urban flood mitigation in Ukraine, a survey of
+              the key climatological data needed for the hydrological characterization of the areas of
+              each individual city using the ECMWF database (i.e., ERA5).
+
+         - Q5. The data are collected on a grid of points that fully covers each pilot city and were
+              used to characterize extreme events; a study of the information currently available and
+              freely downloadable from European portals concerning the topology of the water drain-
+              age network and the hydrological network of each pilot city.
+
+         - Q6. The objective is to systematically catalogue all hydrological information in order
+              to integrate the work being carried out by the territorial planning group in relation to
+              land-use transformation and nature-based solutions.
+
+(e) Urban planning:
+
+    - Q4-Q5. Cutting-edge methodologies were being used to frame pilot cities, both from an
+         urban-rural-natural interface criterion, as well as to provide insights into the urban areas.
+         The techniques used refer to machine learning techniques, remote sensing data, and indica-
+         tors engineering discipline, to provide a package of analyses capable of supporting sustain-
+         able planning.
+
+    - Q6. Additionally, the description of the natural features characterizing each study area is
+         currently under development. To support sustainable land and urban planning, a set of eco-
+         system services values is being elaborated for several pilot cities, according to the necessi-
+         ties expressed by each of them. Future activities will envisage the use of the produced anal-
+         yses and outputs to provide useful information to support land planning in each area.
+
+Also in relation to the activities of this task, a thematic workshop is being organized entitled ,,The
+urban regeneration of smaller towns in Abruzzo after disaster: focusing on underground services",
+in collaboration with the Special agency for the reconstruction of municipalities in the crater area
+(USRC) scheduled for November 27, 2025. The purpose of this event is to exchange knowledge and
+best practices on post-disaster reconstruction.
+
+Deviations and Impact on Other Tasks or Work Packages:
+
+None.
+
+Task 5.5: Citizen participation in local climate governance
+M13-M42; TUD (ECSA, SFPA, ENV, WUST, AU, ULA, UA-partners)
+
+Achievements:
+
+Q5. A preliminary in-person workshop was conducted during the consortium meeting in Wroclaw
+in May 2025 to collect an initial overview of existing citizen engagement practices across the six
+Ukrainian pilot cities. Building on these insights, a structured assessment framework called the
+Ukrainian Readiness Index (URI). It was developed to evaluate the preparedness and institutional
+capacities of Ukrainian municipalities to engage in EU-funded climate and resilience initiatives. The
+URI data collection phase has been completed, and refinement of the data from the six municipalities
+is currently underway.
+
+Q6. In parallel, a participatory methodology called Exploratory Scenario Planning (XSP) was de-
+signed to explore potential pathways for local climate action in post-war contexts. The first scenario
+mapping workshop under this framework was conducted in Dresden in September 2025, focusing
+on the Zhytomyr pilot case on urban gardening, with participation from local representatives, project
+partners and the city of Dresden. This workshop served as a pilot to test participatory formats for
+co-developing city-specific climate-neutral and recovery-oriented scenarios.
+
+Deviations and Impact on Other Tasks or Work Packages:
+No major deviations occurred. This has been no adverse impact on other tasks.
+
+                                                                                                       Page 31 of 46
+Periodic Report 1, Part B
+
+1.2.6. Work Package 6: Capacity building and localised knowledge mobilisation in Ukraine
+       (M18-M45, ISKPI)
+
+WP6 Objectives
+
+The aim of this WP is to conduct training, technical capacity building for various target groups and
+conduct local exchanges in Ukraine. The objectives are:
+
+    - Technical capacity building via development of ad-hoc training programmes and
+    - Localised multi-sectoral exchanges in Ukraine.
+
+Progress in WP6 during the first Reporting Period of the project
+
+Within the Training and Technical Capacity Building work package,
+ISKPI carried out a series of activities aimed at strengthening technical competences, developing
+educational programs, and promoting local multi-sectoral exchanges in Ukraine.
+
+    - The project was presented at international scientific events under Science for Peace and
+         Security (2024): the Advanced Research Workshop (ARW) supported by NATO ("Energy
+         infrastructure resilience in response to war and other hazards", September 23-26, 2024) and
+         Global Energy, Environmental, and Cyber Security ("Capacity building of young scientist
+         generation in energy security and climate neutrality", October 8-16, 2024, Budapest Uni-
+         versity of Technology and Economics, Hungary).
+
+    - On April 23, 2025, a Memorandum of Understanding was signed at Igor Sikorsky Kyiv
+         Polytechnic Institute between the Educational and Scientific Institute for Energy Saving and
+         Energy Management (ES ISEM) and the Municipal Institution "Research Institute for So-
+         cio-Economic Urban Development", formalizing their cooperation within the Horizon Eu-
+         rope U_CAN project.
+
+    - As part of educational and methodological activities, a new elective course "European
+         Green Deal" was developed, and work on the Guide "Climate Neutrality of Cities" (D6.1)
+         was initiated.
+
+No deliverables or milestones were planned in WP6 for RP1.
+
+Task 6.1: Training and capacity-building
+M25-M36; ISKPI (TPF, ECSA, DIN, ENV, WUST, MCU)
+
+Achievements:
+Q5. WP6 partners (TPF, TUD, MCU) jointly developed and agreed on a coordination methodology
+aimed at ensuring the integrity and logical coherence of the guide "Climate Neutrality of Cities" -
+from the diagnostic stage to the formulation of measurable and financially viable actions.
+
+Q6. A preliminary plan for the guide "Climate Neutrality of Cities" was also developed, along with
+an initial structural breakdown of its sections and the allocation of responsibilities among U_CAN
+project partners. ISKPI and TPF defined key coordination tasks, including the development of com-
+mon templates and style guidelines for all chapters, the organization of short coordination meetings
+among section leaders to harmonize content and cross-references, and the joint preparation of the
+introductory and concluding sections presenting the guide as a single, logically structured pathway
+of U_CAN results. In parallel, ISKPI conducted a review of existing online training materials to
+assess their potential reuse within the U_CAN project; discussions on this matter among WP6 par-
+ticipants are ongoing.
+
+Task 6.2: Climate Briefing for Mayors and city representatives of Ukraine
+M18-M33; MCU (TUD, TPF)
+
+                                                                                                       Page 32 of 46
+Periodic Report 1, Part B
+Achievements:
+Q5. MCU coordinated with external content providers to define and agree on the content of two
+training courses: the Climate-Neutral Smart Cities course and a Leadership course for mayors. In
+parallel, preparatory activities were undertaken to support course development.
+Q6. Organisation and coordination activities were carried out in preparation for the mayors' pre-
+briefing session planned as part of the Annual Mayors' Summit in Kyiv in November 2025.
+Task 6.3: Localised pilot-related knowledge mobilisation
+M34-M45; ZCC (all pilot cities, TPF, BRIT)
+Activity has not started yet.
+Task 6.4: Political dialogues with Ukrainian decision-makers
+M24-M42; ISKPI (TUD, TPF, MCU)
+Activity has not started yet.
+
+                                                                                                       Page 33 of 46
+Periodic Report 1, Part B
+
+1.2.7. Work Package 7: Communication, dissemination and exploitation (M1-M48, ECSA)
+
+WP7 Objectives
+
+The aim of this WP is to ensure widespread communication, dissemination, and exploitation of
+U_CAN findings among the European and Ukrainian stakeholders and support the realisation of the
+EGD. It will also foster new collaborations towards climate-neutral practices in Ukrainian cities.
+The objectives are:
+
+    - Communication of project activities, findings and events via the U_CAN project platform.
+    - Dissemination of project results, success stories and knowledge on various platforms and
+    - Exploitation of project results to foster further initiatives and collaborations.
+
+Progress in WP7 during the first Reporting Period of the project
+
+Table 6: Overview of deliverables & milestones of WP7
+
+# Title                    Due date Actual delivery Delay justification
+
+D7.1 Dissemination, exploita- 31/10/2024 01/11/2024 Integration of CINEA feedback fol-
+
+tion and                   (20/01/2025) lowing 1st submission
+
+communication plan
+
+D7.2 1st update of the dissemi- 31/10/2025 04/11/2025 n/a
+
+nation, exploitation and
+
+communication plan
+
+Task 7.1: U_CAN communication and dissemination activities
+M1-M48; ECSA (SFPA, all partners)
+
+Achievements:
+
+Over the past period, significant progress has been made in establishing a strong and recognisable
+presence through various communication channels and materials.
+
+    - Q1-Q2. Project visual identity has been developed, incorporating all imagery and graphic
+         elements that represent U_CAN. This includes a defined set of colours, typography,
+         templates (for Microsoft Word and PowerPoint), design components, images, and the
+         project logo. This ensures a consistent and professional appearance across all
+         communication materials, products, and services.
+         A dedicated project website was developed in collaboration with WP2 and officially
+         launched in August 2024. This bilingual platform serves as the central hub for all project-
+         related information and is regularly updated with news, activities, and project progress,
+         ensuring public accessibility and engagement.
+
+         The project has established key social media channels to engage different target audiences:
+
+(a) Facebook (@U CAN Project), established in M3. - Primarily targeted at Ukrainian
+    stakeholders, with Ukrainian as the main language and English as a secondary language.
+    Gained 230 followers in 18 months.
+
+(b) LinkedIn (@U_CAN Project), established in M3. - Designed for EU audiences,
+    managed in English to facilitate collaboration and knowledge exchange. Gained almost
+    400 followers in 18 months, and showed itself as project's primary communication
+    channel.
+
+(c) YouTube (@U_CANProject). - This channel was established at the later stage (M17) in
+    response to a higher than anticipated volume of video materials, following the decision
+    to produce short videos that showcase the project's achievements at various stages.
+
+                                                                         Page 34 of 46
+Periodic Report 1, Part B
+
+              Having a dedicated YouTube channel ensures wider reach, easier sharing, and better
+              searchability, while providing a centralised repository where all project-related videos
+              are systematically organised and publicly accessible. These videos are also embedded
+              across relevant sections of the project's website to complement textual content and
+              make reporting more visually engaging. Social media platforms will continue to serve
+              as the primary channels for disseminating video updates to stakeholders.
+
+    - Q3-Q4. To enhance outreach efforts, WP7 lead has produced a general awareness-raising
+         brochure, a postcard outlining U_CAN's primary aims in accessible language, postcards
+         describing each pilot city's goals. Available in both English and Ukrainian, these
+         dissemination materials serve as essential tools for conferences, webinars, and meetings,
+         supporting effective project promotion.
+
+         The project's introductory video, the digital banners presenting each pilot city's objectives,
+         and the roll-down banner - all developed by the WP7 lead - represent another set of
+         important communication tools used across conferences, webinars, and meetings, thereby
+         further strengthening effective dissemination and promotion of the project.
+
+         The project's first newsletter was issued in M12, distributed to subscribers, and published
+         on the project website. Subscription is available via the website, and this option is regularly
+         promoted through the project's social media channels.
+
+These achievements provide a strong foundation for increasing U_CAN's visibility, engagement,
+and impact among key stakeholders and the broader public.
+
+Two deliverables were prepared by the WP7 lead. Both deliverables are based on the dissemination
+and exploitation framework outlined in the project proposal and provide a detailed operational plan,
+including defined target audiences, priority events, published materials, and key performance indi-
+cators for the various communication and dissemination activities.
+
+Deviations and Impact on Other Tasks or Work Packages:
+Any initial delays in communication and dissemination in the early stages were addressed and im-
+proved, ensuring smoother coordination moving forward. Collecting input on communication and
+dissemination activities from all partners remains challenging. To facilitate the process, partners are
+regularly reminded to complete the general project management tables on the data repository with
+their activities and to use the media submission form provided by the WP7 lead, which is intended
+to ensure timely updating of project media channels.
+
+Task 7.2: Consolidation of U_CAN success stories
+M22-M45; TUD (pilot cities, all partners)
+
+Activity has not started yet.
+
+Task 7.3: Exchanges with Mayors of Europe and Global Covenant of Mayors
+M31-M45; MCU (CIL, SFPA, LHD, TPF)
+
+Activity has not started yet.
+
+Task 7.4: Annual Central European Energy Conference
+M22-M48; SFPA (RCSD, ECSA, all partners)
+
+Originally, the SFPA activity within the project planned to support two larger-scale conferences (at
+regional level and with political presence), continuing the tradition of the Central European Energy
+Conference (CEEC) as a high-level platform for discussing regional policy solutions. However,
+
+                                                                                                       Page 35 of 46
+Periodic Report 1, Part B
+
+during 2025, and following consultations with regional partners and key stakeholders, SFPA rede-
+signed the format of the event to be more practice-oriented and bottom-up. This change directly
+responded to the expressed needs of municipalities and local actors, who emphasised the importance
+of practical exchange, peer learning, and concrete implementation-oriented discussions rather than
+purely strategic or political debates.
+
+Q6. In order to achieve this goal,
+
+    - SFPA organised the Central European Energy Conference in cooperation with the Union of
+         Cities of Slovakia, with the two Mission Cities (Kosice and Bratislava) actively involved as
+         members. The Union of Cities of Slovakia represents an important player with significant
+         regional impact and a wide network of municipal partners across Slovakia and Central Eu-
+         rope.
+
+    - In addition, SFPA closely cooperated with the Carpathian Platform and the Association of
+         Energy Efficient Cities of Ukraine. These partners enabled the participation of mayors and
+         city representatives from Ukrainian cities beyond the core U_CAN project partnership, al-
+         lowing them to share expertise and practical inputs generated within the project and to con-
+         nect them with experiences from U_CAN partners and also other Central European munic-
+         ipalities.
+
+    - Although the formal reporting period ended in October 2025 and the conference itself was
+         held in November 2025, a substantial amount of preparatory work was carried out by SFPA
+         and project partners during the reporting period. This preparation phase included the con-
+         ceptual design of the conference, definition of its thematic focus in line with U_CAN ob-
+         jectives, identification and coordination of partners and speakers, and the development of
+         the detailed programme structure. Significant effort was devoted to aligning the content with
+         the needs of municipalities, securing the participation of Ukrainian and Central European
+         cities, and ensuring balanced representation of policy, technical, research and governance
+         perspectives.
+
+    - In addition, organisational and technical preparations were undertaken, including venue ar-
+         rangements, technical equipment, interpretation from/to Ukrainian language, coordination
+         with partner organisations and targeted outreach to municipalities and stakeholders. This
+         preparatory process required close cooperation among project partners and external organi-
+         sations and represented an important investment into building trust, strengthening networks
+         and ensuring high-quality outcomes.
+
+Q7. The conference was scheduled to take place on 24-25 November 2025.
+
+    - The conference achieved rich participation from Ukrainian partners, including representa-
+         tives from Khotyn, Lozova, Sheptytskyi, Uzhhorod, Rivne, Lviv, Ivano-Frankivsk, Zhyto-
+         myr, Khmelnytskyi, Bar and Kovel. In parallel, a strong presence of cities and regional rep-
+         resentatives from Central Europe was ensured, especially from Slovakia, Czechia and Po-
+         land. Importantly, the event also attracted participants outside the formal project network,
+         which significantly increased its added value in terms of networking, knowledge dissemi-
+         nation and visibility of U_CAN project results. For example, representatives of the Austrian
+         Union of Cities were present, contributing to cross-country exchange and reinforcing the
+         transnational character of the conference.
+
+    - Alongside 4 strategic plenary sessions, the conference programme included a comprehen-
+         sive set of thematic roundtable discussions focused on the concrete needs of cities and re-
+         gions. These covered the following topics: solar energy in municipalities, EU budgetary
+         tools for municipal recovery and decarbonisation, geothermal heating systems for urban use,
+         climate governance and citizen participation, energy performance standards and local build-
+         ing codes, circular economy strategies at municipal and regional level and adaptation
+         measures for cities.
+
+    - U_CAN project partners were actively involved as expert contributors, particularly in the
+         discussions on climate governance and citizen participation, energy performance standards
+
+                                                                                                       Page 36 of 46
+Periodic Report 1, Part B
+         and local building codes, and circular economy strategies. Experts from TUD, AU, ULA,
+         JRG, CIL and ZCC contributed their thematic knowledge, empirical findings and practical
+         experience, ensuring a strong link between project results and real-life municipal challenges.
+         These sessions were explicitly designed to provide practical know-how, facilitate peer-to-
+         peer learning, and foster direct cooperation between municipalities, including Ukrainian
+         partners operating under challenging conditions.
+
+For U_CAN project partners, the event served as a platform for presenting project results, validating
+findings through practitioner feedback, and strengthening the project's visibility and impact beyond
+the consortium. Overall, the conference contributed to long-term capacity building, network consol-
+idation and the creation of foundations for future joint initiatives in the field of local climate and
+energy transition.
+Task 7.5: Initiation of small-scale projects with donor funding
+M31-M48; RCSD (SFPA, JRG)
+Activity has not started yet.
+Task 7.6: Roadmap to empower climate action collaboration
+M34-M48; ECSA (JRG, CIL, AU, TPF, ENV)
+Activity has not started yet.
+
+                                                                                                       Page 37 of 46
+Periodic Report 1, Part B
+
+#§WRK-PLA-WP§# #@IMP-ACT-IA@#
+
+1.3 Impact
+
+U_CAN presented five Activities envisioning Impacts towards the vision within the DoA:
+
+(a) Mapping of Ukrainian cities Long-term Ukrainian City matches for Climate initiatives
+
+During the first reporting period, U_CAN successfully advanced the identification and engagement
+of Ukrainian cities committed to climate neutrality. This process confirmed cities' alignment with
+EU climate objectives and supported the identification of priority sectors requiring targeted support,
+thereby establishing a strong basis for meaningful participation in the Climate-Neutral and Smart
+Cities (CNSC) Mission.
+
+    - Five pilot cities--Lviv, Kyiv, Zhytomyr, Khmelnytskyi, and Ivano-Frankivsk--were iden-
+         tified as the core group. Relevant representatives from each city administration are formally
+         engaged to implement the planned pilot activities and to advance their cities' long-term cli-
+         mate neutrality visions.
+
+    - Partnerships were established with the City of Kharkiv, which joined the Network of Exter-
+         nal Partners (NEP) and invited to key project workshops.
+
+    - Collaboration was initiated with national and regional networks, including the Energy Ef-
+         ficient Cities of Ukraine (EECU) association, providing access to a broader pool of munic-
+         ipalities. Through these networks, additional interested cities will be engaged as network
+         partners in subsequent phases of the project to support the continuation and scaling of cli-
+         mate neutrality actions.
+
+(b) Supporting Ukrainian cities in the sectors identified Strategic sectoral empowerment of cities
+in UA
+
+U_CAN strengthened strategic sectoral support for Ukrainian cities by expanding its engagement
+beyond consortium expertise and systematically building an extended expert ecosystem around the
+identified priority sectors.
+
+    - The Network of External Partners (NEP) was established and is being expanded to include
+         additional European cities, sector experts, and organisations with relevant experience in cli-
+         mate-neutral transition, reconstruction, and sectoral innovation, providing Ukrainian cities
+         with access to a broader pool of knowledge and practical support.
+
+    - Liaison with CEN/TC 465, "Sustainable and Smart Cities and Communities," was estab-
+         lished, strengthening alignment between Ukrainian city needs and European standardisation
+         processes in key sectors related to sustainable transformation and climate neutrality.
+
+(c) Twinning and teaming Ukraine with CNSC Mission cities  Long-term CNSC partnerships
+
+As described in detail in the WP3 section, U_CAN advanced structured twinning and teaming be-
+tween Ukrainian cities and CNSC Mission Cities. Twinning activities were operationalised through
+multiple interaction formats, including 3 Synergy Workshops and over 20 bilateral meetings. These
+collaborations enabled Ukrainian cities to access practical experience, tested solutions, and govern-
+ance approaches from European counterparts, while also facilitating reciprocal knowledge exchange
+with Mission Cities.
+
+(d) Facilitating Use case based Pilot initiatives  Feasible adaptation of climate actions in
+Ukraine
+
+As outlined in the WP3 and WP4 descriptions, U_CAN initiated the development of use case-based
+pilot initiatives derived from twinning collaborations between Ukrainian cities and CNSC Mission
+
+                                                                                                       Page 38 of 46
+Periodic Report 1, Part B
+
+Cities. During the reporting period, preparatory activities focused on translating analytical outputs
+and twinning exchanges into localised pilot concepts tailored to the contexts of the six Ukrainian
+pilot cities (Lviv, Kyiv, Zhytomyr, Khmelnytskyi, Ivano-Frankivsk, and Vinnytsia). The pilot im-
+plementation activities will continue and intensify in the subsequent project period.
+
+(e) Disseminating and Exploiting best practices, success stories and CNSC collaboration  Cli-
+mate consciousness in various sectors of Ukraine and New avenues for integration of EGD in
+Ukraine
+
+During the reporting period, dissemination and communication activities focused on establishing
+visibility, accessibility, and knowledge-sharing channels through the U_CAN project website, com-
+munication materials, events, and engagement with European and international networks, as detailed
+in the WP7 descriptions. These initial actions targeted city administrations, decision-makers, prac-
+titioners, and civil society, creating a foundation for broader climate consciousness across sectors.
+In parallel, U_CAN engaged with European and international initiatives and platforms, including
+NetZeroCities, extending the reach and visibility of Ukrainian cities and opening pathways for future
+integration with European Green Deal-aligned processes. While the systemic exploitation of best
+practices and large-scale uptake will intensify in later project phases, the groundwork for long-term
+dissemination, replication, and integration of climate-neutral approaches in Ukraine was established
+during the first reporting period.
+
+1.4 Update of the plan for exploitation and dissemination of results
+
+During the reporting period, the consortium maintained the core objectives and target groups defined
+in the original Plan for communication, dissemination and exploitation, while refining approaches
+in response to stakeholder feedback and practical experience. The main updates relate to stronger
+use of multimedia formats, bilingual dissemination materials tailored to Ukrainian and European
+audiences, and a more practice-oriented design of key events to better support municipal needs.
+
+Enhanced multimedia and dissemination materials
+
+The project expanded its use of video beyond what was initially foreseen, creating a dedicated
+YouTube channel for convenient storage, referencing and re-use of audiovisual content. In addition
+to general project clips, new videos were produced to showcase partners' impressions from events
+and to highlight their achievements in specific time frames, thereby supporting ongoing visibility
+and exploitation of project results.
+
+The consortium also broadened its portfolio of visual and printed materials in response to the needs
+of pilot cities and stakeholders. Digital banners were developed to represent U_CAN pilot cities at
+conferences and other events; and additional postcards were produced: a general postcard explaining
+U_CAN's primary aims in accessible language plus city-specific postcards describing each pilot
+city's goals. Produced in both English and Ukrainian, these materials have become essential tools
+for conferences, webinars and meetings, enabling clear and targeted communication of project ob-
+jectives and emerging results.
+
+Central European Energy Conference: strategic adjustment
+
+In the case of the Central European Energy Conference, the planned activity was adjusted from a
+predominantly high-level, policy-oriented format to a more practice-oriented and bottom-up event
+concept. This shift responded to feedback from municipalities and local actors, who expressed a
+need for implementation-focused discussions, peer learning and concrete exchange on local climate
+and energy solutions. The revised format strengthened the role of municipal networks and partners,
+
+                                                                                                       Page 39 of 46
+Periodic Report 1, Part B
+broadened participation beyond the core consortium and enhanced opportunities for networking,
+knowledge dissemination and future exploitation of U_CAN results.
+Overall, these updates reinforce the exploitation potential of U_CAN results by improving their
+accessibility, relevance and practical uptake.
+
+                                                                                                       Page 40 of 46
+Periodic Report 1, Part B
+
+#§IMP-ACT-IA§# #§PRO-GRE-PG§# #@FOL-UP-FU@#
+
+2. FOLLOW-UP OF RECOMMENDATIONS AND COMMENTS FROM PREVI-
+     OUS REVIEW(S)
+
+Not applicable.
+
+#§FOL-UP-FU§# #@IMP-ACT-IA@#
+
+3. EXPLOITATION PRIMARILY IN NON-ASSOCIATED THIRD COUNTRIES
+
+Not applicable.
+
+#§IMP-ACT-IA§# #@CON-MET-CM@#
+
+4. OPEN SCIENCE
+
+The research activities within the project involved local stakeholders in the design of the pilot activ-
+ities and were based on the local needs of the pilot municipalities and their respective stakeholders.
+Key findings were presented to the pilot municipalities in thematic workshops, and other European
+and Ukrainian stakeholders were also involved. The public results were compiled and will be in-
+cluded in the project platform for knowledge exchange and networking. The first data sets and re-
+sults have been included in the EU's open research repository, Zenodo, among others. This means
+that various stakeholders have already contributed to the process and implementation of open sci-
+ence practices at an early stage, including the exchange of knowledge and contacts with U_CAN's
+sister project, SUN4Ukraine, and the Mission Platform.
+
+#§CON-MET-CM§# #@WRK-PLA-WP@#
+
+5. DEVIATIONS FROM ANNEX 1 AND ANNEX 2 (IF APPLICABLE)
+
+All deliverables and milestones due by M18 have been submitted or achieved. Although some de-
+liverables experienced a minor delay (up to three months in case of D3.1), there is no further im-
+pact on other deliverables or milestones foreseen.
+5.1 Tasks/objectives
+There are no deviations from planned tasks or objectives. Some tasks, e.g. in WP4 and WP6, have
+started a little earlier than planned with preparatory activities.
+5.2 Use of resources
+Overall, 25% of the budget has been spent during the first 18 months of the project, which is lower
+than the amount planned assuming a linear distribution. Costs are expected to increase in the 2nd and
+3rd reporting period, thereby offsetting the lower expenditure observed in the 1st reporting period.
+
+                                                                                                       Page 41 of 46
+Table 7. Effort spent per partner and per work package (M1 - M18); linear distribution of planned effort assumed
+
+                       WP1            WP2            WP3            WP4     WP5                WP6                          WP7         Total
+                                                                                                                     Plan Actual   Plan Actual
+                   Plan Actual Plan Actual Plan Actual Plan Actual Plan Actual Plan Actual                                                        Devia-
+                                                                                                                                                   tion
+P.no.  # months    18       18  18         18  18         18  6          6   15 15       1                        1  18  18        18  18
+  1       TUD                                                               2,50 0,27                                                             -67%
+  2       LHD      15,00 7,37   0,00           3,00 0,73      0,00          0,00         0,11 0,00                   6,75 0,66     27,36 9,03     -24%
+  3      ECSA                                                               1,43 0,86                                                               7%
+  4       DIN      1,13 0,82    0,00           3,00 2,68      0,36 0,31     3,57 4,13    0,00                        3,00 1,88     7,49 5,69        1%
+  5       SFPA                                                              0,36 0,20                                                             -84%
+  6       ENV      1,50 0,52    1,50 0,03      0,00           0,00          2,14 2,84    0,07 0,00                   8,63 12,65    13,13 14,06     23%
+  7       TPF                                                               0,00                                                                    9%
+  8      WUST      0,38 0,26    0,00           0,00           0,00          0,36 0,21    0,04 0,00                   0,38 0,03     4,36 4,42        9%
+  9        AU                                                               1,07 0,31                                                              -3%
+ 10       ULA      0,75 0,25    0,00           0,38 1,00      0,00          10,36 3,60   0,00                        9,75 0,38     11,23 1,83     -64%
+ 11       JRG                                                               3,21 4,33                                                             -28%
+ 12       BRIT     0,75 0,68    0,38 0,95      1,88 2,92      2,73 3,98     0,36 0,34    0,04 0,28                   2,25 0,80     10,16 12,45      0%
+ 13      OMB                                                                1,43 0,00                                                              -2%
+                   1,50 0,97    4,88 7,53      2,25 1,92      0,00          0,36 0,34    0,36 0,34                   2,63 1,90     11,61 12,66     31%
+14.1    ISKPI-EE                                                                                                                                   15%
+14.2   ISKPI-MM    3,00 3,08    1,13 0,88      7,88 9,91      0,00          0,00         0,07 0,08                   1,13 0,63     13,55 14,79     25%
+ 15                                                                         0,36 0,28                                                             -32%
+ 16       MCU      0,75 0,84    0,00           4,50 5,97      0,00          0,36 0,34    0,00                        1,13 0,14     7,45 7,26      -20%
+ 17        CIL                                                              0,36 0,18                                                             -26%
+ 18       ZCC      3,00 1,67    0,00           0,00           0,00          0,36 0,00    0,00                        2,25 0,28     15,61 5,55     -24%
+ 19      KhNU                                                               0,36 0,35                                                             155%
+ 20     LYKUML     0,75 0,86    0,00           1,13 1,69      0,00          3,57 4,05    0,00                        4,50 0,00     9,59 6,88       14%
+ 21     ME IUD     0,75 0,75                   0,75 0,75      2,55 2,55     32,50 22,63                              1,13 1,13                    -12%
+         RCSD                   0,00                                                     0,07 0,07                                 5,60 5,59
+                                                                                -30,4%
+           Total:  0,75 0,75    4,50 8,17      0,38 1,00      3,27 2,01                  0,00                        1,88 0,00     12,20 11,93
+       Deviation
+                   1,50 1,50    0,00           1,13 3,00      6,55 8,55                  0,71 0,71                   2,25 2,25     12,49 16,35
+
+                   1,50 0,25                   3,75 10,00     2,00                                                   1,88 0,25     9,13 10,50
+
+                   0,75 0,80    1,50 1,70      0,00           0,00                       0,43 1,50                   4,50 5,00     7,18 9,00
+                                0,00                                                     0,29 0,23
+                   1,50 1,00    0,00           0,75 0,60      6,55 4,65                  0,21 0,00                   4,13 2,50     13,56 9,26
+                                0,00                                                     0,07 0,00
+                   0,75 0,36    0,00           0,75 1,00      3,64 3,53                  0,07 0,11                   1,88 0,86     7,58 6,09
+                                0,00                                                     0,21 0,21
+                   0,75 2,73    0,00           0,75 0,61      4,36 1,48                  0,00                        1,88 1,05     8,17 6,05
+                                13,88 19,26                                              2,75 3,53
+                   0,75 0,98                   0,75 1,73      3,27 2,12                                              1,88 0,42     7,08 5,36
+                                     38,8%                                                    28,4%
+                   0,75 1,05                   0,75 0,84      3,64 15,66                                             1,88 1,19     7,58 19,30
+
+                   0,75 0,75                   0,00           0,00                                                   5,25 6,11     9,57 10,91
+
+                   39,00 28,24                 33,75 46,35    38,91 44,84                                            70,88 40,11   231,66 204,95
+                        -27,6%                      37,3%          15,2%                                                   -43,4%
+                                                                                                                                       -11,5%
+Justification of effort deviations <>20% at WP level during the 1st reporting period:
+
+WP       Justification for deviation
+
+WP1      Underspending is mainly due to the Coordinator TUD not being able to claim all
+         actual costs due to missing documentation. This will be adjusted with the 2nd Peri-
+
+         odic Report.
+
+WP2      WP2 Leaders TPF and OMB created and populated the U_CAN platform during
+
+         the first months of the project, which required a lot of effort leading to overspend-
+
+         ing of person months compared to a linear distribution.
+
+WP3      Overspending: WUST as WP-Leader had additional effort to coordinate the WP
+         activities and ISKPI-MM used most of their effort planned for WP3 during the 1st
+
+         Reporting Period for the preparation of D3.2.
+
+WP5      Underspending: Most tasks in WP5 only started in M10 and are ramping up, which
+         led to underspending, mainly of the WP-Leader ULA, during the 1st Periodic Re-
+
+         port.
+
+WP6      Overspending is in effect only 3 PM, mainly by ISKPI-EE due to the expanded
+
+         scope of Training and Technical Capacity Building activities.
+
+WP7      Overall there was an underspending of effort in WP7 because dissemination and
+         exploitation activities have only started during the 1st reporting period and will in-
+         crease in the 2nd half of the project.
+
+Justification of effort deviations <>20% at partner level during the 1st reporting period:
+
+Partner  Justification for deviation
+TUD
+SFPA     Lower actual effort reported due to missing documentation, which will be adjusted
+ULA      with the 2nd Periodic Report.
+
+JRG      Lower effort mainly in WP7 because the CEEC conferences, for which SFPA is
+ISKPI    responsible, will only take place in the 2nd and 3rd reporting period.
+CIL
+KhNU     Lower effort mainly in WP5, which is led by ULA. Most tasks only started in M10
+         and are ramping up leading to lower effort during the 1st reporting period. In addi-
+ME IUD   tion, recruitment of a young researcher hired specifically for the project has been
+         delayed and the contract has not started yet.
+
+         Lower effort mainly in WP7, because dissemination and exploitation activities will
+         take place mainly in the 2nd and 3rd reporting period.
+
+         Overspending
+
+         Lower effort mainly in WP7, because dissemination and exploitation activities will
+         take place mainly in the 2nd and 3rd reporting period.
+
+         In effect, effort is only 2PM lower than planned, mainly in WP4, where activities
+         have only started at the end of the 1st reporting period and will increase in the 2nd
+         reporting period.
+
+         Higher effort than planned mainly in WP4, where activities have started much ear-
+         lier than planned to support the research work on the small river Tiazhyliv to un-
+         derstand the limits and framework for creating a socio-spatial concept for its devel-
+         opment and a strategy for restoring its biodiversity.
+Table 8. Planned versus actual costs (M1 - M18) - linear consumption of resources assumed - and planned versus actual person months rate (M1-M18)
+
+Part. Partner   Planned         Actual        Deviation of costs  Planned     Actual    Deviation of
+               Total costs    Total costs                         PM-rate    PM-rate      PM-rate
+no.   name
+
+1     TUD        299.062,50      88.668,95    -70%                7.000,00   6.810,76    -3%
+                  65.390,63      46.242,48    -29%                6.000,00   6.135,51    2%
+2     LHD        126.703,13     109.484,51    -14%                6.400,00   5.874,65    -8%
+                  51.796,88      40.913,80    -21%                7.500,00   7.154,79    -5%
+3     ECSA        84.140,63        7.325,39   -91%                2.500,00   2.587,02    3%
+                  74.895,38      84.169,93    12%                 3.838,08   4.956,12   29%
+4     DIN        135.937,50     118.688,15    -13%                6.600,00   7.033,14    7%
+                 134.953,13     159.035,89    18%                 6.300,00   7.395,56   17%
+5     SFPA        89.250,00      80.263,08    -10%                8.200,00   8.502,89    4%
+                 112.171,88      54.885,94    -51%                4.404,65   7.119,52   62%
+6     ENV         69.046,88      59.683,15    -14%                2.000,00   6.430,15   222%
+                  30.000,00      17.301,94    -42%                2.000,00   1.997,70    0%
+7     TPF         63.656,25      40.304,90    -37%                2.500,00   2.458,80    -2%
+                 115.078,13      69.365,01    -40%                2.000,00   1.959,92    -2%
+8     WUST        88.359,38      94.301,15     7%                 2.666,67   2.298,05   -14%
+                  53.671,88      26.408,25    -51%                2.000,00   2.000,28    0%
+9     AU          53.671,88      23.338,75    -57%                2.000,00   1.926,27    -4%
+                  54.093,75        7.095,01   -87%                2.000,00              -83%
+10    ULA         49.734,38      10.912,59    -78%                2.000,00     330,51   -58%
+                  50.156,25      50.536,61     1%                 2.000,00     840,46   -48%
+11    JRG         48.656,25      39.351,13    -19%                2.000,00   1.041,19   21%
+                                              -34%                           2.414,29 
+12    BRIT     1.850.426,63   1.228.276,58 
+
+13    OMB
+
+14.1  ISKPI
+
+15    MCU
+
+16    CIL
+
+17    ZCC
+
+18    KhNU
+
+19 LYKUML
+
+20 ME IUD
+
+21    RCSD
+
+      Total:
+Jstification of deviations <>20% of total costs during the 1st reporting period:
+
+Partner  Justification for deviation
+TUD
+         Underspending in personnel costs due to missing documentation, which will be ad-
+LHD      justed with the 2nd Periodic Report. Underspending in travel costs, since the kick-
+SFPA     off meeting was held in Dresden and no travel costs were paid yet for network
+         partners.
+ULA
+         Underspending in personnel costs because of the late start of the contract for the
+BRIT     person working on U_CAN. Initial contributions were covered by permanent staff
+OMB      without claiming costs.
+ISKPI
+CIL      Underspending in personnel costs mainly in WP7, which is due to dissemination
+ZCC      and exploitation activities starting later in the project, in particular the activities re-
+KhNU     lated to the CEEC conferences. This also explains the underspending in purchase
+LYKUML   costs as most of these costs are associated with the CEEC conferences, which only
+         start in the 2nd reporting period.
+
+         Underspending in personnel costs mainly in WP5, which is led by ULA. Most
+         tasks only started in M10 and are ramping up leading to lower effort and hence
+         costs during the 1st reporting period. In addition, recruitment of a young researcher
+         hired specifically for the project has been delayed and the contract has not started
+         yet. Furthermore, the subcontract for WP5 has not been started yet.
+
+         Underspending in personnel costs because the main activities in WP4 and WP6
+         will be in the 2nd and 3rd reporting period.
+
+         Underspending in personnel costs as most effort is planned for WP4, which only
+         started at the end of the 1st reporting period. Underspending in purchase costs as
+         most costs are planned for dissemination activities occurring later in the project.
+
+         Underspending
+
+         Underspending due to falling exchange rate. Underspending in personnel costs as
+         most effort is planned for WP4, which only started at the end of the 1st reporting
+         period.
+
+         Underspending due to falling exchange rate. Underspending in personnel costs as
+         most effort is planned for WP4, which only started at the end of the 1st reporting
+         period.
+
+         Underspending due to falling exchange rate. Underspending in personnel costs as
+         most effort is planned for WP4, which only started at the end of the 1st reporting
+         period and due to lower average monthly personnel costs than planned.
+
+         Underspending due to falling exchange rate. Underspending in personnel costs as
+         most effort is planned for WP4, which only started at the end of the 1st reporting
+         period and due to lower average monthly personnel costs than planned.
+Periodic Report 1, Part B
+
+Justification of deviations <>20% of average monthly personnel rate during the 1st reporting pe-
+riod:
+
+WP      Justification for deviation
+ENV
+ULA     Higher average monthly personnel costs than planned because of more senior ex-
+        perts working on the project during the 1st reporting period. This will be balanced
+JRG     in future reporting periods.
+KhNU
+        Higher average monthly personnel costs than planned due to a number of factors:
+LYKUML  In 2024, the salaries of professors at the University of L'Aquila were adjusted in
+ME IUD  line with ISTAT tables, leading to a general increase in salaries. There have also
+        been career advancements for two researchers, who became associate professors.
+        Other researchers received salary increases. Additionally, the two-year contract for
+        young researchers, which has a lower monthly average than that of teachers and
+        would balance the salary rate, has not yet been activated.
+
+        Higher average monthly personnel costs due to an error in the calculation during
+        the proposal phase. All necessary work in the project will be carried out with the
+        budget available.
+
+        Lower average monthly personnel costs result mainly from the depreciation of the
+        Ukrainian hryvnia, as all salaries are paid in UAH and their EUR-equivalent value
+        is significantly reduced when converted using the official monthly exchange rate.
+        The involvement of KhNU in the project increases substantially after Month 13
+        with the start of key tasks and deliverables, therefore, higher personnel costs are
+        expected in the next reporting periods.
+
+        The calculation of the actual personnel costs led to a lower monthly average than
+        originally estimated, which is also due to the falling exchange rate.
+
+        The calculation of the actual personnel costs led to a lower monthly average than
+        originally estimated, which is also due to the falling exchange rate.
+
+5.2.1. Unforeseen subcontracting
+Not applicable.
+
+5.2.2. Unforeseen use of in kind contributions
+Not applicable.
+
+#§WRK-PLA-WP§#
+
+                                                Page 46 of 46
+

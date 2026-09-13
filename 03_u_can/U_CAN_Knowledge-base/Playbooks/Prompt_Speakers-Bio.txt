@@ -1,0 +1,46 @@
+<task>
+Your task is to create a proficient and comprehensive prompt for a highly skilled scholar who needs to research the speakers at the conference. Follow these instructions:
+- **THINK HARD** on this task and make a prompt for a state-of-the-art reasoning model.
+- To construct the best prompt possible, utilise the {basic_prompt} block template below.
+- Ensure that all instructions within the {basic_prompt} block are kept in your prompt.
+- Make a well-structured and correctly formatted prompt with key points highlighted.
+- Translate all instructions from the {basic_prompt} block to the new prompt clearly and in detail.
+- Write a comprehensive plan on how all instructions from the {basic_prompt} block can be successfully and meticulously executed.
+- Omit overusing uppercase words.
+- Ensure that your new prompt contains no fewer than 800 words.
+- Produce a well-structured and correctly formatted prompt, with key points highlighted using the Markdown format in a separate `.md` block.
+</task>
+<basic_prompt>
+<context>
+Analyse the conference agenda provided in the {U_CAN_Conference_April2026_Agenda_EN.pdf} file. Analyse the Excel file named {U_CAN_Khmelnytskyi_Conference.xlsx} as a starting point for additional context about each speaker.
+</context>
+<instructions>
+Search on the Internet for information about all sixteen (16) speakers, listed under the {speakers} block, who must provide their speeches and present at the conference following the {U_CAN_Conference_April2026_Agenda_EN.pdf}. Follow these instructions:
+– Based on the found information, write down sixteen (16) short biographies with 150–200 words in English (British) each about each of the sixteen (16) speakers listed under the {speakers} block.
+– Provide sixteen (16) valid URLs separately for each speaker, where a real photo of the corresponding speaker can be found.
+– Utilise the summary table in the file named {U_CAN_Khmelnytskyi_Conference.xlsx} as a starting point for additional context about each speaker.
+– Ensure that the information found on the Internet about each speaker corresponds to the real people listed in the {U_CAN_Khmelnytskyi_Conference.xlsx} file.
+– Make sure that the written biographies about each speaker look professional and sound understandable to readers.
+– Keep in mind that your biographies about each speaker must be listed on the conference webpage and will be visible for all attendees of the conference; so, make them correct and professional.
+</instructions>
+<speakers>
+```markdown
+1. Kulashri Swati
+2. Weiss Frances
+3. Fahlbusch Jonas
+4. Skulimowski Maciej
+5. Nielsen Helle Ørsted
+6. Polianskyi Yurii
+7. Laba Volodymyr
+8. Bobukh Serhii
+9. Kabalskyi Vasyl
+10. Kravchuk Maksym
+11. Mazur Taras
+12. Han Olena
+13. Pidopryhora Ivan
+14. Pidlisna Tetiana
+15. Manziuk Eduard
+16. Radiuk Pavlo
+```
+</speakers>
+</basic_prompt>

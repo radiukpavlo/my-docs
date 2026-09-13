@@ -1,0 +1,295 @@
+--- SLIDE 1 ---
+Work Package 4
+Pilot implementation in Ukraine,supported by European front-runners.
+MI City Institute (Lviv)
+L’Aquila Consortium Meeting I 06.07.2026
+--- SLIDE 2 ---
+Pilot implementation in Ukraine,supported by European front-runners
+WP Lead: CIL (MI City Institute,Lviv)
+Partners involved:
+CIL (MI City Institute,Lviv)
+OBM ( O.M Beketov National University of Urban Economy in Kharkiv)
+ISKPI (National Technical University of Ukraine Igor Sikorsky Kyiv Polytechnic Institute)
+ZCC (MI “City development agency” of Zhytomyr city council), 
+KhNU Khmelnitsky National University),
+LYKUML (Leonid Yuzkov Khmelnitsky University of Management and Law),
+BRIT (Non-Govermental Organization Bureau of Research, Innovation and Technologies), 
+ME IUD (ME “Institute of Urban Development” Vinnytsia), 
+ENV (ENVIROPLAN Consultants & Engineers)
+--- SLIDE 3 ---
+List of Tasks and Deliverables 
+D4.1 – Climate neutrality and impact indicators in Pilots (ENV) - Done 
+D4.2 – Implementation Plan Lviv (CIL) - in progress (end date 01.07.2027)
+D4.3 – Implementation Plan Kyiv (ISKPI)- in progress (end date 01.07.2027)
+D4.4 – Implementation Plan Zhytomyr (ZCC) - in progress (end date 01.07.2027)
+D4.5 – Implementation Plan Khmelnytskyi (KhNU,LYKUML) - in progress (end date 01.07.2027)
+D4.6 – Implementation Plan Ivano-Frankivsk (BRIT) - in progress (end date 01.07.2027)
+D4.7 – Implementation Plan Vinnytsia (ME IUD) - in progress (end date 01.07.2027)
+D4.8 – Climate Impact and Performance Assessment Report for the pilot Cities (ENV) in progress (end date 01.10.2027)
+WP Overview
+--- SLIDE 4 ---
+D4.1 – Climate neutrality and impact indicators in Pilots (ENV)
+A methodology for data requirement to assess climate neutrality and impact indicators in pilot cities. 
+
+Submitted 02/02/2026.
+
+Development methodology followed the next steps:
+1)Contacting the Pilot Cities – providing an official outreach via the established project channels.
+2)Communication of the pilot cities' representatives with the appropriate municipality departments – data collection.
+3)Interviews with representatives from Municipalities and Pilot Partners.
+4)Data evaluation and analysis.
+5)Information compilation according to the GDPR.
+6)Data storing on the secure project file sharing platform (DataShare).
+7)Following and respecting the procedures in place (DMP, IPCR).
+--- SLIDE 5 ---
+The Deliverable includes the following:
+
+1)General description of the project;
+2)General overview of the Pilot Cities;
+3)Specific use cases for each Pilot City / area;
+4)Pilot Specific Evaluation (questionnaires, KPIs selection, strategic analysis methodology and results);
+5)Indicators conceptualization and proposal for evaluation;
+6)Methodology for the evaluation of the Pilot Actions.
+Methodology for data collection
+--- SLIDE 6 ---
+--- SLIDE 7 ---
+D4.2 – Implementation Plan Lviv (CIL)
+Development of a Concept for Positive Energy Districts within the City of Lviv
+Spatial and Resource Context of Lviv
+The Current Context: Why Lviv Needs an Evolutionary
+Approach
+Stage I: Focal (Cluster) Development of Micro-PEDs
+(Near-Term Perspective)
+Stage II: Spatial Synergy and Virtual PEDs (Strategic
+Future)
+Clustering of Deployed Systems Incorporating Alternative Energy Sources
+Partitioning the city into the most promising districts in the context of development PED’s
+Design of heating networks, energy-efficient buildings, and installation of rooftop solar power systems.
+Creation of PED
+--- SLIDE 8 ---
+Conducting an analysis in the context of developing a one-stop-shop system
+The Essence of the One Stop Shop (OSS) Concept in Energy Modernization:From Fragmented Services to a Unified Ecosystem
+Institutional Limitations: Why Classic Administrative Service Centers (ASCs)Cannot Serve as an Energy One Stop Shop
+Analysis of European Practices: The One-Stop-Shop Business Model  for Low-Rise Housing (Based on Sweden's Experience)
+Replication Methodology: Component-Based Institutional and Legal Adaptation of European OSS Models to Ukrainian Realities
+Spatial and Social Adaptation: The Evolution of the One Stop Shop from Servicing Individual Buildings to Administering Energy Communities (PEDs)
+Creation of PED
+--- SLIDE 9 ---
+Communication with representatives of organizations based in Brussels
+Holding a meeting with Oslo regarding the implementation of their plans to establish an office in Brussels
+Development of a training course for representatives of district administrations in the context of their involvement in European integration processes
+Participation in new European Commission projects and programs (including LIFE, Horizon Europe, Interreg Europe, and EDIH)
+Formation of the Lviv City Office in Brussels
+--- SLIDE 10 ---
+Identifying specific areas and developing practices and research on alternative energy sources
+Communicating with local businesses in the context of the power plant's location
+Establishment of a One-Stop Shop
+Conducting a Course on European Integration for the City's Districts
+Continuing communication with EU institutions in the context of future opportunities to secure funding for the development of urban innovation initiatives
+Next steps
+--- SLIDE 11 ---
+D4.3 – Implementation Plan Kyiv (ISKPI)
+✔ Transport assessment  
+✔ Assessment methodology  
+✔ Tunnel assessment 
+✔ Traffic modelling
+Milestone | Status
+MS1. Collection and analysis of transport, environmental and spatial data | ✅ Completed
+MS2. Development of the modified morphological analysis methodology | ✅ Completed
+MS3. Comparative assessment of the eight planned road tunnels | ✅ Completed
+MS4. Selection of Tunnel 5 as the priority climate-neutral solution | ✅ Completed
+MS5. Transport modelling and emission reduction assessment | ✅ Completed
+MS6. Development of the metro morphological assessment framework | 🔄 In progress
+MS7. Preparation of recommendations for D4.3 Implementation Plan | 🔄 In progress
+🔄 Metro assessment
+🔄 Implementation Plan Kyiv
+Deliverable
+--- SLIDE 12 ---
+Comparison of Tunnels
+Year 2 Updates (May 25 - April 26)
+Two approaches:
+1.Modified morphological analysis for cross-river car trips, and the respective route choice (existing bridges or the tunnel).
+2.Analysis of road network functioning using a transport model in scenarios involving the tunnel.
+In previous research, Tunnel 5 was selected as the most impactful
+--- SLIDE 13 ---
+Modified morphological analysis method
+Indicator | Result
+Vehicle emissions | ↓ 4.4–5.4%
+Emission reduction | Up to 592 t/day
+Traffic efficiency | Improved
+Climate impact | Supports climate neutrality
+Year 2 Updates (May 25 - April 26)
+--- SLIDE 14 ---
+Year 3 Updates (May 26 - April 27)
+Activity | Q9 2026 | Q10 2026 | Q11 2026 | Q12 2027
+Metro morphological model | ● |  |  | 
+Scenario assessment |  | ● | ● | 
+Climate neutrality assessment |  | ● | ● | 
+Develop recommendations for underground transport planning |  |  | ● | ●
+Validate results with project partners and stakeholders |  |  | ● | ●
+Prepare scientific publications and dissemination materials |  |  | ● | ●
+Prepare the draft of Deliverable D4.3 |  |  |  | ●
+--- SLIDE 15 ---
+D4.4 – Implementation Plan Zhytomyr (ZCC)
+Since May 2025, as part of Work Package 4, the ZCC has been actively working within the framework of WP4  on the development of two comprehensive plans:
+1. A plan for the legal, organizational and technical aspects of constructing a floating solar power plant.
+2. A plan for the renovation and efficient use of municipal greenhouses as a means of cooperation between the city authorities, the community and local businesses to organize the operation of socially-oriented greenhouses.
+Also, in spring 2027, as part of Work Package 6, ZCC will hold three seminars in Zhytomyr dedicated to the community’s best practices in implementing energy efficiency measures, developing an energy monitoring system in municipal facilities, successfully securing grants, and managing recovery and infrastructure projects.
+--- SLIDE 16 ---
+On 16 October 2025, an official Decision from the city council granting permission to the Zhytomyr City Council's municipal institution, the City Development Agency, to develop documentation for obtaining a land plot under a water body for the further construction of a floating solar power station was obtained.
+ A memorandum of cooperation with Ocean Sun AS and Hicc LLC, which provides for the development, expansion and strengthening of relations between the parties regarding the creation and operation of renewable energy sources was approved by the Zhytomyr City Council by Decision No. 1497 of 16 October 2025.
+An agreement was signed with Leo Energy LLC on preliminary arrangements for the construction of a floating solar power plant.
+ A memorandum of cooperation with the municipal enterprise «KATP -0628» of the Zhytomyr City Council, which is responsible for the removal of household waste and will subsequently use the generated electricity to pump leachate from the city landfill, was signed.
+In June 2026, the land-use documentation was prepared and received from the contractor.
+--- SLIDE 17 ---
+1. The transfer of one of the city's greenhouses to the City Development Agency for lease was approved.
+2. Due to the fruitful work in WP3, Zhytomyr was able to find a partner city that has useful experience in the relevant field. ZCC managed to organize a comprehensive, informative and inspiring working trip to the city of Dresden with a colleague from the Zelenbud Municipal Enterprise of the Zhytomyr City Council, which has greenhouses at its disposal.
+3. Grant funding for renovation was found.
+--- SLIDE 18 ---
+D4.5 – Implementation Plan Khmelnytskyi (KhNU)
+Pilot focus: Adaptive traffic management for transport-related CO₂ reduction in Khmelnytskyi.
+D4.5 status: Implementation-plan evidence base established; final D4.5 scheduled for Month 39.
+Scientific validation: Validated traffic-pattern recognition using Khmelnytskyi transport-network simulation.
+Research output: Published a Q2 Gold Open Access paper on adaptive machine learning for sustainable traffic planning.
+Simulation evidence: Demonstrated scenario identification accuracy of approximately 92.8–95.0%.
+CO₂ modelling result: Demonstrated simulation-based CO₂ reduction potential of up to 8.6% versus Max-Pressure and 4.7% versus standard DQN.
+Municipal cooperation: Maintained cooperation with Khmelnytskyi City Council on climate indicators, transport data needs, and future policy integration.
+Capacity building and dissemination: Delivered PTV Visum training with Khmelnytskyi City Council and organised the MS6 conference as a stakeholder-engagement milestone.
+Primary Goal: To improve urban mobility efficiency and reduce CO₂ emissions.
+--- SLIDE 19 ---
+D4.5 – Implementation Plan Khmelnytskyi (KhNU)
+Scientific outputs
+Gold OA Q2 article: adaptive ML for sustainable traffic planning; HDBSCAN + k-means; Khmelnytskyi simulation; 92.8–95.0% scenario-identification accuracy. URL: https://doi.org/10.3390/futuretransp5040152. 
+Gold OA Q2 article: topography-aware DRL with contextual reward engineering; SUMO signal-control simulation. URL: https://doi.org/10.3390/futuretransp6020082. 
+Simulation-based results
+Estimated potential CO₂ reduction: up to 8.6% vs. Max-Pressure and 4.7% vs. standard DQN.
+Technical deck indicators: 14,800 vehicles; 9-hour horizon; 20% heavy vehicles; 72.09 s mean trip; 1.31 queue length.
+Capacity building
+PTV Visum cycle, 20–22 Jan 2026 with City Council: network construction, four-step demand modelling, calibration, validation, visualisation, scenario planning, O-D/cost matrices, TFlowFuzzy, and GEH.
+Technical Foundation: Adaptive Traffic Management and Modelling Capacity
+--- SLIDE 20 ---
+D4.5 – Implementation Plan Khmelnytskyi (KhNU)
+MS6 conference
+International Conference “Reducing CO₂ Emissions in Ukrainian Cities: Pathways to Climate Neutrality”, organised by KhNU on 24 Apr 2026 in Khmelnytskyi.
+Hybrid format: in-person participation at KhNU and online participation through Zoom; function: knowledge dissemination, stakeholder engagement and municipal exchange.
+Bilingual agenda; public website and KhNU post; registration and feedback records; speaker tracker; photos; QR materials; videos; 
+MS6 report and follow-up planning.
+
+Engagement and pathway
+WP4 and consortium meetings; standardization and USRA workshops; CEEC XIX Bratislava; EIT Urban Mobility; Scenario Mapping; Clotex D-FEST; Energy Efficiency in Martial Law; L’Aquila materials.
+Next steps: Final reporting; municipal technical meeting; controlled material sharing; adaptive traffic-management pathway; peer exchange; D4.5 scenarios and recommendations.
+Dissemination, MS6 Milestone
+and Pathway to D4.5
+--- SLIDE 21 ---
+Сenter for Support of Local Policies in the Field of Developing Climate Neutrality and Energy    Leonid Yuzkov Khmelnytskyi University of Management and Law (LYKUML)
+Opening of the Center for Support of Local Policies in the Field of Developing Climate Neutrality and Energy             (October 24, 2026).
+Conducting a number of workshops:
+The Role of “Green Innovations” in the Process of Implementing the State’s Climate Neutral Policy for the Development of Urbanized Territories (January 29-30, 2026).
+Climate-Neutral Waste Management as a Tool for Sustainable Development of the City of Khmelnytskyi; eco-startup “Trash → Cash: From Waste to Income”; excursion to the Gufi Center  (February 25-27, 2026).
+Energy Efficiency in Martial Law (May, 21,2026).
+ Partners involved: Energy Management Department of the Khmelnytskyi City Council; Department for Ecology and Control over Improvement of the Khmelnytskyi City Council; Office “Smart Environment”.
+--- SLIDE 22 ---
+Сenter for Support of Local Policies in the Field of Developing Climate Neutrality and Energy    Leonid Yuzkov Khmelnytskyi University of Management and Law (LYKUML)
+Permanent publication on the page "Ecopulse" (Facebook).
+ Presented the U_CAN project and presented main tasks of the Center for Local Policy Support in the Sphere of Climate-Neutral Construction and Energy at the International Scientific Conference "Safe, Sustainable and Rapid Reconstruction of Ukraine"(March 19–20, 2026).
+3. Participation in the partner’s workshop; International conference "Emissions Reduction in Ukrainian Cities: Pathways to Climate Neutrality".
+4. Preparation of information on Khmelnytskyi experience in the field of energy efficiency (D3.4.).
+5. Preparation of proposals for Deliverable D5.2 Guidelines for modernization of technologies towards decarbonisation of industries.
+--- SLIDE 23 ---
+Сenter for Support of Local Policies in the Field of Developing Climate Neutrality and Energy    Leonid Yuzkov Khmelnytskyi University of Management and Law (LYKUML)
+Planned for next year:
+Organization of collaboration with pupils/students #MyEcoStep2026 and “My City is a Green Capital” (will consist of a short, dynamic demonstration of how the city is developing or can develop in the direction of ecological sustainability).
+Organization of workshops.
+Publication on the page "Ecopulse" of information regarding the sphere of climate-neutral construction and energy with an emphasis on the issues of the city of Khmelnytskyi (Facebook).
+--- SLIDE 24 ---
+D4.6 – Implementation Plan Ivano-Frankivsk
+By June 2026 the pilot is firmly under way. Given wartime conditions and tight municipal budgets, the team adopted a pragmatic “soft” entry point: rather than starting from a single new hardware installation, it built on existing PV stations on public buildings in Ivano-Frankivsk, consolidating them under a unified, public monitoring system while the host building for the full pilot solution is finalised. The progress below relates to the Ivano-Frankivsk pilot
+Public online monitoring platform (launched and operational) 
+A public online monitoring platform for PV installations on public buildings has been launched and is live at asempv.escoua.com/en/p/ucan  . It provides real-time data on inverter performance, energy generation, the location of installations and operational statistics over time, increasing transparency and accountability and making technical energy data accessible to citizens, the City Council and international partners and donors.
+Objectives: The implementation plan will detail the climate-neutral solutions and approaches derived from this pilot activity It is specifically designed to verify the effectiveness of renewable energy source integration, monitor energy generation, raise awareness among stakeholders, and co-develop policy recommendations to cater to the scope of scale-up and replication of such installations throughout the city
+--- SLIDE 25 ---
+D4.6 – Implementation Plan Ivano-Frankivsk
+Terms of reference for the unified monitoring page were drafted (May 2025) and agreed with the development team (June–July 2025) 
+Additional PV stations on public buildings were progressively connected; outreach to station owners was formalised, including a request to Vasyl Stefanyk Carpathian National University to use data from its solar plant (Jul–Dec 2025)
+Platform improvements continued into 2026, covering historical-data handling and usability, in cooperation with the contractor (Jan–May 2026).
+Climate indicators and baseline data
+In cooperation with the Department of Economic Development, Ecology and Energy Saving of the Ivano-Frankivsk City Council, the team developed a set of climate indicators for the city and collected and finalised baseline data covering the last three years (Aug 2025–Jan 2026). This work underpins the monitoring system and the forthcoming Implementation Plan, and strengthens the city’s monitoring capacity.
+http://asempv.escoua.com/en/p/ucan
+--- SLIDE 26 ---
+D4.6 – Implementation Plan Ivano-Frankivsk
+Peer learning with European front-runner cities
+Wrocław — bilateral meetings (25.03.2025 & 01.04.2025) on energy-efficient retrofitting of public buildings and the preparation of a City Climate Contract (CCC).
+Košice — bilateral meetings (30.04.2025 & 19.05.2025) on digital energy monitoring, integrated energy-management systems, digital-twin technology and cross-border cooperation opportunities.
+EU Cities Mission Conference, Vilnius (May 2025) — poster presentation of the pilot; U_CAN Synergy Workshop and WP5 Co-Creation Lab (May–Jul 2025); Standardization Workshop (Nov 2025); Scenario Mapping Workshop with Ivano-Frankivsk (24.03.2026)
+Dissemination and reporting
+Dissemination event “Solar PV stations on public buildings” held on 16.04.2026; presentations and a recording were shared with stakeholders.
+Participation in the international conference on reducing CO₂ emissions in Ukrainian cities (24.04.2026); conference publications submitted (May 2026).
+A financial and technical project report was prepared (Dec 2025); the team took part in the U_CAN Consortium Meeting (Feb 2026), an EC meeting (Jan 2026) and regular monthly WP4 meetings
+http://asempv.escoua.com/en/p/ucan
+--- SLIDE 27 ---
+D4.6 – Implementation Plan Ivano-Frankivsk
+Problems and potential missed deadlines
+Wartime conditions and budget constraints. Procuring and installing a brand-new PV solution as originally scoped is challenging under current conditions. The pilot has adapted by first leveraging existing public-building PV assets and the monitoring platform; the climate-neutral approach and the Implementation Plan (D4.6) remain achievable, but the timing of new hardware procurement depends on the security and financing situation.
+Power outages and grid instability. Prolonged blackouts disrupted platform operation in late 2025; the issue was resolved with the contractor (Jan 2026), but recurring outages remain a risk to continuous real-time monitoring.
+Dependence on third-party data and the contractor. Connecting further installations relies on permissions from PV-station owners (e.g. the university) and on contractor availability for platform development, historical-data handling and usability — both require ongoing coordination.
+Mitigation. The team is maintaining close alignment with the City Council, the municipal green deal and the SECAP to 2030, keeping the indicator and monitoring work ahead of schedule, and planning a contingency for new PV hardware procurement so that the Implementation Plan and the July 2027 EC deliverable are protected.
+http://asempv.escoua.com/en/p/ucan
+--- SLIDE 28 ---
+D4.7 – Implementation Plan Vinnytsia
+GOAL:
+Developing a socio-spatial concept for the development of a part of the small river Tyazhylivka and a strategy for restoring its biodiversity.
+Sociological research on the perception and use of the river area:
+1. Online survey
+2. In-depth interviews
+3. Observation
+4. Results from the online participation platform
+
+Comprehensive river study:
+1. Climatic characteristics and hydrological surveys
+2. Hydromorphological assessment
+3. Hydrochemical study
+4. Hydrobiological study
+5. Water and soil quality
+6. Botanical study
+Development of a part of the small river Tyazhylivka
+--- SLIDE 29 ---
+D4.7 – Implementation Plan Vinnytsia
+Public Event: A presentation of research on the river took place in January 2026
+
+The studies served as the basis for developing a spatial concept for the development of the project section of the river and for creating concept sketches based on that
+Development of a part of the small river Tyazhylivka
+--- SLIDE 30 ---
+D4.7 – Implementation Plan Vinnytsia
+NEXT STEPS
+
+Present the spatial concept to the city council and explore the possibility of involving the city in the implementation of the development project
+
+Planning an information campaign for the project, engaging residents, and fostering dialogue with them
+Development of a part of the small river Tyazhylivka
+--- SLIDE 31 ---
+D4.8 – Climate Impact and Performance Assessment Report for the pilot Cities
+The Deliverable will be based on the results of the following Tasks and Deliverables:
+T4.1 - Climate Indicators for Pilot Cities (D4.1)
+T4.2-T4.7 - Implementation Plans for Pilot Cities (D4.2-D4.7)
+
+Continuous data collection from Pilot Cities will be established to ensure the evaluation of the progress in Pilot Activities.
+--- SLIDE 32 ---
+Progress as of 06.07.2026:
+ENV and OMB established the preliminary data collection scheme.
+
+Further steps:
+First stage of data collection on Day 2 of the Consortium Meeting;
+Continuous data collection from the Pilot City Partners;
+Deliverable preparation.
+--- SLIDE 33 ---
+Connections 
+with other 
+Work Packages
+
+WP4
+--- SLIDE 34 ---
+WP4 Timeline
+Text hinzufügen Text hinzufügen
+--- SLIDE 35 ---
+Funded under HORIZON-MISS-2023-CIT-02 call, GA 101148374. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or CINEA. Neither the European Union nor the granting authority can be held responsible for them.
+Thank you!

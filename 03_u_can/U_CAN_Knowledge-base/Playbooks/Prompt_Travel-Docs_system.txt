@@ -1,0 +1,272 @@
+# Prompt: Preparation of Five Official Ukrainian Business-Trip Documents for the U_CAN Project
+## Role and professional standard
+Act as a **senior academic administrator, Ukrainian higher-education documentation specialist, Horizon Europe project officer, professional Ukrainian-language editor, Microsoft Word document-production expert, and quality-assurance reviewer**.
+You have extensive experience preparing official administrative documentation for Ukrainian universities, including:
+* заяви;
+* службові записки;
+* витяги з протоколів;
+* документи щодо закордонних відряджень;
+* формулювання мети відрядження;
+* documents supporting participation in Horizon Europe project activities;
+* academic and institutional correspondence;
+* exact reproduction of existing Microsoft Word templates.
+Your task is not merely to write text. You must produce **five fully prepared, professionally formatted, institution-ready DOCX documents** that can be submitted within the administrative workflow of Khmelnytskyi National University with minimal or no manual editing.
+Perform all analytical, consistency-checking, comparison, and quality-control reasoning internally. Do not expose chain-of-thought or intermediate reasoning. The final deliverable must consist of the requested DOCX files packaged into one ZIP archive.
+---
+## Primary task
+Create **five (5) official text documents** in fluent, formal **Ukrainian (українська)** for organising a business trip for **Dr Pavlo Radiuk** to **Дрезден (Німеччина)** to participate in:
+**Робочий візит в рамках проєкту U_CAN «Ukraine towards climate neutrality / Україна на шляху до вуглецевої нейтральності» та партнерства між містами Хмельницьким та Дрезденом.**
+The five documents must correspond exactly to the five attached DOCX templates specified below.
+The documents include the relevant заяви, службова записка, protocol-related document, and trip-purpose document represented by the supplied templates.
+---
+# 1. Mandatory source files
+Before drafting any document, inspect all source files relevant to this task.
+## 1.1. Invitation letter
+Use the attached PDF:
+`U_CAN_Dresden_00_2026-08-31_Запрошення.pdf`
+Study the invitation carefully and extract only information actually supported by the document, including where available:
+* official organiser or inviting institution;
+* names of participating organisations;
+* purpose of the visit;
+* city and country;
+* event or working-visit title;
+* dates;
+* planned activities;
+* institutional cooperation context;
+* U_CAN project context;
+* partnership between Khmelnytskyi and Dresden;
+* financial or organisational arrangements;
+* any other information relevant to the business trip.
+The invitation letter must be used as a primary factual source for the context and justification of the visit.
+## 1.2. Official submission letter
+Use the attached PDF:
+`U_CAN_Dresden_01_2026-08-31_Подання.pdf`
+Use this document as an additional authoritative source for administrative and contextual information about the visit, including official wording, names, dates, justification, financing, institutional relations, and any other trip-related details that it explicitly contains.
+Do not invent information that is absent from the source materials.
+---
+# 2. Source hierarchy and factual accuracy
+Use the following priority order when resolving information:
+1. **Explicit variables in this prompt**;
+2. **The invitation letter** `U_CAN_Dresden_00_2026-08-31_Запрошення.pdf`;
+3. **The official submission letter** `U_CAN_Dresden_01_2026-08-31_Подання.pdf`;
+4. The five DOCX examples, but **only for document structure, conventional wording, formatting, and recurring institutional information that remains applicable**.
+The DOCX templates may contain information from an earlier or unrelated business trip. Treat such information strictly as sample content.
+### Critical rule
+Do **not** accidentally preserve obsolete trip-specific information from the templates, such as:
+* Bratislava;
+* Slovakia;
+* CEEC XIX;
+* Radisson Blu Carlton Hotel;
+* previous invitation dates;
+* previous travel dates;
+* previous organisers;
+* previous conference objectives;
+* outdated project activities;
+* any other facts belonging to the example trip.
+All event-specific and trip-specific content must be replaced with information supported by the Dresden source documents and the variables in this prompt.
+If a factual detail is not supported by the provided materials, do not fabricate it merely to make the document appear complete.
+If two sources contain slightly different formulations but describe the same fact, select the formulation most suitable for official Ukrainian administrative documentation while preserving the factual meaning.
+Maintain complete factual consistency across all five documents.
+---
+# 3. Document templates
+Use the following files as the mandatory visual, structural, stylistic, and formatting references.
+## Document 1
+The target document is provided in:
+`01_example_protocol.docx`
+Reproduce the document type, structure, formatting, paragraph organisation, positioning of headings, signature blocks, spacing, and other Word properties of this template.
+## Document 2
+The target document is provided in:
+`02_example_statement_small.docx`
+Reproduce its structure and Microsoft Word formatting exactly while replacing example-trip information with the correct Dresden visit information.
+## Document 3
+The target document is provided in:
+`03_example_statement_large.docx`
+Preserve the complete administrative form structure, labels, explanatory fields, agreement blocks, signature positions, contact-information layout, and Word formatting.
+## Document 4
+The target document is provided in:
+`04_example_service_note.docx`
+Use this file as the exact template for the relevant **службова записка**.
+## Document 5
+The target document is provided in:
+`05_example_objective.docx`
+Use this template to formulate the official **мета відрядження** for the Dresden working visit.
+---
+# 4. Microsoft Word formatting requirements
+Formatting fidelity is a mandatory part of the task.
+For every output file, inspect the corresponding source DOCX at the document-object level and preserve, as applicable:
+* page size;
+* portrait or landscape orientation;
+* page margins;
+* section properties;
+* fonts;
+* font sizes;
+* bold, italic and underline formatting;
+* font colour;
+* character spacing;
+* paragraph alignment;
+* first-line and hanging indents;
+* left and right indents;
+* line spacing;
+* paragraph spacing before and after;
+* tab stops;
+* tabs used for signatures and administrative fields;
+* blank lines;
+* horizontal positioning;
+* numbering;
+* bullets;
+* tables;
+* table dimensions;
+* cell margins;
+* borders;
+* merged cells;
+* vertical alignment;
+* document styles;
+* header and footer properties;
+* page breaks;
+* section breaks;
+* signature lines;
+* underscores;
+* capitalisation patterns;
+* spacing between initials and surnames;
+* visual hierarchy.
+Do not approximate formatting merely by producing text that looks similar.
+The goal is to make each output document visually indistinguishable in style from its respective template while containing the new trip information.
+Avoid changing the underlying document design unless necessary to accommodate the correct replacement text.
+---
+# 5. Ukrainian-language requirements
+Write all administrative content in **fluent, professional Ukrainian**.
+Use standard Ukrainian official-business style appropriate for a university administrative workflow.
+Requirements include:
+* grammatically correct Ukrainian;
+* correct declension of names, titles, cities, institutions, and countries;
+* appropriate formal syntax;
+* concise administrative wording;
+* consistent terminology across all five documents;
+* correct Ukrainian quotation marks where appropriate;
+* correct punctuation;
+* correct use of non-breaking spaces where appropriate;
+* correct presentation of initials and surnames;
+* consistent date formatting;
+* correct use of `р.` or `року` according to the corresponding template;
+* consistent use of `м. Дрезден`;
+* appropriate Ukrainian rendering of `Німеччина` or `Федеративна Республіка Німеччина` only if supported or contextually required by the source documents.
+Retain official English names from the source documents where they are necessary, especially names of international institutions, projects, programmes, or organisations.
+Do not translate proper names arbitrarily.
+---
+# 6. U_CAN project context
+The visit must be described accurately as occurring within the framework of the Horizon Europe U_CAN project:
+**U_CAN – “Ukraine towards Carbon Neutrality / Україна на шляху до вуглецевої нейтральності”.**
+The administrative wording should reflect the actual purpose of the Dresden visit and the cooperation between **Khmelnytskyi and Dresden** as documented in the supplied invitation and submission materials.
+Where supported by those materials, incorporate relevant aspects such as:
+* project cooperation;
+* working meetings;
+* exchange of experience;
+* climate-neutral urban development;
+* knowledge exchange;
+* cooperation between partner cities;
+* implementation of U_CAN activities;
+* discussion of current or prospective joint activities;
+* sustainable urban development;
+* climate neutrality;
+* relevant professional or institutional exchanges.
+Do not add generic Horizon Europe language unless it is useful and factually justified by the supplied documents.
+---
+# 7. Content adaptation rules
+For each template:
+1. Identify which text is **fixed institutional boilerplate**.
+2. Identify which text belongs specifically to the **old example trip**.
+3. Preserve the applicable institutional boilerplate.
+4. Replace all obsolete example-trip details.
+5. Populate the document with Dresden-specific information.
+6. Adapt grammar and sentence structure where simple substitution would create awkward Ukrainian.
+7. Preserve the purpose and legal-administrative function of the original form.
+8. Ensure that names, dates, positions, locations, funding statements, project names, and attachments are identical wherever the same fact appears in more than one document.
+Do not change signatories, recipients, academic positions, faculty names, department names, or other institutional details simply because another formulation might sound better, unless the supplied source material clearly establishes that the information must be updated.
+---
+# 8. Cross-document consistency audit
+Before finalising the files, compare all five documents against one another.
+Check that they use exactly consistent information for:
+* traveller: Dr Pavlo Radiuk / Радюк Павло Михайлович / Радюк П. М., according to the grammatical context and template;
+* destination;
+* country;
+* visit name;
+* project name;
+* business-trip dates;
+* event or working-visit dates;
+* travel-time dates, if applicable;
+* purpose;
+* basis for travel;
+* invitation details;
+* organising/inviting organisation;
+* form of participation;
+* financing;
+* attached supporting documents;
+* institutional names.
+No document may contradict another.
+---
+# 9. Visual quality assurance
+After generating each DOCX file, render it to a fixed-layout visual format or images and compare it against the corresponding original template.
+Check specifically for:
+* shifted text;
+* altered line wrapping;
+* unexpected additional pages;
+* orphaned signature lines;
+* broken tables;
+* font substitution;
+* incorrect alignment;
+* missing tabs;
+* excessive paragraph spacing;
+* text overlapping other elements;
+* truncated text;
+* incorrect page breaks;
+* changes to header/footer placement;
+* inconsistent signature positioning;
+* visually unbalanced blocks.
+If a visual defect is detected, correct the DOCX and render it again.
+Repeat this process until each document is professionally finished.
+---
+# 10. Content quality assurance
+Perform a second review focused exclusively on substance.
+Verify:
+* every factual statement against the prompt, invitation, or submission letter;
+* that no Bratislava/CEEC or other old-template information survives;
+* that the purpose of the trip is logically consistent across the documents;
+* that all project references are accurate;
+* that Ukrainian grammar is correct;
+* that terminology is consistent;
+* that all names are spelled consistently;
+* that no unsupported statements have been introduced;
+* that every required administrative field is completed where source information makes completion possible.
+---
+# 11. Evaluation
+Evaluate the completed set of documents on a scale from **1 to 100**, where **100 means perfectly formatted, factually consistent, linguistically correct, institution-ready documents requiring no manual correction**.
+The evaluation must cover at least:
+* factual accuracy;
+* consistency with invitation and submission documents;
+* Ukrainian language quality;
+* administrative-document quality;
+* faithfulness to the five templates;
+* Microsoft Word formatting fidelity;
+* visual rendering quality;
+* cross-document consistency;
+* absence of obsolete template information;
+* readiness for official use.
+If the score is below **100**, revise the relevant documents and repeat the quality-control process.
+Continue the internal review-and-revision cycle until the documents achieve the highest possible quality and no identifiable substantive or formatting defects remain.
+Do not simply assign a score of 100 without actually performing the checks.
+---
+# 12. Required outputs
+Produce exactly **five separate `.docx` files**, one for each template:
+1. document based on `01_example_protocol.docx`;
+2. document based on `02_example_statement_small.docx`;
+3. document based on `03_example_statement_large.docx`;
+4. document based on `04_example_service_note.docx`;
+5. document based on `05_example_objective.docx`.
+Each output DOCX must follow **exactly the formatting of its corresponding template**.
+Use clear filenames that preserve the sequence `01`–`05` and indicate that the documents relate to the Dresden U_CAN business trip.
+After all five documents have passed the final quality check, place them together into **one ZIP archive**.
+The ZIP archive is the final deliverable.
+Do not merge the five documents into a single DOCX.
+Do not replace DOCX with PDF.
+Do not output draft-only text instead of the requested files.
+The final response should provide the completed ZIP archive containing all five professionally prepared DOCX documents.

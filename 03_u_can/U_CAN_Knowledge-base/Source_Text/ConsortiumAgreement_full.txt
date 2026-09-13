@@ -1,0 +1,1682 @@
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+         Consortium Agreement
+
+                                    [U_CAN]
+
+                                                   Version [3] - [12/04/2024]
+(Based on DESCA - Model Consortium Agreement for Horizon Europe, version 1.1, November 2022)
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+Table of Contents
+
+1 Definitions ...................................................................................................................................... 6
+2 Purpose .......................................................................................................................................... 7
+3 Entry into force, duration and termination ................................................................................. 7
+4 Responsibilities of Parties............................................................................................................ 8
+5 Liability towards each other ......................................................................................................... 9
+6 Governance structure ................................................................................................................. 11
+7 Financial provisions .................................................................................................................... 16
+8 Results.......................................................................................................................................... 19
+9 Access Rights .............................................................................................................................. 22
+10 Non-disclosure of information ................................................................................................... 25
+11 Miscellaneous .............................................................................................................................. 26
+12 Signatures .................................................................................................................................... 28
+Attachment 1: Background included................................................................................................. 50
+Attachment 2: Accession document ................................................................................................. 55
+Attachment 3: List of third parties for simplified transfer according to Section 8.3.2................. 56
+Attachment 4: Identified Entities Under the Same Control according to Section 9.5 .................. 57
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+Change Records  Date        Changes
+ Version        18/01/2024  Modified DESCA template.
+ Version 1      20/03/2024  Partner feedback incorporated
+ Version 2      12/04/2024  formatting
+ Version 3
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+CONSORTIUM AGREEMENT
+
+THIS CONSORTIUM AGREEMENT is based upon Regulation (EU) No 2021/695 of the European
+Parliament and of the Council of 28 April 2021 establishing Horizon Europe - the Framework Programme
+for Research and Innovation (2021-2027), laying down its rules for participation and dissemination
+(hereinafter referred to as "Horizon Europe Regulation"), and on the European Commission's General Model
+Grant Agreement and its Annexes, and is made on May 1st, 2024, hereinafter referred to as the Effective
+Date
+
+BETWEEN:
+
+1. TECHNISCHE UNIVERSITÄT DRESDEN (TUD), PIC 999897729, established in
+    HELMHOLTZSTRASSE 10, DRESDEN 01069, Germany, the Coordinator,
+
+2. LANDESHAUPTSTADT DRESDEN (LHD), PIC 965770413, established in DR KULZ RING 19,
+    DRESDEN 01067, Germany,
+
+3. VEREIN DER EUROPAEISCHEN BURGERWISSENSCHAFTEN - ECSA E.V. (ECSA), PIC
+    937663402, established in INVALIDENSTR. 43, BERLIN 10115, Germany,
+
+4. DIN DEUTSCHES INSTITUT FUER NORMUNG EV (DIN), PIC 999548917, established in
+    BURGGRAFENSTRASSE 6, BERLIN 10787, Germany,
+
+5. VYSKUMNE CENTRUM SLOVENSKEJ SPOLOCNOSTI PRE ZAHRANICNU POLITIKU NO
+    (SFPA), PIC 941141628, established in STAROMESTSKA 6/D, BRATISLAVA 811 03, Slovakia,
+
+6. ENVIROPLAN MELETITIKI -SYMVOULOI ANAPTYKSIAKON & TEXNIKON ERGON ANONYMI
+    ETAIREIA (ENV), PIC 892884031, established in 23 PERIKLEOUS STREET & IRAS, PALLINI
+    15344, Greece,
+
+7. FUNDACJA PARTNERSTWA TECHNOLOGICZNEGO TECHNOLOGY PARTNERS (TPF), PIC
+    998735863, established in UL. BITWY WARSZAWSKIEJ 1920R 7A, WARSZAWA 02-366, Poland,
+
+8. POLITECHNIKA WROCLAWSKA (WUST), PIC 999845931, established in WYBRZEZE
+    WYSPIANSKIEGO 27, WROCLAW 50-370, Poland,
+
+9. AARHUS UNIVERSITET (AU), CVR-nr. 31 11 91 03, established in NORDRE RINGGADE 1,
+    AARHUS C 8000, Denmark,
+
+10.UNIVERSITA DEGLI STUDI DELL'AQUILA (ULA), PIC 999859511, established in PIAZZA SANTA
+    MARGHERITA 2, L AQUILA 67100, Italy,
+
+11. JOANNEUM RESEARCH FORSCHUNGSGESELLSCHAFT MBH (JRG), PIC 999981537,
+    established in LEONHARDSTRASSE 59, GRAZ 8010, Austria,
+
+12.NON-GOVERNMENTAL ORGANIZATION BUREAU OF RESEARCH, INNOVATIONS AND
+    TECHNOLOGIES (BRIT), PIC 915924344, established in MYKYTYNETSKA 5A OFFICE 213,
+    IVANO-FRANKIVSK 76002, Ukraine,
+
+13.O.M. BEKETOV NATIONAL UNIVERSITY OF URBAN ECONOMY IN KHARKIV (OMB), PIC
+    937384818, established in MARSHALA BAZHANOVA ST. 17, KHARKIV 61002, Ukraine,
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+14. NATIONAL TECHNICAL UNIVERSITY OF UKRAINE IGOR SIKORSKY KYIV POLYTECHNIC
+    INSTITUTE (ISKPI), PIC 998145715, established in 37 BERESTEISKYI AVENUE, KYIV 03056,
+    Ukraine,
+
+15. HROMADSKA ORHANIZATSIYA KLUB MERIV (MCU), PIC 881100374, established in
+    KHARKIVSKE SHOSSE 175 OFFICE 16, KYIV 02121, Ukraine,
+
+16. MUNICIPAL INSTITUTION CITY INSTITUTE (CIL), PIC 928510870, established in RYNOK
+    SQUARE 1, LVIV 79008, Ukraine,
+
+17. MUNICIPAL INSTITUTION "CITY DEVELOPMENT AGENCY" OF ZHYTOMYR CITY COUNCIL
+    (ZCC), PIC 906367322, established in maidan named after S.P. Korolova 4/2 Zhytomyr 10014,
+    Ukraine,
+
+18.KHMELNITSKY NATIONAL UNIVERSITY (KhNU), PIC 964860456, established in INSTYTUTSKA
+    STREET 11, KHMELNYTSKY 29016, Ukraine,
+
+19.LEONID YUZKOV KHMELNITSKYI UNIVERSITY OF MANAGEMENT AND LAW (LYKUML), PIC
+    934190705, established in ST HEROIV MAIDAN ST 8, KHMELNYTSKYI 29 000, Ukraine,
+
+20. MUNICIPAL ENTERPRISE INSTITUTE OF URBAN DEVELOPMENT (ME IUD), PIC 882229066,
+    established in SOBORNA STREET 59, VINNYTSIA 21050, Ukraine,
+
+21. PUBLIC ORGANIZATION REGIONAL CENTER OF SUSTAINABLE DEVELOPMENT (RCSD),
+    PIC 880865828, established in 82b Oleksiy Shovkunenko str. ap 1, Kherson 73000, Ukraine,
+
+hereinafter, jointly or individually, referred to as "Parties" or "Party"
+
+relating to the Action entitled
+
+Ukraine towards Carbon Neutrality
+
+in short
+
+U_CAN
+
+hereinafter referred to as "Project"
+
+WHEREAS:
+
+The Parties, having considerable experience in the field concerned, have submitted a proposal for the
+Project to the Granting Authority as part of Horizon Europe - the Framework Programme for Research
+and Innovation (2021-2027).
+
+The Parties wish to specify or supplement binding commitments among themselves in addition to the
+provisions of the specific Grant Agreement to be signed by the Parties and the Granting Authority
+(hereinafter "Grant Agreement").
+
+The Parties wish to specify or supplement binding commitments among themselves in addition to the
+provisions of the specific Grant Agreement to be signed by the Parties and the Granting Authority
+(hereinafter "Grant Agreement").
+
+The Parties are aware that this Consortium Agreement is based upon the DESCA model consortium
+agreement.
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+NOW, THEREFORE, IT IS HEREBY AGREED AS FOLLOWS:
+
+1 Definitions
+
+       Definitions
+
+Words beginning with a capital letter shall have the meaning defined either herein or in the Horizon
+Europe Regulation or in the Grant Agreement including its Annexes.
+
+       Additional Definitions
+
+"Consortium Body"
+
+Consortium Body means any management body described in Section 6 (Governance Structure) of this
+Consortium Agreement.
+
+"Consortium Plan"
+
+Consortium Plan means the description of the Action and the related agreed budget as first defined in the
+Grant Agreement and which may be updated by the General Assembly.
+
+"Granting Authority"
+
+Granting Authority means the body awarding the grant for the Project.
+
+"Defaulting Party"
+
+Defaulting Party means a Party which the General Assembly has declared to be in breach of this
+Consortium Agreement and/or the Grant Agreement as specified in Section 4.2 of this Consortium
+Agreement.
+
+"Entity Under the Same Control"
+
+Entity Under the Same Control means any legal entity that is under the direct or indirect control of a
+Party, or under the same direct or indirect control as the Party, or that is directly or indirectly controlling
+a Party.
+
+"Control" may take any of the following forms:
+
+(a) the direct or indirect holding of more than 50% of the nominal value of the issued share capital in the
+legal entity concerned, or of a majority of the voting rights of the shareholders or associates of that entity;
+
+(b) the direct or indirect holding, in fact or in law, of decision-making powers in the legal entity concerned.
+
+However, the following relationships between legal entities shall not in themselves constitute controlling
+relationships:
+
+(a) the same public investment corporation, institutional investor or venture-capital company has a direct
+or indirect holding of more than 50% of the nominal value of the issued share capital or a majority of
+voting rights of the shareholders or associates;
+
+(b) the legal entities concerned are owned or supervised by the same public body.
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+"Fair and Reasonable conditions"
+
+means appropriate conditions, including possible financial terms or royalty-free conditions, taking into
+account the specific circumstances of the request for access, for example the actual or potential value
+of the Results or Background to which access is requested and/or the scope, duration or other
+characteristics of the Exploitation envisaged.
+
+"Needed"
+
+means:
+
+For the implementation of the Project:
+
+Access Rights are Needed if, without the grant of such Access Rights, carrying out the tasks assigned to
+the recipient Party would be technically or legally impossible, significantly delayed, or require significant
+additional financial or human resources.
+
+For Exploitation of own Results:
+
+Access Rights are Needed if, without the grant of such Access Rights, the Exploitation of own Results
+would be technically or legally impossible.
+
+"Software"
+
+Software means sequences of instructions to carry out a process in, or convertible into, a form
+executable by a computer and fixed in any tangible medium of expression.
+
+2 Purpose
+
+The purpose of this Consortium Agreement is to delineate the relationship between the Parties involved
+in the Project. In particular, the Consortium Agreement outlines the organisation of the work and its
+distribution among the Parties, project management protocols and the respective rights and obligations
+of the Parties. This includes but not limited to matters of liability, Access Rights and dispute resolution.
+
+3 Entry into force, duration and termination
+
+       Entry into force
+
+An entity becomes a Party to this Consortium Agreement upon signature of this Consortium Agreement
+by a duly authorised representative.
+
+This Consortium Agreement shall have effect from the Effective Date identified at the beginning of this
+Consortium Agreement.
+
+An entity becomes a new Party to the Consortium Agreement upon signature of the accession document
+(Attachment 2) by the new Party and the Coordinator in accordance with the decision of the General
+Assembly. Such accession shall have effect from the date identified in the accession document.
+
+       Duration and termination
+
+This Consortium Agreement shall continue in full force and effect until complete fulfilment of all
+obligations undertaken by the Parties under the Grant Agreement and under this Consortium
+Agreement.
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+However, this Consortium Agreement or the participation of one or more Parties to it may be terminated
+in accordance with the terms of this Consortium Agreement.
+
+If
+
+      the Grant Agreement is not signed by the Granting Authority or a Party, or
+      the Grant Agreement is terminated, or
+      a Party 's participation in the Grant Agreement is terminated,
+
+this Consortium Agreement shall automatically terminate in respect of the affected Party/ies, subject to
+the provisions surviving the expiration or termination under Section 3.3 of this Consortium Agreement.
+
+       Survival of rights and obligations
+
+The provisions relating to Access Rights, Dissemination and confidentiality, for the time period specified
+therein, along with the provisions regarding liability, applicable law and settlement of disputes, and any
+other provision that owing to its purpose must apply beyond the duration of the Consortium Agreement,
+shall persist following the expiration or termination of this Consortium Agreement.
+
+Termination of this Consortium Agreement shall not affect any rights or obligations of a Party
+withdrawing from the Project prior to the date of termination, unless otherwise agreed between the
+General Assembly and the withdrawing Party. This includes the obligation to provide all necessary input,
+deliverables and documents for the period of its participation.
+
+4 Responsibilities of Parties
+
+       General principles
+
+Each Party undertakes to take part in the efficient implementation of the Project, and to cooperate,
+perform and fulfil, promptly and on time, all of its obligations under the Grant Agreement and this
+Consortium Agreement as may be reasonably required from it and in a manner of good faith as
+prescribed by Belgian law.
+
+Each Party undertakes to notify promptly the other Parties, in accordance with the governance structure
+of the Project, of any significant information, fact, problem or delay likely to affect the Project and, if the
+situation requires (e.g., there is an issue with the Coordinator), directly notify the Granting Authority.
+
+Each Party shall promptly provide all information reasonably required by a Consortium Body or by the
+Coordinator to carry out its tasks and shall responsibly manage the access of its employees to the EU
+Funding & Tenders Portal.
+
+Each Party shall take reasonable measures to ensure the accuracy of any information or materials it
+supplies to the other Parties.
+
+       Breach
+
+In the event that the General Assembly identifies a breach by a Party of its obligations under this
+Consortium Agreement or the Grant Agreement (e.g. improper implementation of the Project), the
+Coordinator or, if the Coordinator is in breach of its obligations, the Party appointed by the General
+Assembly, shall issue formal notice to the defaulting Party. Said notice shall stipulate that the identified
+breach must be remedied within 30 calendar days from the date of receipt of the written notice by the
+defaulting Party.
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+If such breach is substantial and is not remedied within that period or is not capable of remedy, the
+General Assembly may decide to declare the Party to be a Defaulting Party and to decide on the
+consequences thereof which may include termination of its participation.
+
+A breach shall be deemed 'substantial' if it materially impedes the progress of the Project, poses a
+significant risk to its successful completion, or violates fundamental provisions of this Consortium
+Agreement or the Grant Agreement, as determined by the General Assembly in its sole discretion
+
+       Involvement of third parties
+
+A Party that enters into a subcontract or otherwise involves third parties (including but not limited to
+Affiliated Entities or other Participants) in the Project remains responsible for carrying out its relevant
+part of the Project and for such third party's compliance with the provisions of this Consortium
+Agreement and of the Grant Agreement. Such Party has to ensure that the involvement of third parties
+does not affect the rights and obligations of the other Parties under this Consortium Agreement and the
+Grant Agreement.
+
+       Specific responsibilities regarding data protection
+
+Where necessary, the Parties shall cooperate in order to enable one another to fulfil legal obligations
+arising under applicable data protection laws (the Regulation (EU) 2016/679 of the European Parliament
+and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of
+personal data and on the free movement of such data - GDPR - and relevant national data protection
+law applicable to said Party) within the scope of the performance and administration of the Project and
+of this Consortium Agreement.
+
+Each Party is solely responsible for complying with the provisions on the protection of personal data
+provided for in the GDPR and any applicable national data protection of that Party. Each Party must
+comply with the obligations arising therefrom, adopting the appropriate technical and organisational
+measures to ensure an appropriate level of security.
+
+Personal data of employees, collaborators and in any case of any subject operating in the name and on
+behalf of each Party (name, company e-mail address, etc.), shall be processed by the other Party solely
+for purposes strictly related and functional to the establishment and execution of the contractual
+relationship governed by this Consortium Agreement, as well as to fulfil any legal or regulatory
+obligations.
+
+The Parties agree to involve personnel in data processing that are trained and instructed to ensure the
+adequate security and confidentiality of the personal data processed.
+
+In particular, the Parties shall, where necessary, conclude a separate data processing, data sharing
+and/or joint controller agreement before any data processing or data sharing takes place.
+
+5 Liability towards each other
+
+       No warranties
+
+In respect of any information or materials (incl. Results and Background) supplied by one Party to another
+under the Project, no warranty or representation of any kind is made, given or implied as to the
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+sufficiency or fitness for purpose nor as to the absence of any infringement of any proprietary rights of
+third parties.
+
+Therefore,
+
+      the recipient Party shall in all cases be entirely and solely liable for the use to which it puts such
+          information and materials, and
+
+      no Party granting Access Rights shall be liable in case of infringement of proprietary rights of a
+          third party resulting from any other Party (or its Entities Under the Same Control) exercising its
+          Access Rights.
+
+       Limitations of contractual liability
+
+No Party shall be held liable to any other Party for any indirect or consequential loss or similar damages
+such as, but not limited to, loss of profit, loss of revenue or loss of contracts, except in case of breach
+of confidentiality.
+
+A Party's aggregate liability towards the other Parties collectively shall be limited to the fewer of (i) once
+the Party's share of the total costs of the Project as identified in Annex 2 of the Grant Agreement or (ii)
+360,000 EUR.
+
+A Party's liability shall not be limited under either of the two preceding paragraphs to the extent that
+such damage was caused by a wilful act or gross negligence or to the extent that such limitation is not
+permitted by mandatory law.
+
+       Damage caused to third parties
+
+Each Party shall be solely liable for any loss, damage or injury to third parties resulting from the
+performance of the said Party's obligations by it or on its behalf under this Consortium Agreement or
+through the utilization of Results or Background.
+
+       Force Majeure
+
+No Party shall be considered to be in breach of this Consortium Agreement if it is prevented from fulfilling
+its obligations under the Consortium Agreement by Force Majeure.
+
+Each Party shall notify the General Assembly of any Force Majeure without undue delay. If the
+consequences of Force Majeure for the Project are not overcome within 6 weeks after such notice, the
+transfer of tasks - if any - shall be decided by the General Assembly.
+
+        Export control
+
+No Party shall be considered to be in breach of this Consortium Agreement if it is prevented from fulfilling
+its obligations under the Consortium Agreement due to a restriction resulting from import or export laws
+and regulations and/or any delay of the granting or extension of the import or export license or any other
+governmental authorisation, provided that the Party has used its reasonable efforts to fulfil its tasks and
+to apply for any necessary license or authorisation properly and in time.
+
+Each Party will notify the General Assembly of any such restriction without undue delay. If the
+consequences of such restriction for the Project are not overcome within 6 weeks after such notice, the
+transfer of tasks - if any - shall be decided by the General Assembly.]
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+6 Governance structure
+
+       General structure
+
+The organisational structure of the consortium shall comprise the following Consortium Bodies:
+
+The General Assembly as the ultimate body of the consortium.
+
+The Coordinator is the legal entity acting as the intermediary between the Parties and the Granting
+Authority. The Coordinator shall, in addition to its responsibilities as a Party, perform the tasks assigned
+to it as described in the Grant Agreement and this Consortium Agreement.
+
+The Network Partners Board will engage in U_CAN activities, such as twinning between European
+Mission Cities and Ukrainian cities, and actively promote the project, its activities and results to ensure
+the Project will make an impact on the long run.
+
+       Members
+
+The General Assembly shall consist of one representative of each Party (hereinafter referred to as
+"Member").
+
+Each Member shall be deemed to be duly authorised to deliberate, negotiate and decide on all matters
+listed in Section 6.3.7 of this Consortium Agreement.
+
+The Coordinator shall chair all meetings of the General Assembly, unless decided otherwise by the
+General Assembly.
+
+The Parties agree to abide by all decisions of the General Assembly.
+
+This does not prevent the Parties from exercising their veto rights, according to Section 6.3.5, or from
+submitting a dispute for resolution in accordance with the provisions of settlement of disputes in Section
+11.8 of this Consortium Agreement.
+
+       Operational procedures for the General Assembly:
+
+6.3.1 Representation in meetings
+
+Any Member:
+
+      should be present or represented at any meeting;
+      may appoint a substitute or a proxy to attend and vote at any meeting;
+      shall participate in a cooperative manner in the meetings.
+6.3.2 Preparation and organisation of meetings
+
+6.3.2.1 Convening meetings:
+
+The chairperson shall convene ordinary meetings of the General Assembly at least once every six
+months and shall also convene extraordinary meetings at any time upon written request of any Member.
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+6.3.2.2 Notice of a meeting
+The chairperson shall give written notice of a meeting to each Member as soon as possible and no later
+than 14 calendar days preceding an ordinary meeting and 7 calendar days preceding an extraordinary
+meeting.
+6.3.2.3 Sending the agenda:
+The chairperson shall prepare and send each Member an agenda no later than 14 calendar days
+preceding the meeting, or 7 calendar days before an extraordinary meeting.
+6.3.2.4 Adding agenda items:
+Any agenda item requiring a decision by the Members must be identified as such on the agenda.
+Any Member may add an item or more to the original agenda by written notice to all of the other Members
+no later than 7 calendar days preceding the meeting and 2 days preceding an extraordinary meeting.
+6.3.2.5
+During a meeting of the General Assembly the Members present or represented can unanimously agree
+to add a new item to the original agenda.
+6.3.2.6
+Meetings of the General Assembly may also be held by tele- or videoconference or other
+telecommunication means.
+6.3.2.7
+Decisions will only be binding once the relevant part of the minutes has been accepted according to
+Section 6.3.6.2.
+6.3.3 Decisions without a meeting
+Any decision may also be taken without a meeting if
+
+     a) the Coordinator circulates to all Members of the General Assembly a suggested decision with a
+          deadline for responses of at least 10 calendar days after receipt by a Party and
+
+     b) the decision is agreed by 2/3 of the votes cast.
+The Coordinator shall inform all the Members of the outcome of the vote.
+A veto according to Section 6.3.5 may be submitted up to 15 calendar days after sending of this
+information.
+The decision will be binding after the Coordinator sends a notification to all Members. The Coordinator
+shall keep records of the votes and make them available to the Parties on request.
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+6.3.4 Voting rules and quorum
+
+6.3.4.1
+
+The General Assembly shall not deliberate and decide validly in meetings unless two-thirds (2/3) of its
+Members are present or represented (quorum).
+
+If the quorum is not reached, the chairperson of the General Assembly shall convene another ordinary
+meeting within 15 calendar days. If in this meeting the quorum is not reached once more, the chairperson
+shall convene an extraordinary meeting which shall be entitled to decide even if less than the quorum
+of Members is present or represented.
+
+6.3.4.2
+
+Each Member present or represented in the meeting shall have one vote. Associated Partners are
+excluded from certain decisions of the General Assembly according to Section 6.2.
+
+6.3.4.3
+
+A Party which the General Assembly has declared according to Section 4.2 to be a Defaulting Party
+may not vote.
+
+6.3.4.4
+
+Decisions shall be taken by a majority of two-thirds (2/3) of the votes cast.
+
+6.3.5 Veto rights
+
+6.3.5.1
+
+A Party which can show that its own work, time for performance, costs, liabilities, intellectual property
+rights or other legitimate interests would be severely affected by a decision of the General Assembly
+may exercise a veto with respect to the corresponding decision or relevant part of the decision.
+
+6.3.5.2
+
+When the decision is foreseen on the original agenda, a Party may only veto such a decision during the
+meeting.
+
+6.3.5.3
+
+When a decision has been taken on a new item added to the agenda before or during the meeting, a
+Party may veto such decision during the meeting or within 15 calendar days after receipt of the draft
+minutes of the meeting.
+
+6.3.5.4
+
+When a decision has been taken without a meeting a Party may veto such decision within 15 calendar
+days upon receipt of the written notice by the chairperson of the outcome of the vote.
+
+6.3.5.5
+
+In case of exercise of veto, the Parties shall make every effort to resolve the matter which occasioned
+the veto to the general satisfaction of all Parties.
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+6.3.5.6
+
+A Party shall not have the authority to veto decisions relating to its identification to be in breach of its
+obligations nor to its identification as a Defaulting Party. The Defaulting Party may not veto decisions
+relating to its participation and termination in the consortium or the consequences of them.
+
+6.3.5.7
+
+A Party requesting to leave the consortium may not veto decisions relating thereto.
+
+6.3.6 Minutes of meetings
+
+6.3.6.1
+
+The chairperson shall produce minutes of every meeting which shall be the formal record of all decisions
+taken. He/she shall send the draft minutes to all Members within 10 calendar days of the meeting.
+
+6.3.6.2
+
+The minutes shall be considered as accepted if, within 15 calendar days from receipt, no Party has sent
+an objection to the chairperson with respect to the accuracy of the draft of the minutes, by written notice.
+
+6.3.6.3
+
+The chairperson shall send the accepted minutes to all the Members, and to the Coordinator, who shall
+retain copies of them until three years after the successful completion of the Project or the termination
+of this Consortium Agreement.
+
+6.3.7 Decisions of the General Assembly
+
+The General Assembly, shall be free to act on its own initiative to formulate proposals and take decisions
+in accordance with the procedures set out herein.
+
+The following decisions shall be taken by the General Assembly:
+
+Content, finances and intellectual property rights
+
+      Proposals for changes to Annexes 1 and 2 of the Grant Agreement to be agreed by the Granting
+          Authority
+
+      Changes to the Consortium Plan
+      Modifications or withdrawal of Background in Attachment 1 (Background Included)
+      Additions to Attachment 3 (List of Third Parties for simplified transfer according to Section 8.3.2)
+      Additions to Attachment 4 (Identified Entities Under the Same Control)
+
+Evolution of the consortium
+
+      Entry of a new Party to the Project and approval of the settlement on the conditions of the
+          accession of such a new Party
+
+      Withdrawal of a Party from the Project and the approval of the settlement on the conditions of
+          the withdrawal
+
+      Proposal to the Granting Authority for a change of the Coordinator
+      Proposal to the Granting Authority for suspension of all or part of the Project
+      Proposal to the Granting Authority for termination of the Project and the Consortium Agreement
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+Breach, defaulting party status and litigation
+
+      Identification of a breach by a Party of its obligations under this Consortium Agreement or the
+          Grant Agreement
+
+      Declaration of a Party to be a Defaulting Party
+      Remedies to be performed by a Defaulting Party
+      Termination of a Defaulting Party's participation in the consortium and measures relating thereto
+
+Appointments
+
+On the basis of the Grant Agreement, the appointment, if necessary, of:
+
+      External Experts
+
+In the case of abolished tasks as a result of a decision of the General Assembly, Members shall
+rearrange the tasks of the Parties concerned. Such rearrangement shall take into consideration any
+prior legitimate commitments which cannot be cancelled.
+
+       Coordinator
+
+6.4.1
+
+The Coordinator shall be the intermediary between the Parties and the Granting Authority and shall
+perform all tasks assigned to it as described in the Grant Agreement and in this Consortium Agreement.
+
+6.4.2
+
+In particular, the Coordinator shall be responsible for:
+
+      monitoring compliance by the Parties with their obligations under this Consortium Agreement
+          and the Grant Agreement
+
+      keeping the address list of Members and other contact persons updated and available
+      collecting, reviewing to verify consistency and submitting reports, other deliverables (including
+
+          financial statements and related certification) and specific requested documents to the Granting
+          Authority
+      preparing the meetings, proposing decisions and preparing the agenda of General Assembly
+          meetings, chairing the meetings, preparing the minutes of the meetings and monitoring the
+          implementation of decisions taken at meetings
+      transmitting promptly documents and information connected with the Project to any other Party
+          concerned
+      administering the financial contribution of the Granting Authority and fulfilling the financial tasks
+          described in Section 7.2
+      is authorized to sign the Accession document with a new Party in execution of a respective
+          decision of the General Assembly
+      providing a copy of the Grant Agreement and its Annexes to the Associated Partners
+      providing, upon request, the Parties with official copies of documents that are in the sole
+          possession of the Coordinator when such copies are necessary for the Parties to present claims.
+
+If one or more of the Parties is late in submission of any Project deliverable, the Coordinator may
+nevertheless submit the other Parties' Project deliverables and all other documents required by the
+Grant Agreement to the Granting Authority in time.
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+6.4.3
+
+If the Coordinator fails in its coordination tasks, the General Assembly may propose to the Granting
+Authority to change the Coordinator.
+
+6.4.4
+
+The Coordinator shall not be entitled to act or to make legally binding declarations on behalf of any other
+Party or of the consortium, unless explicitly stated otherwise in the Grant Agreement or this Consortium
+Agreement.
+
+6.4.5
+
+The Coordinator shall not expand its role beyond the tasks specified in this Consortium Agreement and
+in the Grant Agreement.
+
+       Network Partners Board (NPB)
+
+Network Partners Board (NPB) will be appointed and steered by the General Assembly. The NPB shall
+assist and facilitate the decisions made by the General Assembly.
+
+The Parties do not expect to disclose Confidential Information to the NPB member. Upon decision by
+the General Assembly the Coordinator will manage the execution of a non-disclosure agreement
+between all Parties and each NPB member.
+
+The NPB members shall be allowed to participate in General Assembly meetings upon invitation but
+have not any voting rights.
+
+7 Financial provisions
+
+       General Principles
+
+7.1.1 Distribution of Financial Contribution
+
+The financial contribution of the Granting Authority to the Project shall be distributed by the Coordinator
+according to:
+
+      the Consortium Plan
+      the approval of reports by the Granting Authority, and
+      the provisions of payment in Section 7.2.
+
+A Party shall be funded only for its tasks carried out in accordance with the Consortium Plan.
+
+7.1.2 Justifying Costs
+
+In accordance with its own usual accounting and management principles and practices, each Party shall
+be solely responsible for justifying its costs (and those of its Affiliated Entities, if any) with respect to the
+Project towards the Granting Authority. Neither the Coordinator nor any of the other Parties shall be in
+any way liable or responsible for such justification of costs towards the Granting Authority.
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+7.1.3 Funding Principles
+
+A Party that spends less than its allocated share of the budget as set out in the Consortium Plan or - in
+case of reimbursement via unit costs - implements less units than foreseen in the Consortium Plan will
+be funded in accordance with its units/actual duly justified eligible costs only.
+
+A Party that spends more than its allocated share of the budget as set out in the Consortium Plan will
+be funded only in respect of duly justified eligible costs up to an amount not exceeding that share. Subject
+to a different General Assembly's decision, the Parties having overspend its allocated share may receive
+an additional share of the grant, if (i) at the end of the Project the total eligible costs claimed allow a
+reallocation of unspent Granting Authority's contribution among the Parties and (ii) such overspend is
+accepted by the Granting Authority as a fully eligible cost; This amount will be distributed proportionally
+to the percentage of the Party's exceeding share on the total overspent EC contribution.
+
+7.1.4 Excess payments
+
+A Party has received excess payment
+
+     a) if the payment received from the Coordinator exceeds the amount declared or
+
+     b) if a Party has received payments but, within the last year of the Project, its real Project costs fall
+          significantly behind the costs it would be entitled to according to the Consortium Plan.
+
+In case a Party has received excess payment, the Party has to inform the Coordinator and return the
+relevant amount to the Coordinator without undue delay. In case no refund takes place within 30 days
+upon request for return of excess payment from the Coordinator, the Party is deemed to be in substantial
+breach of the Consortium Agreement.
+
+Amounts which are not refunded by a breaching Party and which are not due to the Granting Authority,
+shall be apportioned by the Coordinator to the remaining Parties pro rata according to their share of total
+costs of the Project as identified in the Consortium Budget, until recovery from the breaching Party is
+possible.
+
+7.1.5 Revenue
+
+In case a Party earns any revenue that is deductible from the total funding as set out in the Consortium
+Plan, the deduction is only directed toward the Party earning such revenue. The other Parties' financial
+share of the budget shall not be affected by one Party's revenue. In case the relevant revenue is more
+than the allocated share of the Party as set out in the Consortium Plan, the Party shall reimburse the
+funding reduction suffered by other Parties.
+
+7.1.6 Financial Consequences of the termination of the participation of a Party
+
+A Party leaving the consortium shall refund to the Coordinator any payments it has received except the
+amount of contribution accepted by the Granting Authority or another contributor.
+
+In addition, a Party declared to be a Defaulting Party shall, within the limits specified in Section 5.2 of
+this Consortium Agreement, bear any reasonable and justifiable additional costs occurring to the other
+Parties in order to perform the leaving Party´s task and necessary additional efforts to fulfil them as a
+consequence of the Party leaving the consortium. The General Assembly should agree on a procedure
+regarding additional costs which are not covered by the Defaulting Party or the Mutual Insurance
+Mechanism.
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+       Payments
+
+7.2.1 Payments to Parties are the exclusive task of the Coordinator
+
+In particular, the Coordinator shall:
+
+      notify the Party concerned promptly of the date and composition of the amount transferred to its
+          bank account, giving the relevant references
+
+      perform diligently its tasks in the proper administration of any funds and in maintaining financial
+          accounts
+
+      undertake to keep the Granting Authority's financial contribution to the Project separated from
+          its normal business accounts, its own assets and property, except if the Coordinator is a Public
+          Body or is not entitled to do so due to statutory legislation.
+
+With reference to Article 22 of the Grant Agreement, no Party shall receive more than its allocated share
+of the maximum grant amount before the end of the Project. This allocation is calculated after
+deductingthe amounts retained by the Granting Authority for the Mutual Insurance Mechanism and for
+the final payment.
+
+7.2.2
+
+The transfer of the initial pre-financing, the additional pre-financings (if any) and interim payments to
+Parties will be handled in accordance with Article 22.1. and Article 7 of the Grant Agreement following
+this payment schedule:
+
+Funding of costs included in the Consortium Plan will be paid by the Coordinator to the Parties after
+receipt of payments from the Granting Authority by the Coordinator of the financial contribution for the
+pre-financing and/or the accepted eligible costs of submitted periodic or final reports in separate
+instalments as agreed below:
+
+For the initial pre-financing:
+
+     (a) 50% of the initial pre-financing will be transferred to the Parties upon receipt of the payment
+          from the Granting Authority without undue delay, provided that the Parties have signed this
+          Consortium Agreement and acceded to the Grant Agreement. In case this portion of the initial
+          pre-financing is provenly not sufficient to cover a Party's costs for the first 12 (twelve) months
+          of the Project, that Party may request an increase of its initial pre-financing share up to a
+          maximum of 70% of its initial pre-financing share.
+
+     (b) The remaining percentage of the initial pre-financing will be transferred without undue delay
+          after submission of the first year (M12) periodic report, provided the Party:
+
+         submits its contributions for the first year (M12) periodic report, including a financial statement
+              covering the period of M1-M12, drawn up in accordance with the Consortium Plan,
+              demonstrating the Party has used at least 70% of the previously received pre-financing.
+
+For interim payments:
+
+The interim payments shall be paid by the Coordinator to the Parties upon receipt from the Granting
+Authority without undue delay and will be calculated on the basis of the eligible costs approved by the
+Funding Authority. The amounts paid for interim payments will correspond to the accepted EU
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+contribution. However, the total amount of interim payments and pre-financing will be limited to 85% of
+the maximum EU contribution per Party.
+
+Final payment:
+
+After receipt from the Granting Authority by the Coordinator of the financial contribution for the final
+payment Beneficiaries will be reimbursed without undue delay for their balance due.
+
+The Coordinator is entitled to withhold any payments due to a Party identified by the General Assembly
+to be in breach of its obligations under this Consortium Agreement or the Grant Agreement.
+
+The Coordinator is entitled to reclaim any payments already paid to a Defaulting Party except the costs
+already claimed by the Defaulting Party and accepted by the Granting Authority. The Coordinator is
+equally entitled to withhold payments to a Party when this is suggested by or agreed with the Granting
+Authority.
+
+8 Results
+
+       Ownership of Results
+
+Results are owned by the Party that generates them.
+
+       Joint ownership
+
+Joint ownership is governed by Grant Agreement Article 16.4 and its Annex 5, Section Ownership of
+results, with the following additions:
+
+Unless otherwise agreed:
+
+  each of the joint owners shall be entitled to use their jointly owned Results for non-commercial
+        research and teaching activities on a royalty-free basis, and without requiring the prior consent
+        of the other joint owner(s). Non-commercial research and teaching activities means use for
+        academic/teaching/scientific purposes, or mere internal use, and
+         excludes use in contract research (= rendering a research service against payment to a
+            customer, using the joint Result), even when the charge is mere cost reimbursement without
+            profit;
+         excludes use of results for royalty bearing activities (such as licensing) or other activities
+            leading to monetary benefits (e.g. use in developing, creating or marketing a product or
+            process or creating and providing a service or use in standardisation activities);
+         includes use in further national or European funded projects. However, if such utilization
+            extends to granting additional user rights to third parties (e.g. project partners) for purposes
+            other than the implementation of the project, these additional user rights shall not fall under
+            the category of non-commercial research activities as outlined in this provision.
+
+  each of the joint owners shall be entitled to otherwise Exploit the jointly owned Results and to
+        grant non-exclusive licenses to third parties, if the other joint owners are given: (a) at least 45
+        calendar days advance notice; and (b) fair and reasonable compensation;
+
+The joint owners shall collectively agree upon all protection measures and the allocation of associated
+costs in advance.
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+       Transfer of Results
+
+8.3.1
+
+Each Party may transfer ownership of its own Results, including its share in jointly owned Results (if not
+agreed differently between the joint owners in a joint ownership agreement), following the procedures
+of the Grant Agreement Article 16.4 and its Annex 5, Section Transfer and licensing of results, sub-
+section "Transfer of ownership" as complemented by this Section 8.3.
+
+8.3.2
+
+Each Party may identify specific third parties, to which it intends to transfer the ownership of its Results
+\in Attachment (3) to this Consortium Agreement. The other Parties hereby waive their right to prior
+notice and their right to object to a transfer to any such identified third party and to any of the Party's
+Entities Under the Same Control according to the Grant Agreement Article 16.4 and its Annex 5, Section
+Transfer of licensing of results, sub-section "Transfer of ownership", 3rd paragraph.
+
+8.3.3
+
+The transferring Party shall, however, at the time of the transfer, inform the other Parties of the transfer
+and shall ensure that the rights of the other Parties under the Consortium Agreement and the Grant
+Agreement will not be affected by such transfer. Any addition to Attachment (3) after signature of this
+Consortium Agreement requires a decision of the General Assembly.
+
+8.3.4
+
+The Parties recognise that in the framework of a merger or an acquisition of its assets, it may be
+impossible under applicable EU and national laws on mergers and acquisitions for a Party to give at
+least 45 calendar days prior notice for the transfer as foreseen in the Grant Agreement.
+
+8.3.5
+
+The obligations above apply only for as long as other Parties still have - or still may request - Access
+Rights to the Results.
+
+       Dissemination
+
+8.4.1
+
+For the avoidance of doubt, the confidentiality obligations set out in Section 10 apply to all dissemination
+activities described in this Section 8.4 as far as Confidential Information is involved.
+
+8.4.2 Dissemination of own (including jointly owned) Results
+
+8.4.2.1
+
+During the Project and for a period of 1 year after the end of the Project, the dissemination of own
+Results by one or several Parties including but not restricted to publications and presentations, shall be
+governed by the procedure of Article 17.4 of the Grant Agreement and its Annex 5, Section
+Dissemination, subject to the following provisions.
+
+Prior notice of any planned publication shall be given to the other Parties at least 15 calendar days
+before the publication. Any objection to the planned publication shall be made in accordance with the
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+Grant Agreement by written notice to the Coordinator and to the Party or Parties proposing the
+dissemination within 15 calendar days after receipt of the notice. If no objection is made within the time
+limit stated above, the publication is deemed permitted.
+
+8.4.2.2
+
+An objection is justified if the planned publication:
+
+     a) would prevent patenting or registration of other intellectual property rights of the objecting
+          Party's Results or Background or
+
+     b) includes unpublished Background, unpublished solely owned Results or Confidential
+          Information of the objecting Party
+
+The objection has to include a precise request for necessary modifications.
+
+8.4.2.3
+
+If an objection has been raised the involved Parties shall discuss how to overcome the justified grounds
+for the objection on a timely basis (for example by amendment to the planned publication and/or by
+protecting information before publication) and whereby the scientific quality of the publication is
+maintained. The objecting Party shall not unreasonably continue the opposition if appropriate measures
+are taken following the discussion. The objecting Party is entitled to suggest specific amendments to
+the planned publication, provided, however, that each authoring Party alone shall decide the final
+wording and content of its own text.
+
+8.4.2.4
+
+The objecting Party can request a publication delay of not more than 60 calendar days from the time it
+raises such an objection. After 60 calendar days the publication is permitted.
+
+8.4.3 Dissemination of another Party's unpublished Results or Background
+
+A Party shall not include in any dissemination activity another Party's Results or Background without
+obtaining the owning Party's prior written approval, unless they are already available through publication.
+
+8.4.4 Cooperation obligations
+
+The Parties undertake to cooperate to allow the timely submission, examination, publication and defence
+of any dissertation or thesis for a degree that includes their Results or Background subject to the
+confidentiality and publication provisions agreed in this Consortium Agreement.
+
+In accordance with scientific customs, a Party's contributions will be expressly reflected in all written or
+oral public disclosures concerning Results by acknowledgment or co-authorship, as appropriate. An
+appropriate reference to the support of the Granting Authority must be included in all such disclosures
+and publications in accordance with the Grant Agreement.
+
+8.4.5 Use of names, logos or trademarks
+
+Nothing in this Consortium Agreement shall be construed as conferring rights to use in advertising,
+publicity or otherwise the name of the Parties or any of their logos or trademarks without their prior
+written approval.
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+       Standardization
+
+The Parties decide on standardisation activities according to Annex 1 (Description of the action) of the
+Grant Agreement, especially Task 5.1, or as otherwise stated in this Consortium Agreement. If
+standardisation activities are initiated, the results can be published independently of and preferential to
+the provisions of this Agreement as formal standards or similar according to the rules of standardisation
+as applied by CEN, ISO or any of its members (the National Standardisation Bodies), especially DIN.
+
+9 Access Rights
+
+       Background included
+
+9.1.1
+
+In Attachment 1, the Parties have identified and agreed on the Background for the Project and have
+also, where relevant, informed each other that Access Rights to specific Background are subject to legal
+restrictions or limits.
+
+Anything not identified in Attachment 1 shall not be the object of Access Right obligations regarding
+Background.
+
+9.1.2
+
+Any Party may add additional Background to Attachment 1 during the Project provided they give written
+notice to the other Parties. However, approval of the General Assembly is needed should a Party wish
+to modify or withdraw its Background in Attachment 1.
+
+       General Principles
+
+9.2.1
+
+Each Party shall implement its tasks in accordance with the Consortium Plan and shall assume sole
+liabilityfor ensuring that its acts within the Project do not knowingly infringe the intellectual property rights
+of third parties.
+
+9.2.2
+
+Any Access Rights granted exclude any rights to sublicense unless expressly stated otherwise.
+
+9.2.3
+
+Access Rights shall be free of any administrative transfer costs.
+
+9.2.4
+
+Access Rights are granted on a non-exclusive basis.
+
+9.2.5
+
+Results and Background shall be used only for the purposes for which Access Rights to it have been
+granted.
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+9.2.6
+
+Unless already granted herein, all requests for Access Rights shall be made in writing. The granting of
+Access Rights may be made conditional on the acceptance of specific conditions aimed at ensuring that
+these rights will be used only for the intended purpose and that appropriate confidentiality obligations
+are in place.
+
+9.2.7
+
+The requesting Party must show that the Access Rights are Needed.
+
+       Access Rights for implementation
+
+Access Rights to Results and Background Needed for the performance of the own work of a Party under
+the Project shall be granted on a royalty-free basis, unless otherwise agreed for Background in
+Attachment 1.
+
+       Access Rights for Exploitation
+
+9.4.1 Access Rights to Results
+
+Access Rights to Results if Needed for Exploitation of a Party's own Results shall be granted on Fair
+and Reasonable conditions.
+
+Access rights to Results for internal non-commercial research and for teaching activities shall be granted
+on a royalty-free basis.
+
+9.4.2
+
+Access Rights to Background if Needed for Exploitation of a Party's own Results, shall be granted on
+Fair and Reasonable conditions.
+
+9.4.3
+
+A request for Access Rights may be made up to twelve months after the end of the Project or, in the
+case of Section 9.7.2.1.2, after the termination of the requesting Party's participation in the Project.
+
+       Access Rights for Entities Under the Same Control
+
+Entities Under the Same Control have Access Rights under the conditions of sections 9.3 and 9.4 of this
+Consortium Agreement if they are identified in [Attachment 4 (Identified entities under the same control)
+to this Consortium Agreement].
+
+Such Access Rights must be requested by the Entity Under the Same Control from the Party that holds
+the Background or Results. Alternatively, the Party granting the Access Rights may individually agree
+with the Party requesting the Access Rights to have the Access Rights include the right to sublicense to
+the latter's Entity Under the Same Control [listed in Attachment 4]. Access Rights to an Entity Under the
+Same Control shall be granted on Fair and Reasonable conditions and upon written bilateral agreement.
+
+The Party with which it is under the same control will ensure that entities Under the Same Control which
+obtain Access Rights in return fulfil all confidentiality and other obligations accepted by the Parties with
+respect to which they are Entities Under the Same Control under the Grant Agreement or this
+Consortium Agreement as if such Entities Under the Same Control were Parties. In case of non-
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+compliance the Entity Under the Same Control shall be given a reasonable opportunity to rectify the
+non-compliance.
+Access Rights may be refused to Entities Under the Same Control if such granting is contrary to the
+legitimate interests of the Party which owns the Background or the Results.
+Access Rights granted to any Entity Under the Same Control are subject to the continuation of the
+Access Rights of the Party with respect to which it is an Entity Under the Same Control, and shall
+automatically terminate upon termination of the Access Rights granted to such Party.
+Upon cessation of the status as an Entity Under the Same Control, any Access Rights granted to such
+former Entity Under the Same Control shall lapse.
+Further arrangements with Entities Under the Same Control may be negotiated in separate agreements.
+
+       Additional Access Rights
+
+For the avoidance of doubt any grant of Access Rights not covered by the Grant Agreement or this
+Consortium Agreement shall be at the absolute discretion of the owning Party and subject to such terms
+and conditions as may be agreed between the owning and receiving Parties.
+
+       Access Rights for Parties entering or leaving the consortium
+
+9.7.1 New Parties entering the consortium
+As regards Results developed before the accession of the new Party, the new Party will be granted
+Access Rights on the conditions applying for Access Rights to Background.
+9.7.2 Parties leaving the consortium
+9.7.2.1 Access Rights granted to a leaving Party
+9.7.2.1.1 Defaulting Party
+Access Rights granted to a Defaulting Party and such Party's right to request Access Rights shall cease
+immediately upon receipt by the Defaulting Party of the formal notice of the decision of the General
+Assembly to terminate its participation in the consortium.
+9.7.2.1.2 Non-defaulting Party
+A non-defaulting Party leaving voluntarily and with the other Parties' consent shall have Access Rights
+to the Results developed until the date of the termination of its participation.
+It may request Access Rights within the period of time specified in Section 9.4.3.
+9.7.2.2 Access Rights to be granted by any leaving Party
+Any Party leaving the Project shall continue to grant Access Rights pursuant to the Grant Agreement
+and this Consortium Agreement as if it had remained a Party for the whole duration of the Project.
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+       Specific provisions for Access Rights to Software
+
+For the avoidance of doubt, the general provisions for Access Rights provided for in this Section 9 are
+applicable also to Software.
+
+Parties' Access Rights to Software do not include any right to receive source code or object code ported
+to a certain hardware platform or any right to receive respective Software documentation in any
+particular form or detail, but only as available from the Party granting the Access Rights.
+
+10 Non-disclosure of information
+
+All information in whatever form or mode of communication, which is disclosed by a Party (the
+"Disclosing Party") to any other Party (the "Recipient") in connection with the Project and which has
+been explicitly marked as "confidential" at the time of disclosure, or when disclosed orally has been
+identified as confidential at the time of disclosure and has been confirmed and designated in writing
+within 15 calendar days from oral disclosure at the latest as confidential information by the Disclosing
+Party, is "Confidential Information".
+
+The Recipient hereby undertakes in addition and without prejudice to any commitment on non-disclosure
+under the Grant Agreement, for the duration of the Project and a period of 5 years after the final payment
+of the Granting Authority (the Coordinator notifies the Associated Partner(s) about the date of the final
+payment):
+
+      not to use Confidential Information otherwise than for the purpose for which it was disclosed;
+      not to disclose Confidential Information without the prior written consent by the Disclosing Party;
+      to ensure that internal distribution of Confidential Information by a Recipient shall take place on
+
+          a strict need-to-know basis; and
+      to return to the Disclosing Party, or destroy, on request all Confidential Information that has
+
+          been disclosed to the Recipients including all copies thereof and to delete all information stored
+          in a machine-readable form to the extent practically possible. The Recipient may keep a copy
+          to the extent it is required to keep, archive or store such Confidential Information because of
+          compliance with applicable laws and regulations or for the proof of on-going obligations or to
+          keep copies of electronically exchanged Confidential Information made as a matter of routine
+          information technology back-up provided that the Recipient complies with the confidentiality
+          obligations herein contained with respect to such copy.
+
+The Recipient shall be responsible for the fulfilment of the above obligations on the part of its employees
+or third parties involved in the Project, and shall ensure that they remain so obliged, as far as legally
+possible, during and after the end of the Project and/or after the termination of the (i) employment, (ii)
+other contractual relationship with their personnel or (iii) divestiture of the Entity Under the Same Control.
+
+The above shall not apply for disclosure or use of Confidential Information, if and in so far as the
+Recipient can show that:
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+      the Confidential Information has become or becomes publicly available by means other than a
+          breach of the Recipient's confidentiality obligations;
+
+      the Disclosing Party subsequently informs the Recipient that the Confidential Information is no
+          longer confidential;
+
+      the Confidential Information is communicated to the Recipient without any obligation of
+          confidentiality by a third party who is to the best knowledge of the Recipient in lawful possession
+          thereof and under no obligation of confidentiality to the Disclosing Party;
+
+      the disclosure or communication of the Confidential Information is foreseen by provisions of the
+          Grant Agreement;
+
+      the Confidential Information, at any time, was developed by the Recipient completely
+          independently of any such disclosure by the Disclosing Party;
+
+      the Confidential Information was already known to the Recipient prior to disclosure and is not
+          subject to a confidentiality undertaking; or
+
+      the disclosure of Confidential Information was permitted by the Disclosing Party; or
+      the Recipient is required to disclose the Confidential Information in order to comply with
+
+          applicable laws or regulations or with a court or administrative order, subject to the provision
+          Section 10.7 hereunder. This obligation does not alter the status of the information as a
+          Confidential Information and it is still to be treated as confidential unless otherwise regulated
+          under the respective applicable law.
+
+The Recipient shall apply the same degree of care with regard to the Confidential Information disclosed
+within the scope of the Project as with its own confidential and/or proprietary information, but in no case
+less than reasonable care
+
+Each Recipient shall promptly inform the relevant Disclosing Party by written notice of any unauthorised
+disclosure, misappropriation or misuse of Confidential Information after it becomes aware of such
+unauthorised disclosure, misappropriation or misuse.
+
+If any Recipient becomes aware that it will be required, or is likely to be required, to disclose Confidential
+Information in order to comply with applicable laws or regulations or with a court or administrative order,
+it shall, to the extent it is lawfully able to do so, prior to any such disclosure
+
+      notify the Disclosing Party, and
+      comply with the Disclosing Party's reasonable instructions to protect the confidentiality of the
+
+          information.
+
+11 Miscellaneous
+
+       Attachments, inconsistencies and severability
+
+This Consortium Agreement consists of this core text and:
+
+      Attachment 1 (Background included)
+      Attachment 2 (Accession document)
+      Attachment 3 (List of third parties for simplified transfer according to Section 8.3.2)
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+      Attachment 4 (Identified Entities Under the Same Control)
+
+In case the terms of this Consortium Agreement are in conflict with the terms of the Grant Agreement,
+the terms of the latter shall prevail. In case of conflicts between the attachments and the core text of this
+Consortium Agreement, the latter shall prevail.
+
+Should any provision of this Consortium Agreement become invalid, illegal or unenforceable, it shall not
+affect the validity of the remaining provisions of this Consortium Agreement. In such a case, the Parties
+concerned shall be entitled to request that a valid and practicable provision be negotiated that fulfils the
+purpose of the original provision.
+
+       No representation, partnership or agency
+
+Except as otherwise provided in Section 6.4.4, no Party shall be entitled to act or to make legally binding
+declarations on behalf of any other Party or of the consortium. Nothing in this Consortium Agreement
+shall be deemed to constitute a joint venture, agency, partnership, interest grouping or any other kind
+of formal business grouping or entity between the Parties.
+
+       Formal and written notices
+
+Any notice to be given under this Consortium Agreement shall be addressed to the recipients as listed
+in the most current address list kept by the Coordinator.
+
+Any change of persons or contact details shall be immediately communicated to the Coordinator by
+written notice. The address list shall be accessible to all Parties.
+
+Formal notices:
+
+If it is required in this Consortium Agreement (Sections 4.2, 9.7.2.1.1, and 11.4) that a formal notice,
+consent or approval shall be given, such notice shall be signed by an authorised representative of a
+Party and shall either be served personally or sent by mail with recorded delivery with acknowledgement
+of receipt.
+
+Written notice:
+
+Where written notice is required by this Consortium Agreement, this is fulfilled also by other means of
+communication such as e-mail with acknowledgement of receipt.
+
+       Assignment and amendments
+
+Except as set out in Section 8.3, no rights or obligations of the Parties arising from this Consortium
+Agreement may be assigned or transferred, in whole or in part, to any third party without the other
+Parties' prior formal approval.
+
+Amendments and modifications to the text of this Consortium Agreement not explicitly listed in Section
+6.3.7 (SP) require a separate written agreement to be signed between all Parties.
+
+       Mandatory national law
+
+Nothing in this Consortium Agreement shall be deemed to require a Party to breach any mandatory
+statutory law under which the Party is operating.
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [3], [12/04/2024]
+
+       Language
+
+This Consortium Agreement is drawn up in English, which language shall govern all documents, notices,
+meetings, arbitral proceedings and processes relative thereto.
+
+       Applicable law
+
+This Consortium Agreement shall be construed in accordance with and governed by the laws of Belgium
+excluding its conflict of law provisions.
+
+       Settlement of disputes
+
+The Parties shall endeavour to settle their disputes amicably.
+All disputes arising out of or in connection with this Consortium Agreement, which cannot be solved
+amicably, shall be finally settled by the courts of Brussels.
+Nothing in this Consortium Agreement shall limit the Parties' right to seek injunctive relief in any
+applicable competent court.
+
+12 Signatures
+
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed as of the
+Effective Date by their duly authorized representatives on separate signature pages. The signature of a
+Party via a scanned handwritten signature (scan of a Party's signature page including the handwritten
+signature in PDF format) shall have the same force and effect as an original handwritten signature for
+the purposes of validity, enforceability and admissibility. Each Party receives a fully executed copy of
+the Agreement. Delivery of a fully executed copy via e-mail shall have the same force and effect as
+delivery of an original hard copy. However, each Party must send an original signature page signed in
+wet ink to the Coordinator, who will keep the original Consortium Agreement on archive until 5 years
+after the end of the project.
+REST OF THE PAGE INTENTIONALLY LEFT BLANK.
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [2], [20/03/2024]
+
+Attachment 1: Background included
+
+According to the Grant Agreement (Article 16.1) Background is defined as "data, know-how or
+information (...) that is (...) needed to implement the Action or exploit the results". Because of this need,
+Access Rights have to be granted in principle, but Parties must identify and agree amongst them on the
+Background for the Project. This is the purpose of this attachment.
+
+TECHNISCHE UNIVERSITÄT DRESDEN (TUD)
+As to TUD, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of TUD is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+This represents the status at the time of signature of this Consortium Agreement.
+
+LANDESHAUPTSTADT DRESDEN (LHD)
+As to LHD, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of LHD is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+This represents the status at the time of signature of this Consortium Agreement.
+
+VEREIN DER EUROPAEISCHEN BURGERWISSENSCHAFTEN - ECSA E.V. (ECSA)
+As to ECSA, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of ECSA is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+This represents the status at the time of signature of this Consortium Agreement.
+
+DIN Deutsches Institut für Normung e. V. (DIN)
+As to DIN, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of DIN is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+This represents the status at the time of signature of this Consortium Agreement.
+
+VYSKUMNE CENTRUM SLOVENSKEJ SPOLOCNOSTI PRE ZAHRANICNU POLITIKU NO (SFPA)
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+
+Version 1.1, November 2022                                                       50 / 57
+[U_CAN] Consortium Agreement, version [2], [20/03/2024]
+
+As to SFPA, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of SFPA is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+
+This represents the status at the time of signature of this Consortium Agreement.
+
+ENVIROPLAN MELETITIKI - SYMVOULOI ANAPTYKSIAKON & TEXNIKON ERGON ANONYMI
+ETAIREIA (ENV)
+
+As to ENV, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of ENV is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+
+This represents the status at the time of signature of this Consortium Agreement.
+
+FUNDACJA PARTNERSTWA TECHNOLOGICZNEGO TECHNOLOGY PARTNERS (TPF)
+
+As to TPF, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of TPF is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+
+This represents the status at the time of signature of this Consortium Agreement.
+
+POLITECHNIKA WROCLAWSKA (WUST)
+
+As to WUST, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of WUST is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+
+This represents the status at the time of signature of this Consortium Agreement.
+
+AARHUS UNIVERSITET (AU)
+
+As to AU, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of AU is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+
+This represents the status at the time of signature of this Consortium Agreement.  51 / 57
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [2], [20/03/2024]
+
+UNIVERSITA DEGLI STUDI DELL'AQUILA (ULA)
+As to ULA, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of ULA is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+This represents the status at the time of signature of this Consortium Agreement.
+
+OANNEUM RESEARCH FORSCHUNGSGESELLSCHAFT MBH (JRG)
+As to JRG, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of JRG is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+This represents the status at the time of signature of this Consortium Agreement.
+
+NON-GOVERNMENTAL ORGANIZATION BUREAU OF RESEARCH, INNOVATIONS AND
+TECHNOLOGIES (BRIT)
+As to BRIT, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of BRIT is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+This represents the status at the time of signature of this Consortium Agreement.
+
+O.M. BEKETOV NATIONAL UNIVERSITY OF URBAN ECONOMY IN KHARKIV (OMB)
+As to OMB, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of OMB is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+This represents the status at the time of signature of this Consortium Agreement.
+
+NATIONAL TECHNICAL UNIVERSITY OF UKRAINE IGOR SIKORSKY                           KYIV  POLYTECHNIC
+INSTITUTE (ISKPI)
+                                                                                                     52 / 57
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [2], [20/03/2024]
+
+As to ISKPI, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of ISKPI is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+This represents the status at the time of signature of this Consortium Agreement.
+
+HROMADSKA ORHANIZATSIYA KLUB MERIV (MCU)
+As to MCU, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of MCU is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+This represents the status at the time of signature of this Consortium Agreement.
+
+MUNICIPAL INSTITUTION CITY INSTITUTE (CIL)
+As to CIL, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of CIL is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+This represents the status at the time of signature of this Consortium Agreement.
+
+MUNICIPAL INSTITUTION "CITY DEVELOPMENT AGENCY" OF ZHYTOMYR CITY COUNCIL
+(ZCC)
+As to ZCC, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of ZCC is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+This represents the status at the time of signature of this Consortium Agreement.
+
+KHMELNITSKY NATIONAL UNIVERSITY (KhNU)                                           53 / 57
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [2], [20/03/2024]
+
+As to KhNU, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of KhNU is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+This represents the status at the time of signature of this Consortium Agreement.
+
+LEONID YUZKOV KHMELNITSKYI UNIVERSITY OF MANAGEMENT AND LAW (LYKUML)
+As to LYKUML, it is agreed between the Parties that, to the best of their knowledge, no data, know-how
+or information of LYKUML is Needed by another Party for implementation of the Project (Article 16.1
+and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section
+"Access rights to background and results for implementing the action") or Exploitation of that other
+Party's Results (Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and
+background", sub-section "Access rights for exploiting the results").
+This represents the status at the time of signature of this Consortium Agreement.
+
+MUNICIPAL ENTERPRISE INSTITUTE OF URBAN DEVELOPMENT (ME IUD)
+As to ME IUD, it is agreed between the Parties that, to the best of their knowledge, no data, know-how
+or information of ME IUD is Needed by another Party for implementation of the Project (Article 16.1 and
+its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+This represents the status at the time of signature of this Consortium Agreement.
+
+PUBLIC ORGANIZATION REGIONAL CENTER OF SUSTAINABLE DEVELOPMENT (RCSD)
+As to RCSD, it is agreed between the Parties that, to the best of their knowledge, no data, know-how or
+information of RCSD is Needed by another Party for implementation of the Project (Article 16.1 and its
+Annex 5 Grant Agreement, Section "Access rights to results and background", sub-section "Access
+rights to background and results for implementing the action") or Exploitation of that other Party's Results
+(Article 16.1 and its Annex 5 Grant Agreement, Section "Access rights to results and background", sub-
+section "Access rights for exploiting the results").
+This represents the status at the time of signature of this Consortium Agreement.
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu  54 / 57
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [2], [20/03/2024]
+
+                       Attachment 2: Accession document
+
+ACCESSION
+of a new Party to
+[Acronym of the Project] Consortium Agreement, version [..., YYYY-MM-DD]
+[OFFICIAL NAME OF THE NEW PARTY AS IDENTIFIED IN THE Grant Agreement]
+hereby consents to become a Party to the Consortium Agreement identified above and accepts all the
+rights and obligations of a Party starting [date].
+[OFFICIAL NAME OF THE COORDINATOR AS IDENTIFIED IN THE Grant Agreement]
+hereby certifies that the consortium has accepted in the meeting held on [date] the accession of [the
+name of the new Party] to the consortium starting [date].
+This Accession document has been done in 2 originals to be duly signed by the undersigned authorised
+representatives.
+
+[Date and Place]
+[INSERT NAME OF THE NEW PARTY]
+Signature(s)
+Name(s)
+Title(s)
+
+[Date and Place]
+[INSERT NAME OF THE COORDINATOR]
+Signature(s)
+Name(s)
+Title(s)
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu  55 / 57
+Version 1.1, November 2022
+                                            [U_CAN] Consortium Agreement, version [2], [20/03/2024]
+
+Attachment 3: List of third parties for simplified transfer according
+                                    to Section 8.3.2.
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu  56 / 57
+Version 1.1, November 2022
+                                              [U_CAN] Consortium Agreement, version [2], [20/03/2024]
+
+Attachment 4: Identified Entities Under the Same Control according
+                                      to Section 9.5
+
+© DESCA - Model Consortium Agreement for Horizon Europe, www.desca-agreement.eu  57 / 57
+Version 1.1, November 2022
+

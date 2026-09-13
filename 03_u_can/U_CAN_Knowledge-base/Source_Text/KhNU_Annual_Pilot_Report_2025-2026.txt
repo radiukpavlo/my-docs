@@ -1,0 +1,36 @@
+PILOT INFORMATION
+Khmelnytskyi Pilot – Adaptive traffic management with emphasis on transport-related CO2 reduction
+1. Description of the pilot project and the objectives to be achieved
+Within Work Package 4 of the U_CAN project, Task 4.5 focuses on climate-neutral pilot activities in Khmelnytskyi, implemented by Khmelnytskyi National University (KhNU) in cooperation with Khmelnytskyi City Council and other relevant local stakeholders.
+The KhNU pilot contributes to the overall U_CAN objective of supporting climate mitigation activities in Ukrainian cities through dissemination, knowledge sharing, and evidence-based planning. The pilot specifically addresses the challenge of transport-related CO₂ emissions by exploring adaptive traffic management as a potential solution for more sustainable and climate-neutral urban mobility in Khmelnytskyi.
+The pilot responds to current challenges in the city’s traffic-management system, including static traffic-light control, congestion during peak hours, inefficient traffic flow, increased idling, and related emissions. In this context, the pilot aims to support local governing bodies and municipal stakeholders in understanding technical, organisational, and policy requirements for future adaptive traffic management.
+Objectives and milestones envisaged in the project
+The specific objectives and milestones of the Khmelnytskyi pilot within Task 4.5 include:
+defining the technical and data prerequisites for adaptive traffic management in Khmelnytskyi;
+scientifically validating traffic-pattern recognition and adaptive signal-control approaches using simulation and local-context data;
+consolidating climate and transport indicators required to assess future impacts on CO₂ emissions, traffic queues, idling time, and trip duration;
+supporting knowledge exchange and cooperation between KhNU, municipal authorities, and other relevant stakeholders involved in urban mobility planning;
+contributing to dissemination activities foreseen in Task 4.5, including the organisation of the MS6 conference on CO₂ emission reduction in Ukrainian cities;
+establishing a robust evidence base for the future preparation of Deliverable D4.5 (Implementation Plan Khmelnytskyi), including implementation scenarios and recommendations for future pilot deployment and possible scale-up.
+2. Progress towards targets by June 2026
+During the reporting period, KhNU made substantial progress in advancing the Khmelnytskyi pilot from an initial concept towards a structured evidence base for future implementation activities. Activities focused on stakeholder engagement, technical preparation, scientific validation, capacity building, and dissemination of knowledge relevant to climate-neutral urban mobility.
+The activities carried out during the reporting period established the scientific, technical, and stakeholder foundation for the future development of Deliverable D4.5 (Implementation Plan Khmelnytskyi), scheduled for submission in Month 39.
+2.1. Scientific justification and research outputs
+Prepared and published a Gold Open Access Q2 article titled “An Adaptive Machine Learning Approach to Sustainable Traffic Planning: High-Fidelity Pattern Recognition in Smart Transportation Systems,” on adaptive machine learning for sustainable traffic planning, using HDBSCAN and k-means clustering for high-fidelity traffic-pattern recognition. This work can be accessed at: https://doi.org/10.3390/futuretransp5040152.
+Validated the approach on a Khmelnytskyi transport-network simulation, with scenario identification accuracy of approximately 92.8-95.0%.
+Prepared and submitted a Gold Open Access Q2 article titled “Topography-Aware Deep Reinforcement Learning with Contextual Reward Engineering for Sustainable and Efficient Urban Traffic Control,” which can be accessed at https://doi.org/10.3390/futuretransp6020082.
+Demonstrated, in simulation, CO2 reduction potential of up to 8.6% compared with a max-pressure baseline and 4.7% compared with standard DQN under topography-aware adaptive control.
+2.2. Municipal cooperation, data and modelling capacity
+Maintained cooperation with Khmelnytskyi City Council on communication, climate indicators, transport data needs and future integration into sustainable mobility policy.
+Collected and processed climate and transport indicators for Khmelnytskyi, including public-transport speed, electric-transport share and vehicle idling indicators.
+Organised the PTV Visum training cycle on 20-22 January 2026 with Khmelnytskyi City Council, covering network construction, four-step demand modelling, calibration, validation, visualisation and scenario planning.
+2.3. Dissemination, peer learning and reporting
+Participated in U_CAN WP4 meetings, consortium meetings, the Standardization Workshop, USRA thematic workshops, CEEC XIX, EIT Urban Mobility activities and the Scenario Mapping Workshop.
+Planned, organised and delivered the International Conference 'Reducing CO2 Emissions in Ukrainian Cities: Pathways to Climate Neutrality' at KhNU on 24 April 2026 as MS6.
+Prepared the MS6 evidence package and report by June 2026, including conference programme, stakeholder records, public communication evidence and follow-up planning.
+Presented the KhNU pilot narrative as a research-backed pathway for future adaptive traffic management.
+3. Problems and potential missed deadlines
+The main challenge during the reporting period has been the time required to obtain and consolidate transport-related data from different municipal sources. As some information is maintained by different departments and stakeholders, additional coordination was occasionally needed to collect and validate the required datasets.
+Despite these minor delays in data collection and verification, the work has progressed according to plan and has not affected the overall implementation schedule.
+As of June 2026, no confirmed missed deadlines have been identified.
+Partner: Khmelnytskyi National University (KhNU) | Reporting period: May 2025 – June 2026
