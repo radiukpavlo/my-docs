@@ -1,3 +1,17 @@
+> ## SUPERSEDED — historical record, 14 September 2026
+>
+> Superseded by design system **v0.3.0** and by
+> [`DESIGN-STATUS.md`](DESIGN-STATUS.md), which is the only current status
+> document. Much of what follows is now closed; some of it was wrong.
+>
+> **Corrections this file got wrong**, recorded here so they are not re-made:
+> Archivo Narrow, Barlow Condensed and Saira Condensed were recommended for the
+> claim line on the basis that Archivo Narrow "has full Cyrillic" — **none of
+> the three has any Cyrillic at all**. `--weight-medium: 600` was reported as
+> synthesised — the shipped fonts are **variable**, so it never was.
+>
+---
+
 # U_CAN Design System — verification run
 
 **Date:** 13 September 2026
