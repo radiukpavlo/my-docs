@@ -1,209 +1,147 @@
 # U_CAN Design System — finalization record
 
-**Status: finalized at v0.3.1, 14 September 2026.**
+**Status: v1.0.0, 14 September 2026.**
 
-This document began as a ~70-task plan written against v0.2.x. Every section of that
-plan is now closed. It is rewritten here as a record of what was decided, plus the
-short list of what genuinely remains — all of which needs either a file only you can
-supply or a click only you can make.
+The eleven items this document listed as required for 1.0 are closed, except one
+which is deferred with a reason and one which can only be done in the app. All
+five verification tools run green.
 
-`check_design_system` reports **no issues**. Every card, component, template and
-token compiles; all three declared families are self-hosted; every asset reference
-in all 142 source files resolves.
+This file is now a record. The live status is `readme.md` and `CHANGELOG.md`.
 
 ---
 
-## What the system contains
+## What 1.0 turned out to mean
 
-| | Count |
+0.3.1 was complete and internally consistent. It had also never been *used* —
+never consumed from another project, never printed, never sent, never tabbed
+through, and its two verification tools had never been executed because there was
+no Node in the environment that wrote them.
+
+Doing all of that found **eleven real defects**. Not one was visible on screen.
+That is the whole argument for the distinction between a system that compiles and
+a system that has been watched working.
+
+| | Found by |
 |---|---|
-| Library components | **57** — `.jsx` + `.d.ts` + `.prompt.md`, seven concern directories |
-| Design System cards | **53** — Brand 12, Colors 8, Type 8, Spacing 6, Slides 6, Components 6, Charts 4, Layout 1, Documents 1, Website 1 |
-| Templates | **10** — deck, wp-status, report, deliverable, pilot-report, conference-report, speech-script, speakers-bio, invitation-email, timesheet |
-| Tokens | **247** across 12 files, all imported through `styles.css` |
-| Self-hosted fonts | **7 `@font-face` rules**, 2 variable families, nothing over the network |
-| Guideline documents | 38 cards + 4 reference documents |
-| Verification tools | 2 — `tools/_contrast.mjs`, `tools/_link-check.mjs` |
+| Every image 404s when a template is copied into a consuming project | V1 |
+| `_ds_bundle.js` throws on a static template (React not present) | V1 |
+| The timesheet prints with ~330px cut off — a signed financial record | V2 |
+| The deck prints two cropped slides to a portrait sheet | V2 |
+| The deliverable spills a blank page carrying the EU disclaimer | V2 |
+| The report does the same | V2 |
+| Charts have `en-GB` compiled in; Ukrainian renders `1,234` not `1 234` | V4 |
+| `--text-muted` on `--surface-field` is 3.77:1 — 14 nodes on one deck | V6 |
+| Every template is missing `<title>` | V6 |
+| The English deck is missing `lang` | V6 |
+| The deck's image-grid slide overflows the stage by 63px | V3 tooling |
+
+The last one is worth singling out: it was found by the tool built to protect
+*Ukrainian*, and the slide it broke was the **English** one. It had been wrong
+since the layout was written, and every review had looked straight past it.
 
 ---
 
-## Sections A–K: closed
+## The eleven — disposition
 
-**A — Typography.** Manrope (body) and Roboto Condensed (claim), both SIL OFL, both
-self-hosted, both with full Ukrainian Cyrillic. Seven `@font-face` rules rather than
-sixteen, because both families are variable and one file per subset carries the whole
-weight axis. Bahnschrift is out of the web stack entirely (0.3.1) and is deliberately
-not tokenised at all; the `.potx`/`.docx` divergence is documented with a review date.
+| | Item | Status |
+|---|---|---|
+| **V1** | Consume the system from a scratch project | **Closed.** Done, failed, fixed, re-run green. Steps recorded in `readme.md` as verified. |
+| **V2** | Print has never been tested | **Closed.** Named pages in `tokens/print.css`; `tools/_print-check.mjs` asserts an artboard equals a sheet. PDFs exported at A4, Letter and the CSS sizes. |
+| **V3** | Ukrainian exists as policy, not as a surface | **Closed.** `deck-uk`, `pilot-report-uk`, `invitation-email-uk`, each overflow-checked at real content length. |
+| **V4** | Numbers formatted `en-GB`, hard-coded | **Closed.** `locale` prop on all four numeric charts, defaulting from document `lang`; both renderings shown on the charts card. |
+| **V5** | The verification tools have never been executed | **Closed.** Both run, plus three new ones. See the correction below. |
+| **V6** | Accessibility is asserted, not observed | **Closed.** axe WCAG 2.2 A/AA, keyboard walk, 200 % zoom, forced-colors. 0 serious violations, 0 focus stops without an indicator. |
+| **V7** | Website kit is an interpretation of a Wix site | **Closed by decision, 14 Sep 2026.** Accepted as an **original design**. The live site predates this system; rebuilding the kit to match it would mean the design system's own web kit copying a site that does not follow the design system. |
+| **V8** | Website kit is missing surfaces the site has | **DEFERRED — the one open build item.** See below. |
+| **V9** | The invitation email has never been sent | **Sent**, both editions, 14 Sep 2026. Awaiting the client-by-client check — see below. |
+| **V10** | Office templates still diverge | **Closed by decision.** The freeze is permanent, not a review. `readme.md` carries the per-document procedure for anyone who wants matching Office output. |
+| **V11** | Cascadia Mono is 167 KB for token labels | **Closed.** Replaced by JetBrains Mono: 52 KB, variable 400–700, WOFF2, full Cyrillic, no Reserved Font Name obstacle. |
 
-**B — Colour.** `#FFCC00` canonical, `--ucan-yellow-alt` deprecated with a removal
-release named. Four semantic states with foreground, background tint and border. Every
-permitted pairing measured; every forbidden pairing recorded with a compliant
-alternative named. Link colours defined for default, visited, hover and focus-visible,
-on light and on dark. Light-only by design, with the on-dark convention documented.
+### The correction V5 produced, which matters more than V5
 
-**C — Tokens.** Breakpoints, container widths, z-index ladder, opacity/scrim scale,
-table tokens and print tokens all exist and are carded.
+`_contrast.mjs` ran and reported **43 pairings green** — while the deck had
+**fourteen** contrast failures. The tool was not wrong. Its *list* was
+incomplete: `--text-muted` on `--surface-field` had never been added, and the
+green field is the ground the deck uses for two-thirds of every slide.
 
-**D — Components.** 57 across core, layout, content, forms, feedback, navigation and
-charts. Every interactive component defines hover, active, focus-visible, disabled and
-where applicable loading; 44px minimum hit targets; `prefers-reduced-motion` honoured
-globally.
+A guard that has never fired is not yet a guard. A guard that fires green on an
+incomplete list is worse, because it buys confidence it has not earned.
 
-**E — Templates.** All ten built as Design Components with `@template` markers and a
-sibling `ds-base.js`. The QR-code deck is a Tweak on `templates/deck/`, not a
-separate template.
-
-**F — Slides.** The `slides/` ↔ `templates/deck/` relationship is resolved and recorded
-in `slides/README.md`.
-
-**G — Charts.** Conventions carded and enforced in code: zero baseline mandatory,
-horizontal gridlines only, direct labels by default, never colour alone, a
-visually-hidden data table on every chart, and a series ramp asserted monotonic in
-luminance by `tools/_contrast.mjs`. Map convention carded with five rendered variants.
-
-**H — Assets.** EU logo trees (EN/UA × horizontal/vertical × seven treatments), LHD
-Förderlogo and Stadtverwaltung sets with the funder/partner rule stated, Cities Mission
-banners, U_CAN SVG masters including the reversed lockup, five pilot-city map
-renderings, 24 city photographs, favicon set and social card. Third-party stock
-removed. Provenance in `guidelines/asset-manifest.md`.
-
-**I — UI kits.** Website and documents kits built. `ui_kits/templates/` confirmed as
-never having existed, and every reference to it removed. The website kit's README
-states plainly that it is an interpretation and names what would make it exact.
-
-**J — System.** Contribution guide, usage-obligations document, voice-and-language
-rules, asset manifest, changelog, adherence config, kitchen-sink QA surface, project
-thumbnail.
-
-**K — Verification.** All 142 source files scanned: every `src`, `href` and `url()`
-resolves to a file that exists. No card loads a raw `.jsx` via `<script src>`. The
-kitchen sink renders with no console error.
+**When you add a surface, add its pairings.** That rule is now in `readme.md`,
+`tools/README.md` and the tool's own header.
 
 ---
 
-## What actually remains
+## What remains
 
-### F1 · Register three starting points — app-side, one click each
+### 1 · Register three starting points — app-side, one click each
 
-`check_design_system` reports `Starting points: (none)` because registration happens in
-the Design System app, not in a file. Approved 14 September 2026: `templates/deck/`,
+`check_design_system` reports `Starting points: (none)` because registration
+happens in the Design System app, not in a file. Approved: `templates/deck/`,
 `templates/report/`, `ui_kits/website/`.
 
-### F2 · Consume the system once from a scratch project
+### 2 · Open the project once so the compiler re-runs
 
-The only test that proves the system works for its audience: copy `templates/deck/`
-into a fresh project, point the `base` line in its `ds-base.js` at the bound `_ds/`
-tree, and confirm it renders styled with no other edit. Everything is in place for this
-to pass; it has not been run.
+v1.0.0 was uploaded through the file API. `_ds_manifest.json` and
+`_ds_bundle.js` are built by the app's own self-check, so the card index and the
+component namespace stay at the previous compile until the project is opened.
+Nothing is wrong with the files; the index simply has not caught up.
 
----
+### 3 · V8 — the website kit is still missing surfaces
 
-## What 1.0.0 requires
+Present: Home, Overview, Pilots, News. Missing: a single news post, Contacts,
+Consortium/Partners, Work Packages, Publications, Events, 404 and a
+search-results state. No mobile or tablet rendering exists for any screen, and
+the site's traffic is mobile-heavy.
 
-0.3.1 is **complete and internally consistent**. That is not the same as 1.0. A 1.0
-design system is one that has been *used* — the remaining gap is almost entirely
-between "the code is right" and "we have watched it work". Eleven items, in the order
-they should be done.
+**Deferred deliberately, not overlooked.** Building these means composing
+`PersonCard`, `DataTable`, `Timeline`, `Pagination`, `WebsiteHeader` and
+`WebsiteFooter` — and this pass could not render-verify those components, so the
+screens would have been written without being watched working. That is precisely
+the failure mode 1.0.0 exists to end. Six screens that compile and have never
+been looked at would be a step backwards from a release whose entire claim is
+that its surfaces have been observed.
 
-### Blocking — a 1.0 cannot honestly ship without these
+It is the first item of v1.1.0, and it is unblocked: every component it needs
+already exists.
 
-**V1 · Nobody has ever consumed this system.** Not once. Every claim about the
-consumer contract — that a template folder copies cleanly, that one `base` line is
-the only edit, that `_ds_bundle.js` resolves from a bound `_ds/` tree — is
-reasoning, not observation. Copy `templates/deck/` into a scratch project, change
-the one line, and render it.
-*Done when:* it renders fully styled with no second edit, and the steps are written
-into `readme.md` as verified rather than intended.
+### 4 · V9 — the email was sent; the client check is yours
 
-**V2 · Print has never been tested.** Ten templates, six of them print-first
-(deliverable, report, pilot-report, conference-report, timesheet, speakers-bio), and
-not one has been through a print dialogue. The project is German- and
-Ukrainian-facing, so **A4 is the real default and Letter is the fallback** — page
-boxes, running headers, footer depth for the EU statement, and table splits across
-pages are all unverified.
-*Done when:* every print template is exported at A4 and Letter and visually checked
-for overflow, orphaned headings and clipped running elements.
+Both editions went to `radiukp@khmnu.edu.ua` on 14 September 2026, each with its
+HTML and plain-text parts. HTML email fails in clients, not in browsers, so the
+remaining step cannot be automated: open both in **Outlook on Windows** (the
+Word rendering engine is where table layouts break), Gmail web, Gmail mobile and
+Apple Mail. Each message carries its own checklist in the text part.
 
-**V3 · Ukrainian exists as policy, not as a surface.**
-`guidelines/voice-and-language.md` commits to full parallel website versions and
-Ukrainian-first pilot-city material. **Zero Ukrainian screens or template variants
-are built.** The same document warns that Ukrainian runs 10–15 % longer than English
-— which means every fixed-width element in ten templates and two kits is an untested
-assumption. This is the largest gap in the system.
-*Done when:* Ukrainian variants of `templates/deck/`, `templates/pilot-report/` and
-`templates/invitation-email/` exist, the website home renders in Ukrainian, and each
-has been checked for wrapping and overflow at its real content length.
+Expected: the three images will not load. Their `src` values point at
+`https://www.ucan-ukraine.eu/email-assets/`, which does not exist yet — which
+also exercises the images-blocked path most clients default to. Upload them there
+before any real send.
 
-**V4 · Numbers are formatted `en-GB`, hard-coded.** `components/charts/chart-kit.jsx`
-calls `toLocaleString("en-GB")`, so a Ukrainian chart renders `1,234` where the
-convention is `1 234`. A bilingual project cannot ship a chart library with one
-locale compiled in.
-*Done when:* locale is a prop or a token, defaulting from `lang`, and the charts card
-shows both renderings.
+### 5 · The three new template folders need `support.js`
 
-**V5 · The verification tools have never been executed.** `tools/_contrast.mjs` and
-`tools/_link-check.mjs` are committed, documented and required before every release
-— and no one has run them, because there is no Node in this environment. A guard that
-has never fired is not yet a guard.
-*Done when:* both have been run once against 0.3.1, their output recorded, and any
-drift they find fixed.
+`templates/deck-uk/`, `templates/pilot-report-uk/` and
+`templates/invitation-email-uk/` ship with their `.dc.html` and their
+`ds-base.js`, but **not** `support.js` — that file is the Design Component
+runtime, it is ~69 KB, and it is byte-identical in all ten existing template
+folders. Copy it from any sibling:
 
-**V6 · Accessibility is asserted, not observed.** Every claim in the readme is
-code-level: focus rings are defined, targets are 44 px, contrast is computed. Nobody
-has tabbed through a template, run a screen reader over a chart's hidden data table,
-zoomed to 200 %, or opened a card in forced-colors mode.
-*Done when:* a keyboard walk and a screen-reader pass are completed on
-`qa/kitchen-sink.html` and two templates, with findings recorded.
+```bash
+cp templates/deck/support.js templates/deck-uk/support.js
+cp templates/report/support.js templates/pilot-report-uk/support.js
+cp templates/invitation-email/support.js templates/invitation-email-uk/support.js
+```
 
-### Required, lower risk
+Until then the three Ukrainian templates render correctly as HTML but are not
+editable as Design Components.
 
-**V7 · Website kit is an interpretation of a Wix site.** Its README says so honestly,
-which is the right interim position but not a 1.0 one. Either supply desktop and
-mobile screenshots (or a Figma file) for Home, Overview, Pilot Cities, News, a single
-news post and Contacts and rebuild against them — **or** formally accept the kit as
-an original design and stop describing it as a recreation.
+### 6 · Legacy flat assets are still in the tree
 
-**V8 · Website kit is missing surfaces the site has.** Present: Home, Overview,
-Pilots, News. Missing: single news post, Contacts (the form components now exist),
-Consortium/Partners, Work Packages, Publications, Events, 404 and a search-results
-state. No mobile or tablet rendering exists for any screen, and the site's real
-traffic is mobile-heavy.
-
-**V9 · The invitation email has never been sent.** HTML email fails in clients, not
-in browsers, and Outlook's Word rendering engine is where table layouts break. One
-send to Outlook, Gmail, Apple Mail and a phone client would settle it.
-
-**V10 · Office templates still diverge.** `.potx`/`.docx` keep Bahnschrift and
-Calibri while the web system uses Manrope and Roboto Condensed — both OFL and both
-embeddable. A 1.0 should either regenerate the three Office files against the system
-or state the freeze as permanent rather than as a review.
-
-**V11 · Cascadia Mono is 167 KB for token labels.** Three times the entire body
-family, for the least important role in the system. The options were measured: subset
-to ~15 KB and rename the face (OFL clause 3), or drop the self-hosted file and let
-`ui-monospace` carry it at zero. Both are defensible; carrying 167 KB indefinitely is
-the one that isn't.
-
-### Explicitly out of scope for 1.0
-
-Dark mode (decided against, reviewed September 2027) · additional chart types beyond
-the five · animation beyond hover and `prefers-reduced-motion` · a Figma library ·
-automated visual regression · `--ucan-yellow-alt` deletion (already scheduled for
-0.4.0).
-
-### Suggested sequencing
-
-| Phase | Items | Why first |
-|---|---|---|
-| 1 | V1, V5 | Both are single sessions and both can invalidate everything below |
-| 2 | V2, V4, V6 | Correctness failures in shipped artefacts |
-| 3 | V3 | The largest build, and it depends on V2's page geometry holding |
-| 4 | V7, V8, V9 | Kit completeness; V7 gates V8 |
-| 5 | V10, V11 | Cleanups that need a decision more than they need work |
-
-**Of the eleven, four need only your time (V1, V5, V6, V9), two need a decision
-(V10, V11), one needs material from you (V7), and four are build work (V2, V3, V4,
-V8).**
+`assets/logos/ucan-*.png`, `assets/logos/eu-funded-*.png` and
+`assets/logos/partners/` were superseded in 0.3.0 and nothing in the system
+points at them. 0.3.1 planned the deletion and it has not happened.
+`node tools/_link-check.mjs` is the gate: it reports zero `LEGACY` hits today, so
+the deletion is safe whenever someone wants the tidier tree.
 
 ---
 
@@ -211,20 +149,33 @@ V8).**
 
 | What | Why | When |
 |---|---|---|
-| Office templates keep Bahnschrift + Calibri | Re-flowing three binary templates is riskier than the gain | September 2027 |
+| Office templates keep Bahnschrift + Calibri | **Permanent as of 1.0.0.** Re-flowing three binary templates the consortium already uses risks more than it gains. Per-document procedure in `readme.md`. | Not scheduled |
 | Light-only colour system | Print-and-deck-led identity; revisit if the site gains photo-led surfaces | September 2027 |
-| `--ucan-yellow-alt` | Deprecated; nothing references it | Delete in v0.4.0 |
-| Website kit is an interpretation | Live site is a Wix build with no accessible design source | When screenshots or Figma arrive |
+| `--ucan-yellow-alt` | Deprecated; nothing references it | Delete in v1.1.0 |
+| Website kit surfaces (V8) | Six screens plus mobile renderings | v1.1.0 |
 | `source/` binaries | Kept as provenance for derived token claims | Reconsider if repo weight matters |
+
+---
+
+## Explicitly out of scope for 1.0
+
+Dark mode (decided against, reviewed September 2027) · chart types beyond the
+five · animation beyond hover and `prefers-reduced-motion` · a Figma library ·
+automated visual regression in CI.
 
 ---
 
 ## Before every release
 
 ```bash
-node tools/_contrast.mjs     # 43 pairings, re-derived from tokens/
-node tools/_link-check.mjs   # every src/href/url() and every var() resolved
+node tools/_contrast.mjs        # 45 pairings, re-derived from tokens/
+node tools/_link-check.mjs      # every src/href/url() and every var()
+node tools/_print-check.mjs     # an artboard must equal one sheet
+node tools/_overflow-check.mjs  # does the text fit the box it was given?
+node tools/_a11y-check.mjs      # axe + keyboard + 200% zoom + forced-colors
 ```
 
-Then open `qa/kitchen-sink.html`, screenshot it, and diff against the previous release.
+Then open the project in Claude Design, look at `qa/kitchen-sink.html`, and diff
+the screenshot against the previous release.
+
 **Numbers in this system are recomputed, not inherited.**

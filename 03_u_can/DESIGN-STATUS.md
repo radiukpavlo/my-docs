@@ -1,3 +1,11 @@
+> ## SUPERSEDED — historical record
+>
+> This described v0.3.0. The system is now **v1.0.0**; the current record is
+> [`FINALIZATION-TASKS.md`](FINALIZATION-TASKS.md), and print exports are in
+> [`U_CAN_Design/_derived_print/`](U_CAN_Design/_derived_print/).
+
+---
+
 # U_CAN Design System — status after v0.3.0
 
 **Date:** 14 September 2026
